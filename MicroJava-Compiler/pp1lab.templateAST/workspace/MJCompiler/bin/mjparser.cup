@@ -1,0 +1,301 @@
+package rs.ac.bg.etf.pp1;
+
+import java_cup.runtime.*;
+import org.apache.log4j.*;
+import java.io.*;
+import rs.ac.bg.etf.pp1.ast.*;
+
+
+parser code {:
+	
+	boolean errorDetected = false;
+	Logger log = Logger.getLogger(getClass());
+   
+   
+    // slede redefinisani metodi za prijavu gresaka radi izmene teksta poruke
+	
+	//kada ne mozemo da nastavimo dalje     
+    public void report_fatal_error(String message, Object info) throws java.lang.Exception {
+      done_parsing();
+      report_error(message, info);
+    }
+  
+  	//prijavljujemo gresku i nastavljamo dalje
+    public void syntax_error(Symbol cur_token) {
+        report_error("\nSintaksna greska", cur_token);
+    }
+  
+  	//ne mozemo da se oporavimo od greske
+    public void unrecovered_syntax_error(Symbol cur_token) throws java.lang.Exception {
+        report_fatal_error("Fatalna greska, parsiranje se ne moze nastaviti", cur_token);
+    }
+
+    public void report_error(String message, Object info) {
+    	errorDetected = true;
+    	StringBuilder msg = new StringBuilder(message); 
+    	if (info instanceof Symbol)
+            msg.append (" na liniji ").append(((Symbol)info).left);
+        log.error(msg.toString());
+    }
+    
+    public void report_info(String message, Object info) {
+    	StringBuilder msg = new StringBuilder(message); 
+    	if (info instanceof Symbol)
+            msg.append (" na liniji ").append(((Symbol)info).left);
+        log.info(msg.toString());
+    }
+    
+:}
+
+scan with {:
+	Symbol s = this.getScanner().next_token();
+	if (s != null && s.value != null) 
+		log.info(s.toString() + " " + s.value.toString());
+	return s;
+:}
+
+
+terminal PROGRAM, BREAK, CLASS, ELSE, IF, NEW, PRINT, READ, RETURN, VOID, DO, WHILE, EXTENDS, CONTINUE ;
+terminal String IDENT ; 
+terminal Integer NUMCONSTANT ;
+terminal Character CHARCONSTANT ;
+terminal BOOLCONSTANT ;
+terminal PLUS, MINUS, MUL, DIV, MOD, EQ, NEQ, LT, LTE, GT, GTE, AND, OR, ASSIGN, INC, DEC, SEMI, COMMA, DOT, LRBRACKET, RRBRACKET, LSBRACKET, RSBRACKET, LCBRACKET, RCBRACKET ;
+terminal CONST ;
+
+non terminal DeclarationList, DeclarationListElement ;
+non terminal ConstDecl, ConstChoice, ConstChoiceList ;
+non terminal VarDecl, OptionalBrackets ;
+non terminal ClassDecl, OptionalExtend, ClassBody, ClassVarDeclarations, OptionalMethodDeclarations;
+non terminal MethodDeclList ; 
+non terminal FormalParamList, FormalParamDecl ;
+non terminal StatementList, Statement, DesignatorStatement, Condition, OptionalElseStatement, OptionalExpression, OptionalNumConst ;
+non terminal DesignatorStatementBodyOptional, DesignatorList, OptionalActParams, ActParams ;
+non terminal CondTerm, CondFact, OptionalRelopExpr, OptionalMinus, OptionalOptionalActParams, OptionalBracketExpr ;
+non terminal Relop, Addop, Mulop ;
+
+non terminal Program, ProgName, Designator, MethodDecl, MethodTypeName; 
+non terminal Type, Term, Expr, Factor, VarDeclList; 
+non terminal OptionalFormParams, AddOpTermList ;
+
+precedence left ELSE;
+
+Program ::= (Program) PROGRAM ProgName DeclarationList LCBRACKET MethodDeclList RCBRACKET
+;
+
+ProgName ::= (ProgName) IDENT 
+;
+
+DeclarationList ::= (DeclarationListNotEmpty) DeclarationList DeclarationListElement
+					|
+					(DeclarationListEmpty) /* epsilon */
+					;
+
+DeclarationListElement ::= (DeclarationListConstElement) ConstDecl
+						   |
+						   (DeclarationListVarElement) VarDecl
+						   |
+						   (DeclarationListClassElement) ClassDecl
+						   ;
+						   
+ConstDecl ::= (ConstDecl) CONST Type IDENT ASSIGN ConstChoice ConstChoiceList SEMI
+;
+
+ConstChoice ::= (ConstChoiceNum) NUMCONSTANT 
+				|
+				(ConstChoiceChar) CHARCONSTANT
+				|
+				(ConstChoiceBool) BOOLCONSTANT
+				;
+
+ConstChoiceList ::= (ConstChoiceListNotEmpty) ConstChoiceList COMMA IDENT ASSIGN ConstChoice
+					|
+					(ConstChoiceListEmpty) /* epsilon */ 
+					;
+					
+VarDecl ::= (VarDecl) Type IDENT OptionalBrackets VarDeclList SEMI
+;
+
+
+OptionalBrackets ::= (Brackets) LSBRACKET RSBRACKET
+					 |
+					 (NoBrackets) /* epsilon */
+					 ;
+
+VarDeclList ::= (VarDeclListNotEmpty) VarDeclList COMMA IDENT OptionalBrackets 
+				|
+				(VarDeclListEmpty) /* epsilon */
+				;
+
+ClassDecl ::= (ClassDecl) CLASS IDENT OptionalExtend ClassBody
+;
+
+OptionalExtend ::= (OptionalExtendExists) EXTENDS Type
+				   |
+				   (OptionalExtendNotExist) /* epsilon */
+				   ;
+
+ClassBody ::= (ClassBody)  LCBRACKET ClassVarDeclarations OptionalMethodDeclarations RCBRACKET;
+
+ClassVarDeclarations ::= (ClassVarDeclarationsNotEmpty) ClassVarDeclarations VarDecl
+						 | 
+						 (ClassVarDeclarationEmpty) /* epsilon */
+						 ;
+						 
+OptionalMethodDeclarations ::= (OptionalMethodDeclarationsNotEmpty) LCBRACKET MethodDeclList RCBRACKET 
+							   |
+							   (OptionalMethodDeclarationsEmpty) /* epsilon */
+							   ;
+
+Type ::= (Type) IDENT
+;
+				   
+MethodDeclList ::= (MethodDeclarationsNotEmpty) MethodDeclList MethodDecl
+				   |
+				   (MethodDeclarationsEmpty)/* epsilon */
+				   ;
+
+MethodDecl ::= (MethodDecl) MethodTypeName IDENT 
+			   LRBRACKET OptionalFormParams RRBRACKET ClassVarDeclarations LCBRACKET StatementList RCBRACKET
+			   ;
+
+MethodTypeName ::= (MethodTypeNameNotVoid) IDENT 
+				   | 
+				   (MethodTypeNameVoid) VOID
+				   ;
+				   
+OptionalFormParams ::= (FormParamsNotEmpty) FormalParamList | (FormParamsEmpty) /* epsilon */ ;
+
+FormalParamList ::= (MultiFormalParamDeclarations) FormalParamList COMMA FormalParamDecl
+					|
+					(SingleFormalParamDeclaration) FormalParamDecl
+					;
+					
+FormalParamDecl ::= (FormalParamDecl) Type IDENT OptionalBrackets ;
+
+StatementList ::= (StatementListEmpty) StatementList Statement 
+					|
+				  (StatementListNotEmpty) /* epsilon */
+				  ;
+
+Statement ::= (DesigStatement) DesignatorStatement SEMI 
+			  | 
+			  (IfStatement) IF LRBRACKET Condition RRBRACKET Statement OptionalElseStatement
+			  |
+			  (DoStatement) DO Statement WHILE LRBRACKET Condition RRBRACKET SEMI
+			  |
+			  (BreakStatement) BREAK SEMI
+			  |
+			  (ContinueStatement) CONTINUE SEMI
+			  |
+			  (ReturnStatement) RETURN OptionalExpression SEMI
+			  |
+			  (ReadStatement) READ LRBRACKET Designator RRBRACKET SEMI
+			  |
+			  (PrintStatement) PRINT LRBRACKET Expr OptionalNumConst RRBRACKET SEMI
+			  |
+			  (ListStatement) LCBRACKET StatementList RCBRACKET
+			  ;
+
+OptionalElseStatement ::= (OptionalElseStatementNotEmpty) ELSE Statement 
+						  | 
+						  (OptionalElseStatementEmpty) /* epsilon */
+						  ;
+
+DesignatorStatement ::= (DesignatorStatementBody) Designator DesignatorStatementBodyOptional
+;
+
+Designator ::= (Designator) IDENT DesignatorList
+;
+
+DesignatorList ::= (DesignatorListNotEmptyIdent) DesignatorList DOT IDENT
+				   |
+				   (DesignatorListNotEmptyExpr) LSBRACKET Expr RSBRACKET
+				   |
+				   (DesignatorListEmpty) /* epsilon */
+				   ;
+				   
+DesignatorStatementBodyOptional ::= (DesignatorBodyExpression) ASSIGN Expr
+									|
+									(DesignatorBodyArguments) LRBRACKET OptionalActParams RRBRACKET
+									|
+									(DesignatorBodyInc) INC
+									|
+									(DesignatorBodyDec) DEC
+									;
+									
+		
+OptionalActParams ::= (OptionalActParamsNotEmpty) ActParams
+					  | 
+					  (OptionalActParamsEmpty) /* epsilon */
+					  ;
+					  
+ActParams ::= (ActParamsList) ActParams COMMA Expr
+			  | 
+			  (ActParam) Expr
+			  ;
+			  
+Condition ::= (ConditionList) Condition OR CondTerm
+			  |
+			  (ConditionTerm) CondTerm
+			  ;
+			  
+CondTerm ::= (CondTermList) CondTerm AND CondFact
+			 |
+			 (CondTermFact) CondFact
+			 ;
+			 
+CondFact ::= (CondFact) Expr OptionalRelopExpr
+;
+				
+
+OptionalRelopExpr ::= (OptionalRelopExprNotEmpty) Relop Expr
+					  |
+					  (OptionalRelopExprEmpty) /*epsilon*/
+					  ;
+
+Expr ::= OptionalMinus Term AddOpTermList 
+;
+	
+OptionalMinus ::= (OptionalMinusExists) MINUS
+				  |
+				  (OptionalMinusNotExists) /* epsilon */
+				  ;
+
+AddOpTermList ::= (AddOpTermListNotEmpty) AddOpTermList Addop Term
+				  |
+				  (AddOpTermListEmpty) /* epsilon */
+				  ;
+
+Term ::= (TermFactorList) Term Mulop Factor
+		 | 
+		 (TermFactor) Factor
+		 ;
+		 
+Factor ::= (FactorDesignator) Designator OptionalOptionalActParams 
+		   | 
+		   (NumConst) NUMCONSTANT
+		   |
+		   (CharConst) CHARCONSTANT
+		   |
+		   (BoolConst) BOOLCONSTANT 
+		   |
+		   (NewFactorExpr) NEW Type OptionalBracketExpr
+		   |
+		   (BracketFactorExpr) LRBRACKET Expr RRBRACKET
+		   ;
+		   
+OptionalBracketExpr ::= (OptionalBracketExprNotEmpty) LSBRACKET Expr RSBRACKET
+						|
+						(OptionalBracketExprEmpty) /* epsilon *////
+						;
+
+
+Relop ::= EQ | NEQ | LT | LTE | GT | GTE
+;
+
+Addop ::= PLUS | MINUS
+;
+
+Mulop ::= MUL | DIV | MOD
+;

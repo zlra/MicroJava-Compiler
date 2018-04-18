@@ -1,0 +1,40 @@
+INFO  00:21:25,279 - Compiling source file: C:\Users\User\Desktop\PP1_Projekat\MicroJava-Compiler\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:21:25,307 - #2 program
+INFO  00:21:25,307 - #16 MJProgram
+INFO  00:21:25,307 - #16 int
+INFO  00:21:25,308 - #16 x
+INFO  00:21:25,309 - #36 ;
+INFO  00:21:25,310 - #16 int
+INFO  00:21:25,311 - #16 y
+INFO  00:21:25,311 - #36 ;
+INFO  00:21:25,311 - #43 {
+INFO  00:21:25,311 - #16 int
+INFO  00:21:25,312 - #16 k
+INFO  00:21:25,312 - #39 (
+INFO  00:21:25,312 - #40 )
+INFO  00:21:25,313 - #16 int
+INFO  00:21:25,313 - #16 c
+INFO  00:21:25,313 - #36 ;
+INFO  00:21:25,313 - #43 {
+INFO  00:21:25,313 - #16 c
+INFO  00:21:25,314 - #33 =
+INFO  00:21:25,315 - #17 1
+INFO  00:21:25,317 - #36 ;
+INFO  00:21:25,318 - #44 }
+INFO  00:21:25,318 - #16 int
+INFO  00:21:25,355 - #16 main
+INFO  00:21:25,356 - #39 (
+INFO  00:21:25,356 - #40 )
+INFO  00:21:25,356 - #43 {
+INFO  00:21:25,356 - #16 y
+INFO  00:21:25,356 - #33 =
+INFO  00:21:25,356 - #17 2
+INFO  00:21:25,356 - #36 ;
+INFO  00:21:25,356 - #16 x
+INFO  00:21:25,356 - #33 =
+INFO  00:21:25,356 - #16 y
+INFO  00:21:25,356 - #20 +
+ERROR 00:21:25,357 - 
+Sintaksna greska na liniji 11
+ERROR 00:21:25,357 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 11
+INFO  00:21:25,357 - Print calls = 1000

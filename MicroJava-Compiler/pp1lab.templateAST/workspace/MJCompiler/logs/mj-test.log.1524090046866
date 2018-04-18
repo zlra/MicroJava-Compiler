@@ -1,0 +1,28 @@
+INFO  00:20:07,294 - Compiling source file: C:\Users\User\Desktop\PP1_Projekat\MicroJava-Compiler\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:20:07,928 - #2 program
+INFO  00:20:07,928 - #16 MJProgram
+INFO  00:20:07,928 - #16 int
+INFO  00:20:07,940 - #16 x
+INFO  00:20:07,941 - #36 ;
+INFO  00:20:07,958 - #16 int
+INFO  00:20:07,979 - #16 y
+INFO  00:20:07,979 - #36 ;
+INFO  00:20:07,979 - #43 {
+INFO  00:20:07,979 - #16 int
+INFO  00:20:07,989 - #16 k
+INFO  00:20:07,989 - #39 (
+INFO  00:20:07,989 - #40 )
+INFO  00:20:07,998 - #16 int
+INFO  00:20:08,004 - #16 c
+INFO  00:20:08,005 - #36 ;
+INFO  00:20:08,005 - #43 {
+INFO  00:20:08,005 - #16 c
+INFO  00:20:08,020 - #33 =
+INFO  00:20:08,034 - #17 1
+INFO  00:20:08,060 - #36 ;
+INFO  00:20:08,075 - #10 return
+INFO  00:20:08,076 - #16 c
+ERROR 00:20:08,076 - 
+Sintaksna greska na liniji 7
+ERROR 00:20:08,076 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 7
+INFO  00:20:08,076 - Print calls = 1000
