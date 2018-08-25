@@ -1,0 +1,55 @@
+INFO  17:30:46,850 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:30:46,890 - #2 program
+INFO  17:30:46,890 - #45 P
+INFO  17:30:46,890 - #16 const
+INFO  17:30:46,891 - #45 int
+INFO  17:30:46,891 - #45 ac
+INFO  17:30:46,892 - #30 =
+INFO  17:30:46,892 - #42 10
+INFO  17:30:46,892 - #33 ;
+INFO  17:30:46,892 - #45 int
+INFO  17:30:46,893 - #45 a
+INFO  17:30:46,893 - #33 ;
+INFO  17:30:46,894 - #45 bool
+INFO  17:30:46,894 - #45 b
+INFO  17:30:46,894 - #33 ;
+INFO  17:30:46,894 - #45 char
+INFO  17:30:46,894 - #45 c
+INFO  17:30:46,894 - #33 ;
+INFO  17:30:46,894 - #45 int
+INFO  17:30:46,895 - #45 niza
+INFO  17:30:46,895 - #38 [
+INFO  17:30:46,895 - #39 ]
+INFO  17:30:46,895 - #33 ;
+INFO  17:30:46,896 - #45 char
+INFO  17:30:46,896 - #45 nizb
+INFO  17:30:46,896 - #38 [
+INFO  17:30:46,896 - #39 ]
+INFO  17:30:46,896 - #33 ;
+INFO  17:30:46,896 - #45 bool
+INFO  17:30:46,896 - #45 nizc
+INFO  17:30:46,896 - #38 [
+INFO  17:30:46,896 - #39 ]
+INFO  17:30:46,896 - #33 ;
+INFO  17:30:46,896 - #40 {
+INFO  17:30:46,896 - #11 void
+INFO  17:30:46,896 - #45 funkcija1
+INFO  17:30:46,897 - #36 (
+INFO  17:30:46,897 - #37 )
+INFO  17:30:46,898 - #40 {
+INFO  17:30:46,898 - #45 c
+INFO  17:30:46,899 - #31 ++
+INFO  17:30:46,899 - #33 ;
+INFO  17:30:46,899 - #41 }
+INFO  17:30:46,899 - #11 void
+INFO  17:30:46,900 - #45 main
+INFO  17:30:46,900 - #36 (
+INFO  17:30:46,900 - #37 )
+INFO  17:30:46,900 - #40 {
+INFO  17:30:46,900 - #41 }
+INFO  17:30:46,900 - #41 }
+INFO  17:30:46,901 - Zavrseno parsiranje 
+
+
+ERROR 17:30:46,911 - Greska na liniji 13: Designator uz increment statement nije tipa int
+INFO  17:30:46,912 - Print calls = 0

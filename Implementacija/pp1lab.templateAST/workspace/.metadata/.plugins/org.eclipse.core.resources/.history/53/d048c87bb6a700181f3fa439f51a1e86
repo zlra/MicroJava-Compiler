@@ -1,0 +1,54 @@
+program test302
+
+
+int i;
+bool ibool;
+
+int niz[];
+{
+	int ret_bla() bool b;{
+		b = false;
+		if (b) {
+			print(false);
+			print('a');
+			return 1;
+		} else {
+			return 0;
+		}
+	}
+	void main()
+	{
+		do {
+			read(i);
+			if (i == 0) {
+				break;
+			}
+			
+			if (i % 3 == 0) {
+				if (i == 3) {
+					print('t');
+					print('r');
+					print('i');
+					print(eol);
+				} else if (i == 6) {
+					print('s');
+					print('e');
+					print('s');
+					print('t');
+					print(eol);
+				} else {
+					print('%');
+					print('3');
+					print(eol);
+				}
+			}
+			
+			do {
+				print(i);
+				print(eol);
+				i++;
+			
+			} while( i < 10);
+		} while (true);		
+	}
+}

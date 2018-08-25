@@ -1,0 +1,52 @@
+INFO  17:27:28,399 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:27:28,433 - #2 program
+INFO  17:27:28,434 - #45 P
+INFO  17:27:28,434 - #16 const
+INFO  17:27:28,435 - #45 int
+INFO  17:27:28,435 - #45 ac
+INFO  17:27:28,435 - #30 =
+INFO  17:27:28,435 - #42 10
+INFO  17:27:28,435 - #33 ;
+INFO  17:27:28,436 - #45 int
+INFO  17:27:28,436 - #45 a
+INFO  17:27:28,436 - #33 ;
+INFO  17:27:28,438 - #45 bool
+INFO  17:27:28,438 - #45 b
+INFO  17:27:28,438 - #33 ;
+INFO  17:27:28,438 - #45 char
+INFO  17:27:28,438 - #45 c
+INFO  17:27:28,438 - #33 ;
+INFO  17:27:28,438 - #45 int
+INFO  17:27:28,438 - #45 niza
+INFO  17:27:28,438 - #38 [
+INFO  17:27:28,438 - #39 ]
+INFO  17:27:28,438 - #33 ;
+INFO  17:27:28,439 - #45 char
+INFO  17:27:28,439 - #45 nizb
+INFO  17:27:28,439 - #38 [
+INFO  17:27:28,439 - #39 ]
+INFO  17:27:28,439 - #33 ;
+INFO  17:27:28,439 - #45 bool
+INFO  17:27:28,439 - #45 nizc
+INFO  17:27:28,439 - #38 [
+INFO  17:27:28,439 - #39 ]
+INFO  17:27:28,439 - #33 ;
+INFO  17:27:28,439 - #40 {
+INFO  17:27:28,440 - #11 void
+INFO  17:27:28,440 - #45 main
+INFO  17:27:28,440 - #36 (
+INFO  17:27:28,441 - #37 )
+INFO  17:27:28,441 - #40 {
+INFO  17:27:28,442 - #45 nizc
+INFO  17:27:28,442 - #38 [
+INFO  17:27:28,443 - #42 3
+INFO  17:27:28,443 - #39 ]
+INFO  17:27:28,444 - #30 =
+INFO  17:27:28,445 - #43 true
+INFO  17:27:28,445 - #33 ;
+INFO  17:27:28,445 - #41 }
+INFO  17:27:28,446 - #41 }
+INFO  17:27:28,447 - Zavrseno parsiranje 
+
+
+INFO  17:27:28,457 - Print calls = 0

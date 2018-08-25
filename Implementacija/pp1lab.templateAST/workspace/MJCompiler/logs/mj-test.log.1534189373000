@@ -1,0 +1,72 @@
+INFO  21:42:27,899 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:42:27,934 - #2 program
+INFO  21:42:27,934 - #45 P
+INFO  21:42:27,934 - #16 const
+INFO  21:42:27,935 - #45 int
+INFO  21:42:27,935 - #45 ac
+INFO  21:42:27,935 - #30 =
+INFO  21:42:27,935 - #42 10
+INFO  21:42:27,936 - #33 ;
+INFO  21:42:27,936 - #45 int
+INFO  21:42:27,936 - #45 a
+INFO  21:42:27,936 - #33 ;
+INFO  21:42:27,938 - #45 bool
+INFO  21:42:27,938 - #45 b
+INFO  21:42:27,938 - #33 ;
+INFO  21:42:27,938 - #45 char
+INFO  21:42:27,938 - #45 c
+INFO  21:42:27,938 - #33 ;
+INFO  21:42:27,938 - #45 int
+INFO  21:42:27,938 - #45 niza
+INFO  21:42:27,938 - #38 [
+INFO  21:42:27,938 - #39 ]
+INFO  21:42:27,938 - #33 ;
+INFO  21:42:27,939 - #45 char
+INFO  21:42:27,939 - #45 nizb
+INFO  21:42:27,939 - #38 [
+INFO  21:42:27,939 - #39 ]
+INFO  21:42:27,939 - #33 ;
+INFO  21:42:27,939 - #45 bool
+INFO  21:42:27,939 - #45 nizc
+INFO  21:42:27,939 - #38 [
+INFO  21:42:27,939 - #39 ]
+INFO  21:42:27,939 - #33 ;
+INFO  21:42:27,939 - #40 {
+INFO  21:42:27,939 - #45 int
+INFO  21:42:27,940 - #45 funkcija1
+INFO  21:42:27,940 - #36 (
+INFO  21:42:27,940 - #37 )
+INFO  21:42:27,941 - #40 {
+INFO  21:42:27,941 - #10 return
+INFO  21:42:27,941 - #42 1
+INFO  21:42:27,942 - #33 ;
+INFO  21:42:27,943 - #41 }
+INFO  21:42:27,943 - #11 void
+INFO  21:42:27,944 - #45 main
+INFO  21:42:27,944 - #36 (
+INFO  21:42:27,944 - #37 )
+INFO  21:42:27,944 - #40 {
+INFO  21:42:27,944 - #45 a
+INFO  21:42:27,944 - #30 =
+INFO  21:42:27,945 - #45 niza
+INFO  21:42:27,945 - #38 [
+INFO  21:42:27,945 - #42 1
+INFO  21:42:27,945 - #39 ]
+INFO  21:42:27,946 - #17 +
+INFO  21:42:27,946 - #45 funkcija1
+INFO  21:42:27,947 - #17 +
+INFO  21:42:27,947 - #42 2
+INFO  21:42:27,947 - #17 +
+INFO  21:42:27,947 - #45 ac
+INFO  21:42:27,949 - #33 ;
+INFO  21:42:27,949 - #41 }
+INFO  21:42:27,950 - #41 }
+INFO  21:42:27,950 - Zavrseno parsiranje 
+
+
+ERROR 21:42:27,961 - Greska na liniji 18: Identifikator u Factor Designatoru nije odgovarajuce vrste
+ERROR 21:42:27,961 - Greska na liniji 18: Faktor u izrazu nije tipa int.
+ERROR 21:42:27,961 - Greska na liniji 18: Faktor u izrazu nije tipa int.
+ERROR 21:42:27,961 - Greska na liniji 18: Faktor u izrazu nije tipa int.
+ERROR 21:42:27,961 - Greska na liniji 18: Nekompatibilne vrednosti pri iskazu dodele 
+INFO  21:42:27,961 - Print calls = 0

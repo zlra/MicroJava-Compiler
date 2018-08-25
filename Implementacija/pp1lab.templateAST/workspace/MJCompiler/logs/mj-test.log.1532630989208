@@ -1,0 +1,45 @@
+INFO  20:49:39,054 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:49:39,085 - #2 program
+INFO  20:49:39,085 - #45 P
+INFO  20:49:39,085 - #16 const
+INFO  20:49:39,086 - #45 int
+INFO  20:49:39,086 - #45 a
+INFO  20:49:39,086 - #30 =
+INFO  20:49:39,086 - #42 10
+INFO  20:49:39,086 - #33 ;
+INFO  20:49:39,087 - #16 const
+INFO  20:49:39,087 - #45 int
+INFO  20:49:39,087 - #45 b
+INFO  20:49:39,087 - #30 =
+INFO  20:49:39,087 - #42 5
+INFO  20:49:39,087 - #34 ,
+INFO  20:49:39,088 - #45 c
+INFO  20:49:39,088 - #30 =
+INFO  20:49:39,088 - #42 7
+INFO  20:49:39,088 - #33 ;
+INFO  20:49:39,088 - #45 int
+INFO  20:49:39,088 - #45 aa
+INFO  20:49:39,088 - #33 ;
+INFO  20:49:39,089 - #40 {
+INFO  20:49:39,090 - #11 void
+INFO  20:49:39,090 - #45 main
+INFO  20:49:39,090 - #36 (
+INFO  20:49:39,090 - #37 )
+INFO  20:49:39,091 - #40 {
+INFO  20:49:39,092 - #10 return
+INFO  20:49:39,092 - #33 ;
+INFO  20:49:39,092 - #41 }
+INFO  20:49:39,093 - #45 int
+INFO  20:49:39,094 - #45 fuckyouthunder
+INFO  20:49:39,094 - #36 (
+INFO  20:49:39,094 - #37 )
+INFO  20:49:39,094 - #40 {
+INFO  20:49:39,094 - #10 return
+INFO  20:49:39,094 - #42 4
+INFO  20:49:39,095 - #33 ;
+INFO  20:49:39,095 - #41 }
+INFO  20:49:39,096 - #41 }
+INFO  20:49:39,096 - Zavrseno parsiranje 
+
+
+INFO  20:49:39,106 - Print calls = 0

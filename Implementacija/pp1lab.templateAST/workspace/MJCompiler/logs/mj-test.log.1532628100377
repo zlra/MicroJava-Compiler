@@ -1,0 +1,37 @@
+INFO  20:01:29,791 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:01:29,833 - #2 program
+INFO  20:01:29,833 - #45 P
+INFO  20:01:29,833 - #45 char
+INFO  20:01:29,834 - #45 x
+INFO  20:01:29,835 - #34 ,
+INFO  20:01:29,836 - #45 y
+INFO  20:01:29,836 - #34 ,
+INFO  20:01:29,836 - #45 z
+INFO  20:01:29,836 - #33 ;
+INFO  20:01:29,837 - #16 const
+INFO  20:01:29,837 - #45 int
+INFO  20:01:29,837 - #45 a
+INFO  20:01:29,837 - #30 =
+INFO  20:01:29,837 - #42 10
+INFO  20:01:29,837 - #33 ;
+INFO  20:01:29,838 - #40 {
+INFO  20:01:29,838 - #11 void
+INFO  20:01:29,839 - #45 main
+INFO  20:01:29,840 - #36 (
+INFO  20:01:29,840 - #37 )
+INFO  20:01:29,840 - #40 {
+INFO  20:01:29,841 - #10 return
+INFO  20:01:29,841 - #33 ;
+INFO  20:01:29,841 - #41 }
+INFO  20:01:29,842 - #45 int
+INFO  20:01:29,844 - #45 fuckyouthunder
+INFO  20:01:29,844 - #36 (
+INFO  20:01:29,844 - #37 )
+INFO  20:01:29,844 - #40 {
+INFO  20:01:29,844 - #41 }
+INFO  20:01:29,844 - #41 }
+INFO  20:01:29,845 - Zavrseno parsiranje 
+
+
+INFO  20:01:29,858 - Greska na liniji 10: Metoda nije void a ne postoji return naredba
+INFO  20:01:29,858 - Print calls = 0

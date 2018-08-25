@@ -1,0 +1,11 @@
+program oporavak4
+	const int a = 1;
+	const int b = 2;
+	
+{
+	void main() {
+		if ( || a < b) {
+			print(2);
+		}
+	}
+}

@@ -1,0 +1,77 @@
+INFO  21:30:54,338 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:30:54,372 - #2 program
+INFO  21:30:54,372 - #45 P
+INFO  21:30:54,372 - #16 const
+INFO  21:30:54,373 - #45 int
+INFO  21:30:54,373 - #45 a
+INFO  21:30:54,373 - #30 =
+INFO  21:30:54,373 - #42 10
+INFO  21:30:54,373 - #33 ;
+INFO  21:30:54,374 - #16 const
+INFO  21:30:54,374 - #45 int
+INFO  21:30:54,374 - #45 b
+INFO  21:30:54,374 - #30 =
+INFO  21:30:54,374 - #42 5
+INFO  21:30:54,375 - #34 ,
+INFO  21:30:54,375 - #45 c
+INFO  21:30:54,375 - #30 =
+INFO  21:30:54,375 - #42 7
+INFO  21:30:54,375 - #33 ;
+INFO  21:30:54,375 - #45 char
+INFO  21:30:54,375 - #45 aaa
+INFO  21:30:54,383 - #34 ,
+INFO  21:30:54,384 - #45 bbb
+INFO  21:30:54,384 - #34 ,
+INFO  21:30:54,384 - #45 ccc
+INFO  21:30:54,384 - #33 ;
+INFO  21:30:54,385 - #45 int
+INFO  21:30:54,385 - #45 aa
+INFO  21:30:54,385 - #33 ;
+INFO  21:30:54,385 - #45 int
+INFO  21:30:54,385 - #45 l
+INFO  21:30:54,385 - #38 [
+INFO  21:30:54,385 - #39 ]
+INFO  21:30:54,385 - #34 ,
+INFO  21:30:54,386 - #45 k
+INFO  21:30:54,386 - #34 ,
+INFO  21:30:54,386 - #45 j
+INFO  21:30:54,386 - #38 [
+INFO  21:30:54,386 - #39 ]
+INFO  21:30:54,386 - #33 ;
+INFO  21:30:54,386 - #40 {
+INFO  21:30:54,386 - #11 void
+INFO  21:30:54,387 - #45 main
+INFO  21:30:54,387 - #36 (
+INFO  21:30:54,387 - #37 )
+INFO  21:30:54,388 - #40 {
+INFO  21:30:54,388 - #10 return
+INFO  21:30:54,389 - #33 ;
+INFO  21:30:54,389 - #41 }
+INFO  21:30:54,389 - #45 int
+INFO  21:30:54,390 - #45 fuckyouthunder
+INFO  21:30:54,390 - #36 (
+INFO  21:30:54,390 - #45 int
+INFO  21:30:54,390 - #45 a
+INFO  21:30:54,390 - #34 ,
+INFO  21:30:54,391 - #45 char
+INFO  21:30:54,391 - #45 b
+INFO  21:30:54,391 - #37 )
+INFO  21:30:54,391 - #40 {
+INFO  21:30:54,391 - #45 aaaaa
+INFO  21:30:54,393 - #38 [
+INFO  21:30:54,393 - #42 2
+INFO  21:30:54,394 - #39 ]
+INFO  21:30:54,394 - #30 =
+INFO  21:30:54,395 - #42 5
+INFO  21:30:54,395 - #33 ;
+INFO  21:30:54,396 - #10 return
+INFO  21:30:54,396 - #42 2
+INFO  21:30:54,396 - #33 ;
+INFO  21:30:54,396 - #41 }
+INFO  21:30:54,396 - #41 }
+INFO  21:30:54,397 - Zavrseno parsiranje 
+
+
+ERROR 21:30:54,406 - Greska na liniji 14: Identifikator aaaaa ne postoji u tabeli simbola
+ERROR 21:30:54,406 - Greska na liniji 7:  nije niz.
+INFO  21:30:54,406 - Print calls = 0

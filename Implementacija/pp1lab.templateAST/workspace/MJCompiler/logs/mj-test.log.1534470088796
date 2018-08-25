@@ -1,0 +1,28 @@
+INFO  03:40:34,860 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  03:40:34,902 - #2 program
+INFO  03:40:34,902 - #45 Prog
+INFO  03:40:34,902 - #45 int
+INFO  03:40:34,903 - #45 a
+INFO  03:40:34,904 - #33 ;
+INFO  03:40:34,905 - #40 {
+INFO  03:40:34,906 - #11 void
+INFO  03:40:34,906 - #45 main
+INFO  03:40:34,906 - #36 (
+INFO  03:40:34,907 - #37 )
+INFO  03:40:34,907 - #40 {
+INFO  03:40:34,908 - #45 a
+INFO  03:40:34,908 - #30 =
+INFO  03:40:34,909 - #42 2
+INFO  03:40:34,910 - #17 +
+INFO  03:40:34,911 - #42 4
+INFO  03:40:34,912 - #18 -
+INFO  03:40:34,912 - #42 1
+INFO  03:40:34,912 - #33 ;
+INFO  03:40:34,913 - #41 }
+INFO  03:40:34,922 - #41 }
+INFO  03:40:34,923 - Zavrseno parsiranje 
+
+
+INFO  03:40:34,933 - Print calls = 0
+INFO  03:40:34,934 - Generating bytecode file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  03:40:34,937 - Parsiranje uspesno zavrseno!

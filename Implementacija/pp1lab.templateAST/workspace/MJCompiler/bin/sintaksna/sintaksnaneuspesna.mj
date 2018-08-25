@@ -1,0 +1,31 @@
+program rz140030d
+
+int niz[];
+int x,,z;
+{
+	void ispisiNiz(int niz[]) int i; {
+		i = 0;
+		do {
+			print(niz[i]);
+			i++;
+		} while (i < len(niz));
+	}
+
+	void main() int x; {
+		niz = new int[10];
+	
+		if (1 > 0 || ) {
+			ispisiNiz(niz);
+		} else {
+			print('g');
+		}
+		
+		read(x);
+		
+		x++;
+		
+		print(x+=2);
+		
+		return;
+	}
+}

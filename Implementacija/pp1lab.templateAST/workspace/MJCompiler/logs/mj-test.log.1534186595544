@@ -1,0 +1,61 @@
+INFO  20:55:43,076 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:55:43,123 - #2 program
+INFO  20:55:43,123 - #45 P
+INFO  20:55:43,123 - #16 const
+INFO  20:55:43,124 - #45 int
+INFO  20:55:43,124 - #45 ac
+INFO  20:55:43,125 - #30 =
+INFO  20:55:43,125 - #42 10
+INFO  20:55:43,125 - #33 ;
+INFO  20:55:43,126 - #45 int
+INFO  20:55:43,126 - #45 a
+INFO  20:55:43,126 - #33 ;
+INFO  20:55:43,128 - #45 bool
+INFO  20:55:43,128 - #45 b
+INFO  20:55:43,128 - #33 ;
+INFO  20:55:43,128 - #45 char
+INFO  20:55:43,128 - #45 c
+INFO  20:55:43,128 - #33 ;
+INFO  20:55:43,129 - #45 int
+INFO  20:55:43,129 - #45 niza
+INFO  20:55:43,129 - #38 [
+INFO  20:55:43,131 - #39 ]
+INFO  20:55:43,131 - #33 ;
+INFO  20:55:43,131 - #45 char
+INFO  20:55:43,131 - #45 nizb
+INFO  20:55:43,131 - #38 [
+INFO  20:55:43,131 - #39 ]
+INFO  20:55:43,131 - #33 ;
+INFO  20:55:43,132 - #45 bool
+INFO  20:55:43,132 - #45 nizc
+INFO  20:55:43,132 - #38 [
+INFO  20:55:43,132 - #39 ]
+INFO  20:55:43,132 - #33 ;
+INFO  20:55:43,132 - #40 {
+INFO  20:55:43,132 - #45 int
+INFO  20:55:43,132 - #45 funkcija1
+INFO  20:55:43,133 - #36 (
+INFO  20:55:43,133 - #37 )
+INFO  20:55:43,134 - #40 {
+INFO  20:55:43,134 - #10 return
+INFO  20:55:43,135 - #42 1
+INFO  20:55:43,136 - #33 ;
+INFO  20:55:43,137 - #41 }
+INFO  20:55:43,137 - #11 void
+INFO  20:55:43,139 - #45 main
+INFO  20:55:43,139 - #36 (
+INFO  20:55:43,139 - #37 )
+INFO  20:55:43,139 - #40 {
+INFO  20:55:43,140 - #8 print
+INFO  20:55:43,140 - #36 (
+INFO  20:55:43,140 - #45 funkcija1
+INFO  20:55:43,140 - #37 )
+INFO  20:55:43,141 - #33 ;
+INFO  20:55:43,141 - #41 }
+INFO  20:55:43,141 - #41 }
+INFO  20:55:43,142 - Zavrseno parsiranje 
+
+
+ERROR 20:56:10,035 - Greska na liniji 18: Identifikator u Factor Designatoru nije odgovarajuce vrste
+ERROR 20:56:13,673 - Greska na liniji 7: Iskaz u print naredbi nije ni int, ni char, ni bool
+INFO  20:56:13,673 - Print calls = 0

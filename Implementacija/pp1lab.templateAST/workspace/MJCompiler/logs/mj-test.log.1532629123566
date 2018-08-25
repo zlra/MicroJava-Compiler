@@ -1,0 +1,54 @@
+INFO  20:14:58,904 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:14:58,936 - #2 program
+INFO  20:14:58,937 - #45 P
+INFO  20:14:58,937 - #45 char
+INFO  20:14:58,937 - #45 x
+INFO  20:14:58,938 - #34 ,
+INFO  20:14:58,939 - #45 y
+INFO  20:14:58,939 - #34 ,
+INFO  20:14:58,939 - #45 z
+INFO  20:14:58,939 - #33 ;
+INFO  20:14:58,939 - #16 const
+INFO  20:14:58,940 - #45 int
+INFO  20:14:58,940 - #45 a
+INFO  20:14:58,940 - #30 =
+INFO  20:14:58,940 - #42 10
+INFO  20:14:58,940 - #33 ;
+INFO  20:14:58,940 - #16 const
+INFO  20:14:58,941 - #45 int
+INFO  20:14:58,941 - #45 b
+INFO  20:14:58,941 - #30 =
+INFO  20:14:58,941 - #42 5
+INFO  20:14:58,949 - #34 ,
+INFO  20:14:58,949 - #45 c
+INFO  20:14:58,949 - #30 =
+INFO  20:14:58,949 - #42 7
+INFO  20:14:58,949 - #34 ,
+INFO  20:14:58,949 - #45 d
+INFO  20:14:58,949 - #30 =
+INFO  20:14:58,949 - #44 'a'
+INFO  20:14:58,949 - #33 ;
+INFO  20:14:58,950 - #40 {
+INFO  20:14:58,950 - #11 void
+INFO  20:14:58,950 - #45 main
+INFO  20:14:58,951 - #36 (
+INFO  20:14:58,951 - #37 )
+INFO  20:14:58,951 - #40 {
+INFO  20:14:58,951 - #10 return
+INFO  20:14:58,952 - #33 ;
+INFO  20:14:58,952 - #41 }
+INFO  20:14:58,952 - #45 int
+INFO  20:14:58,953 - #45 fuckyouthunder
+INFO  20:14:58,953 - #36 (
+INFO  20:14:58,953 - #37 )
+INFO  20:14:58,953 - #40 {
+INFO  20:14:58,953 - #10 return
+INFO  20:14:58,953 - #42 4
+INFO  20:14:58,954 - #33 ;
+INFO  20:14:58,955 - #41 }
+INFO  20:14:58,955 - #41 }
+INFO  20:14:58,955 - Zavrseno parsiranje 
+
+
+ERROR 20:14:58,964 - Greska na liniji 0: Pogresan tip pri dodeli vrednosti konstanti.
+INFO  20:14:58,964 - Print calls = 0

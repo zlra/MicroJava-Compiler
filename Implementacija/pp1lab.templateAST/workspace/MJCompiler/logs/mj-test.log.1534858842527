@@ -1,0 +1,63 @@
+INFO  15:40:24,126 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:40:24,162 - #2 program
+INFO  15:40:24,163 - #45 test301
+INFO  15:40:24,163 - #45 int
+INFO  15:40:24,163 - #45 niza
+INFO  15:40:24,164 - #38 [
+INFO  15:40:24,164 - #39 ]
+INFO  15:40:24,164 - #34 ,
+INFO  15:40:24,165 - #45 nizb
+INFO  15:40:24,165 - #38 [
+INFO  15:40:24,165 - #39 ]
+INFO  15:40:24,165 - #33 ;
+INFO  15:40:24,166 - #45 int
+INFO  15:40:24,166 - #45 nizc
+INFO  15:40:24,166 - #38 [
+INFO  15:40:24,166 - #39 ]
+INFO  15:40:24,166 - #33 ;
+INFO  15:40:24,166 - #45 int
+INFO  15:40:24,166 - #45 a
+INFO  15:40:24,166 - #34 ,
+INFO  15:40:24,167 - #45 b
+INFO  15:40:24,167 - #33 ;
+INFO  15:40:24,167 - #40 {
+INFO  15:40:24,167 - #45 int
+INFO  15:40:24,168 - #45 funkcija
+INFO  15:40:24,168 - #36 (
+INFO  15:40:24,168 - #45 int
+INFO  15:40:24,168 - #45 x
+INFO  15:40:24,168 - #34 ,
+INFO  15:40:24,169 - #45 int
+INFO  15:40:24,169 - #45 y
+INFO  15:40:24,169 - #37 )
+INFO  15:40:24,169 - #40 {
+INFO  15:40:24,169 - #45 x
+INFO  15:40:24,170 - #31 ++
+INFO  15:40:24,170 - #33 ;
+INFO  15:40:24,170 - #45 y
+INFO  15:40:24,171 - #32 --
+INFO  15:40:24,171 - #33 ;
+INFO  15:40:24,171 - #10 return
+INFO  15:40:24,171 - #42 2
+INFO  15:40:24,172 - #33 ;
+INFO  15:40:24,172 - #41 }
+INFO  15:40:24,172 - #11 void
+INFO  15:40:24,173 - #45 main
+INFO  15:40:24,174 - #36 (
+INFO  15:40:24,174 - #37 )
+INFO  15:40:24,174 - #40 {
+INFO  15:40:24,174 - #45 funkcija
+INFO  15:40:24,174 - #36 (
+INFO  15:40:24,174 - #37 )
+INFO  15:40:24,175 - #33 ;
+INFO  15:40:24,175 - #41 }
+INFO  15:40:24,175 - #41 }
+INFO  15:40:24,176 - Zavrseno parsiranje 
+
+
+INFO  15:40:24,186 - Detektovana upotreba lokalne promenljive x na liniji 7
+INFO  15:40:24,186 - Detektovana upotreba lokalne promenljive y na liniji 8
+INFO  15:40:24,186 - Detektovana upotreba globalne metode funkcija na liniji 14
+ERROR 15:40:24,186 - Greska na liniji 0: Pri pozivu nisu prosledjeni argumenti metode a ona ima parametre
+INFO  15:40:24,187 - Print calls = 0
+ERROR 15:40:24,187 - Parsiranje NIJE uspesno zavrseno!

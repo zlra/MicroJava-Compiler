@@ -1,0 +1,62 @@
+INFO  15:53:59,926 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:53:59,964 - #2 program
+INFO  15:53:59,964 - #45 P
+INFO  15:53:59,964 - #16 const
+INFO  15:53:59,965 - #45 int
+INFO  15:53:59,966 - #45 a
+INFO  15:53:59,966 - #30 =
+INFO  15:53:59,966 - #42 10
+INFO  15:53:59,966 - #34 ,
+INFO  15:53:59,967 - #45 c
+INFO  15:53:59,967 - #30 =
+INFO  15:53:59,967 - #42 4
+INFO  15:53:59,967 - #33 ;
+INFO  15:53:59,968 - #16 const
+INFO  15:53:59,969 - #45 char
+INFO  15:53:59,969 - #45 d
+INFO  15:53:59,969 - #30 =
+INFO  15:53:59,969 - #44 'a'
+INFO  15:53:59,969 - #33 ;
+INFO  15:53:59,970 - #16 const
+INFO  15:53:59,970 - #45 bool
+INFO  15:53:59,973 - #45 e
+INFO  15:53:59,973 - #30 =
+INFO  15:53:59,973 - #43 true
+INFO  15:53:59,973 - #34 ,
+INFO  15:53:59,974 - #45 f
+INFO  15:53:59,974 - #30 =
+INFO  15:53:59,974 - #43 false
+INFO  15:53:59,974 - #33 ;
+INFO  15:53:59,974 - #45 int
+INFO  15:53:59,974 - #45 aa
+INFO  15:53:59,974 - #33 ;
+INFO  15:53:59,976 - #45 int
+INFO  15:53:59,976 - #45 bb
+INFO  15:53:59,976 - #30 =
+ERROR 15:53:59,977 - 
+Sintaksna greska na liniji 6
+INFO  15:53:59,977 - #42 10
+INFO  15:53:59,977 - #33 ;
+INFO  15:53:59,977 - #45 char
+INFO  15:53:59,977 - #45 cc
+INFO  15:53:59,977 - #33 ;
+ERROR 15:53:59,977 - Greska pri definiciji globalne promenljive na liniji 6
+INFO  15:53:59,978 - #45 bool
+INFO  15:53:59,978 - #45 dd
+INFO  15:53:59,978 - #33 ;
+INFO  15:53:59,978 - #40 {
+INFO  15:53:59,978 - #11 void
+INFO  15:53:59,979 - #45 main
+INFO  15:53:59,979 - #36 (
+INFO  15:53:59,980 - #37 )
+INFO  15:53:59,980 - #40 {
+INFO  15:53:59,981 - #45 a
+INFO  15:53:59,981 - #30 =
+INFO  15:53:59,982 - #42 13
+INFO  15:53:59,982 - #33 ;
+INFO  15:53:59,983 - #41 }
+INFO  15:53:59,984 - #41 }
+INFO  15:53:59,985 - Zavrseno parsiranje 
+
+
+INFO  15:53:59,995 - Print calls = 0

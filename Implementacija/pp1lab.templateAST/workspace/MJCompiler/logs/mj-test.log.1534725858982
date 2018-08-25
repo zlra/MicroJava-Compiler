@@ -1,0 +1,60 @@
+INFO  02:43:48,454 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  02:43:48,497 - #2 program
+INFO  02:43:48,497 - #45 test301
+INFO  02:43:48,497 - #16 const
+INFO  02:43:48,498 - #45 int
+INFO  02:43:48,498 - #45 jedan
+INFO  02:43:48,499 - #30 =
+INFO  02:43:48,499 - #42 1
+INFO  02:43:48,499 - #33 ;
+INFO  02:43:48,499 - #16 const
+INFO  02:43:48,500 - #45 int
+INFO  02:43:48,500 - #45 pet
+INFO  02:43:48,500 - #30 =
+INFO  02:43:48,500 - #42 5
+INFO  02:43:48,500 - #33 ;
+INFO  02:43:48,500 - #45 int
+INFO  02:43:48,500 - #45 niz
+INFO  02:43:48,500 - #38 [
+INFO  02:43:48,500 - #39 ]
+INFO  02:43:48,500 - #33 ;
+INFO  02:43:48,502 - #45 char
+INFO  02:43:48,502 - #45 nizch
+INFO  02:43:48,502 - #38 [
+INFO  02:43:48,502 - #39 ]
+INFO  02:43:48,502 - #33 ;
+INFO  02:43:48,502 - #40 {
+INFO  02:43:48,502 - #45 int
+INFO  02:43:48,503 - #45 funkcija
+INFO  02:43:48,503 - #36 (
+INFO  02:43:48,504 - #45 int
+INFO  02:43:48,504 - #45 a
+INFO  02:43:48,504 - #34 ,
+INFO  02:43:48,504 - #45 char
+INFO  02:43:48,504 - #45 b
+INFO  02:43:48,504 - #37 )
+INFO  02:43:48,505 - #40 {
+INFO  02:43:48,505 - #10 return
+INFO  02:43:48,506 - #42 2
+INFO  02:43:48,506 - #33 ;
+INFO  02:43:48,507 - #41 }
+INFO  02:43:48,507 - #11 void
+INFO  02:43:48,508 - #45 main
+INFO  02:43:48,509 - #36 (
+INFO  02:43:48,509 - #37 )
+INFO  02:43:48,509 - #45 int
+INFO  02:43:48,509 - #45 bodovi
+INFO  02:43:48,509 - #33 ;
+INFO  02:43:48,509 - #40 {
+INFO  02:43:48,510 - #45 funkcija
+INFO  02:43:48,510 - #36 (
+INFO  02:43:48,511 - #37 )
+INFO  02:43:48,511 - #33 ;
+INFO  02:43:48,511 - #41 }
+INFO  02:43:48,512 - #41 }
+INFO  02:43:48,512 - Zavrseno parsiranje 
+
+
+INFO  02:43:48,540 - Detektovana upotreba globalne metode funkcija na liniji 18
+INFO  02:43:48,540 - Print calls = 0
+INFO  02:43:48,541 - Generating bytecode file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.obj

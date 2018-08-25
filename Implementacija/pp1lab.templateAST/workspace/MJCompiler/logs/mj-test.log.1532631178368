@@ -1,0 +1,49 @@
+INFO  20:52:24,044 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:52:24,081 - #2 program
+INFO  20:52:24,081 - #45 P
+INFO  20:52:24,081 - #16 const
+INFO  20:52:24,082 - #45 int
+INFO  20:52:24,082 - #45 a
+INFO  20:52:24,083 - #30 =
+INFO  20:52:24,083 - #42 10
+INFO  20:52:24,083 - #33 ;
+INFO  20:52:24,084 - #16 const
+INFO  20:52:24,084 - #45 int
+INFO  20:52:24,084 - #45 b
+INFO  20:52:24,084 - #30 =
+INFO  20:52:24,084 - #42 5
+INFO  20:52:24,084 - #34 ,
+INFO  20:52:24,085 - #45 c
+INFO  20:52:24,085 - #30 =
+INFO  20:52:24,085 - #42 7
+INFO  20:52:24,085 - #33 ;
+INFO  20:52:24,085 - #45 char
+INFO  20:52:24,085 - #45 aaa
+INFO  20:52:24,085 - #34 ,
+INFO  20:52:24,086 - #45 bbb
+INFO  20:52:24,086 - #34 ,
+INFO  20:52:24,087 - #45 ccc
+INFO  20:52:24,087 - #33 ;
+INFO  20:52:24,087 - #40 {
+INFO  20:52:24,087 - #11 void
+INFO  20:52:24,088 - #45 main
+INFO  20:52:24,088 - #36 (
+INFO  20:52:24,088 - #37 )
+INFO  20:52:24,088 - #40 {
+INFO  20:52:24,089 - #10 return
+INFO  20:52:24,089 - #33 ;
+INFO  20:52:24,089 - #41 }
+INFO  20:52:24,090 - #45 int
+INFO  20:52:24,090 - #45 fuckyouthunder
+INFO  20:52:24,091 - #36 (
+INFO  20:52:24,091 - #37 )
+INFO  20:52:24,091 - #40 {
+INFO  20:52:24,091 - #10 return
+INFO  20:52:24,091 - #42 4
+INFO  20:52:24,091 - #33 ;
+INFO  20:52:24,092 - #41 }
+INFO  20:52:24,092 - #41 }
+INFO  20:52:24,093 - Zavrseno parsiranje 
+
+
+INFO  20:52:24,102 - Print calls = 0

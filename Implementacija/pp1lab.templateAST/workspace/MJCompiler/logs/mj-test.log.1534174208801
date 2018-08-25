@@ -1,0 +1,56 @@
+INFO  17:27:51,007 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:27:51,045 - #2 program
+INFO  17:27:51,045 - #45 P
+INFO  17:27:51,045 - #16 const
+INFO  17:27:51,046 - #45 int
+INFO  17:27:51,046 - #45 ac
+INFO  17:27:51,046 - #30 =
+INFO  17:27:51,046 - #42 10
+INFO  17:27:51,046 - #33 ;
+INFO  17:27:51,047 - #45 int
+INFO  17:27:51,047 - #45 a
+INFO  17:27:51,047 - #33 ;
+INFO  17:27:51,048 - #45 bool
+INFO  17:27:51,049 - #45 b
+INFO  17:27:51,049 - #33 ;
+INFO  17:27:51,049 - #45 char
+INFO  17:27:51,049 - #45 c
+INFO  17:27:51,049 - #33 ;
+INFO  17:27:51,049 - #45 int
+INFO  17:27:51,049 - #45 niza
+INFO  17:27:51,049 - #38 [
+INFO  17:27:51,049 - #39 ]
+INFO  17:27:51,049 - #33 ;
+INFO  17:27:51,050 - #45 char
+INFO  17:27:51,050 - #45 nizb
+INFO  17:27:51,050 - #38 [
+INFO  17:27:51,050 - #39 ]
+INFO  17:27:51,050 - #33 ;
+INFO  17:27:51,050 - #45 bool
+INFO  17:27:51,050 - #45 nizc
+INFO  17:27:51,050 - #38 [
+INFO  17:27:51,050 - #39 ]
+INFO  17:27:51,050 - #33 ;
+INFO  17:27:51,050 - #40 {
+INFO  17:27:51,051 - #11 void
+INFO  17:27:51,051 - #45 main
+INFO  17:27:51,051 - #36 (
+INFO  17:27:51,052 - #37 )
+INFO  17:27:51,052 - #40 {
+INFO  17:27:51,053 - #45 nizc
+INFO  17:27:51,053 - #38 [
+INFO  17:27:51,054 - #42 2
+INFO  17:27:51,054 - #39 ]
+INFO  17:27:51,055 - #38 [
+INFO  17:27:51,055 - #42 3
+INFO  17:27:51,055 - #39 ]
+INFO  17:27:51,055 - #30 =
+INFO  17:27:51,056 - #43 true
+INFO  17:27:51,056 - #33 ;
+INFO  17:27:51,057 - #41 }
+INFO  17:27:51,057 - #41 }
+INFO  17:27:51,059 - Zavrseno parsiranje 
+
+
+ERROR 17:27:51,071 - Greska na liniji 12: Dodela vrednosti elementu visedimenzionalnog niza
+INFO  17:27:51,072 - Print calls = 0

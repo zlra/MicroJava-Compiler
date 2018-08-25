@@ -1,0 +1,67 @@
+INFO  13:03:54,888 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  13:03:54,922 - #2 program
+INFO  13:03:54,922 - #45 P
+INFO  13:03:54,922 - #16 const
+INFO  13:03:54,923 - #45 int
+INFO  13:03:54,923 - #45 ac
+INFO  13:03:54,924 - #30 =
+INFO  13:03:54,924 - #42 10
+INFO  13:03:54,924 - #33 ;
+INFO  13:03:54,924 - #45 int
+INFO  13:03:54,925 - #45 a
+INFO  13:03:54,925 - #33 ;
+INFO  13:03:54,927 - #45 bool
+INFO  13:03:54,927 - #45 b
+INFO  13:03:54,927 - #33 ;
+INFO  13:03:54,927 - #45 char
+INFO  13:03:54,927 - #45 c
+INFO  13:03:54,927 - #33 ;
+INFO  13:03:54,927 - #45 int
+INFO  13:03:54,928 - #45 niza
+INFO  13:03:54,928 - #38 [
+INFO  13:03:54,936 - #39 ]
+INFO  13:03:54,936 - #33 ;
+INFO  13:03:54,936 - #45 char
+INFO  13:03:54,936 - #45 nizb
+INFO  13:03:54,937 - #38 [
+INFO  13:03:54,937 - #39 ]
+INFO  13:03:54,937 - #33 ;
+INFO  13:03:54,937 - #45 bool
+INFO  13:03:54,937 - #45 nizc
+INFO  13:03:54,937 - #38 [
+INFO  13:03:54,937 - #39 ]
+INFO  13:03:54,937 - #33 ;
+INFO  13:03:54,937 - #40 {
+INFO  13:03:54,937 - #45 int
+INFO  13:03:54,938 - #45 funkcija1
+INFO  13:03:54,938 - #36 (
+INFO  13:03:54,938 - #37 )
+INFO  13:03:54,939 - #40 {
+INFO  13:03:54,939 - #10 return
+INFO  13:03:54,939 - #42 1
+INFO  13:03:54,940 - #33 ;
+INFO  13:03:54,941 - #41 }
+INFO  13:03:54,941 - #11 void
+INFO  13:03:54,942 - #45 main
+INFO  13:03:54,942 - #36 (
+INFO  13:03:54,942 - #37 )
+INFO  13:03:54,942 - #40 {
+INFO  13:03:54,942 - #45 niza
+INFO  13:03:54,943 - #38 [
+INFO  13:03:54,943 - #42 1
+INFO  13:03:54,943 - #39 ]
+INFO  13:03:54,943 - #30 =
+INFO  13:03:54,944 - #45 niza
+INFO  13:03:54,944 - #38 [
+INFO  13:03:54,944 - #44 'c'
+INFO  13:03:54,944 - #39 ]
+INFO  13:03:54,945 - #17 +
+INFO  13:03:54,945 - #42 1
+INFO  13:03:54,946 - #33 ;
+INFO  13:03:54,948 - #41 }
+INFO  13:03:54,948 - #41 }
+INFO  13:03:54,949 - Zavrseno parsiranje 
+
+
+ERROR 13:03:54,959 - Greska na liniji 18: Expression u izrazu [ expression ] nije tipa int.
+INFO  13:03:54,959 - Print calls = 0

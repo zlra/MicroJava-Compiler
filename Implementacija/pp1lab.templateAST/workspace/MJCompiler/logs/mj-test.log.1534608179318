@@ -1,0 +1,63 @@
+INFO  18:02:57,104 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:02:57,142 - #2 program
+INFO  18:02:57,142 - #45 Prog
+INFO  18:02:57,142 - #45 int
+INFO  18:02:57,143 - #45 x
+INFO  18:02:57,144 - #33 ;
+INFO  18:02:57,145 - #40 {
+INFO  18:02:57,145 - #11 void
+INFO  18:02:57,145 - #45 funkcija
+INFO  18:02:57,146 - #36 (
+INFO  18:02:57,146 - #37 )
+INFO  18:02:57,147 - #40 {
+INFO  18:02:57,148 - #8 print
+INFO  18:02:57,148 - #36 (
+INFO  18:02:57,148 - #44 'r'
+INFO  18:02:57,149 - #37 )
+INFO  18:02:57,150 - #33 ;
+INFO  18:02:57,150 - #8 print
+INFO  18:02:57,150 - #36 (
+INFO  18:02:57,151 - #44 'a'
+INFO  18:02:57,151 - #37 )
+INFO  18:02:57,159 - #33 ;
+INFO  18:02:57,159 - #41 }
+INFO  18:02:57,159 - #11 void
+INFO  18:02:57,160 - #45 dvojka
+INFO  18:02:57,160 - #36 (
+INFO  18:02:57,160 - #37 )
+INFO  18:02:57,160 - #40 {
+INFO  18:02:57,160 - #8 print
+INFO  18:02:57,160 - #36 (
+INFO  18:02:57,160 - #44 'd'
+INFO  18:02:57,160 - #37 )
+INFO  18:02:57,160 - #33 ;
+INFO  18:02:57,160 - #8 print
+INFO  18:02:57,161 - #36 (
+INFO  18:02:57,161 - #44 'i'
+INFO  18:02:57,161 - #37 )
+INFO  18:02:57,161 - #33 ;
+INFO  18:02:57,161 - #41 }
+INFO  18:02:57,161 - #11 void
+INFO  18:02:57,161 - #45 main
+INFO  18:02:57,161 - #36 (
+INFO  18:02:57,161 - #37 )
+INFO  18:02:57,161 - #45 char
+INFO  18:02:57,161 - #45 y
+INFO  18:02:57,161 - #33 ;
+INFO  18:02:57,161 - #40 {
+INFO  18:02:57,161 - #45 funkcija
+INFO  18:02:57,161 - #36 (
+INFO  18:02:57,162 - #37 )
+INFO  18:02:57,163 - #33 ;
+INFO  18:02:57,163 - #45 dvojka
+INFO  18:02:57,163 - #36 (
+INFO  18:02:57,163 - #37 )
+INFO  18:02:57,163 - #33 ;
+INFO  18:02:57,163 - #41 }
+INFO  18:02:57,163 - #41 }
+INFO  18:02:57,164 - Zavrseno parsiranje 
+
+
+INFO  18:02:57,176 - Print calls = 0
+INFO  18:02:57,177 - Generating bytecode file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  18:02:57,181 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,66 @@
+INFO  22:03:55,230 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:03:55,307 - #2 program
+INFO  22:03:55,307 - #45 P
+INFO  22:03:55,307 - #16 const
+INFO  22:03:55,309 - #45 int
+INFO  22:03:55,309 - #45 a
+INFO  22:03:55,310 - #30 =
+INFO  22:03:55,310 - #42 10
+INFO  22:03:55,311 - #33 ;
+INFO  22:03:55,312 - #16 const
+INFO  22:03:55,312 - #45 int
+INFO  22:03:55,312 - #45 b
+INFO  22:03:55,312 - #30 =
+INFO  22:03:55,312 - #42 5
+INFO  22:03:55,313 - #34 ,
+INFO  22:03:55,313 - #45 c
+INFO  22:03:55,313 - #30 =
+INFO  22:03:55,313 - #42 7
+INFO  22:03:55,313 - #33 ;
+INFO  22:03:55,313 - #45 char
+INFO  22:03:55,313 - #45 aaa
+INFO  22:03:55,322 - #34 ,
+INFO  22:03:55,323 - #45 bbb
+INFO  22:03:55,323 - #34 ,
+INFO  22:03:55,323 - #45 ccc
+INFO  22:03:55,323 - #33 ;
+INFO  22:03:55,324 - #45 int
+INFO  22:03:55,324 - #45 aa
+INFO  22:03:55,324 - #33 ;
+INFO  22:03:55,325 - #45 int
+INFO  22:03:55,325 - #45 l
+INFO  22:03:55,325 - #38 [
+INFO  22:03:55,325 - #39 ]
+INFO  22:03:55,325 - #34 ,
+INFO  22:03:55,325 - #45 k
+INFO  22:03:55,325 - #34 ,
+INFO  22:03:55,325 - #45 j
+INFO  22:03:55,325 - #38 [
+INFO  22:03:55,325 - #39 ]
+INFO  22:03:55,325 - #33 ;
+INFO  22:03:55,325 - #40 {
+INFO  22:03:55,325 - #11 void
+INFO  22:03:55,326 - #45 main
+INFO  22:03:55,326 - #36 (
+INFO  22:03:55,327 - #37 )
+INFO  22:03:55,328 - #40 {
+INFO  22:03:55,328 - #10 return
+INFO  22:03:55,329 - #33 ;
+INFO  22:03:55,329 - #41 }
+INFO  22:03:55,329 - #45 int
+INFO  22:03:55,330 - #45 fuckyouthunder
+INFO  22:03:55,330 - #36 (
+INFO  22:03:55,330 - #37 )
+INFO  22:03:55,330 - #40 {
+INFO  22:03:55,331 - #10 return
+INFO  22:03:55,331 - #45 b
+INFO  22:03:55,331 - #19 *
+INFO  22:03:55,333 - #45 ccc
+INFO  22:03:55,334 - #33 ;
+INFO  22:03:55,334 - #41 }
+INFO  22:03:55,336 - #41 }
+INFO  22:03:55,337 - Zavrseno parsiranje 
+
+
+ERROR 22:03:55,348 - Greska na liniji 14: Faktor u izrazu nije tipa int.
+INFO  22:03:55,349 - Print calls = 0

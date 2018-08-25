@@ -1,0 +1,16 @@
+INFO  21:22:42,308 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:22:42,315 - #2 program
+INFO  21:22:42,315 - #45 tojeto
+INFO  21:22:42,315 - #45 agf
+INFO  21:22:42,316 - #45 afd
+INFO  21:22:42,317 - #45 fdsf
+INFO  21:22:42,317 - #45 dsf
+INFO  21:22:42,317 - #3 break
+INFO  21:22:42,317 - #14 extends
+INFO  21:22:42,318 - #45 afsf
+INFO  21:22:42,318 - #45 afdf
+INFO  21:22:42,318 - #45 fds
+INFO  21:22:42,318 - #40 {
+INFO  21:22:42,318 - #45 metodLista
+INFO  21:22:42,319 - #41 }
+INFO  21:22:42,320 - Print calls = 16

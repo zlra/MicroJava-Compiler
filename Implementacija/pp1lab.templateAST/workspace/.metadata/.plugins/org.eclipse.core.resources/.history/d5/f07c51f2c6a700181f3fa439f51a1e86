@@ -1,0 +1,7 @@
+program oporavak1
+bool z;
+{
+	void main() {
+		z = true;
+	}
+}

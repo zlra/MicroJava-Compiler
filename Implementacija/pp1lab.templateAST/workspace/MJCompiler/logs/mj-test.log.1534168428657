@@ -1,0 +1,69 @@
+INFO  15:52:35,355 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:52:35,393 - #2 program
+INFO  15:52:35,393 - #45 P
+INFO  15:52:35,393 - #16 const
+INFO  15:52:35,395 - #45 int
+INFO  15:52:35,395 - #45 a
+INFO  15:52:35,395 - #30 =
+INFO  15:52:35,396 - #42 10
+INFO  15:52:35,396 - #34 ,
+INFO  15:52:35,396 - #45 b
+INFO  15:52:35,396 - #30 =
+INFO  15:52:35,396 - #44 'c'
+INFO  15:52:35,396 - #34 ,
+INFO  15:52:35,397 - #45 c
+INFO  15:52:35,397 - #30 =
+INFO  15:52:35,397 - #42 4
+INFO  15:52:35,397 - #33 ;
+INFO  15:52:35,398 - #16 const
+INFO  15:52:35,399 - #45 char
+INFO  15:52:35,399 - #45 d
+INFO  15:52:35,399 - #30 =
+INFO  15:52:35,406 - #44 'a'
+INFO  15:52:35,406 - #33 ;
+INFO  15:52:35,406 - #16 const
+INFO  15:52:35,406 - #45 boolean
+INFO  15:52:35,406 - #45 e
+INFO  15:52:35,407 - #30 =
+INFO  15:52:35,407 - #43 true
+INFO  15:52:35,407 - #34 ,
+INFO  15:52:35,408 - #45 f
+INFO  15:52:35,408 - #30 =
+INFO  15:52:35,408 - #43 false
+INFO  15:52:35,408 - #33 ;
+INFO  15:52:35,408 - #45 int
+INFO  15:52:35,408 - #45 a
+INFO  15:52:35,408 - #33 ;
+INFO  15:52:35,409 - #45 int
+INFO  15:52:35,409 - #45 b
+INFO  15:52:35,409 - #30 =
+ERROR 15:52:35,410 - 
+Sintaksna greska na liniji 6
+INFO  15:52:35,410 - #42 10
+INFO  15:52:35,410 - #33 ;
+INFO  15:52:35,410 - #45 char
+INFO  15:52:35,410 - #45 c
+INFO  15:52:35,410 - #33 ;
+ERROR 15:52:35,411 - Greska pri definiciji globalne promenljive na liniji 6
+INFO  15:52:35,411 - #45 bool
+INFO  15:52:35,411 - #45 d
+INFO  15:52:35,411 - #33 ;
+INFO  15:52:35,411 - #40 {
+INFO  15:52:35,411 - #11 void
+INFO  15:52:35,412 - #45 main
+INFO  15:52:35,412 - #36 (
+INFO  15:52:35,412 - #37 )
+INFO  15:52:35,413 - #40 {
+INFO  15:52:35,413 - #41 }
+INFO  15:52:35,414 - #41 }
+INFO  15:52:35,415 - Zavrseno parsiranje 
+
+
+ERROR 15:52:35,424 - Greska na liniji 0: Pogresan tip pri dodeli vrednosti konstanti.
+ERROR 15:52:35,427 - Greska na liniji 4: Tip boolean ne postoji u tabeli simbola
+ERROR 15:52:35,427 - Greska na liniji 0: Pogresan tip pri dodeli vrednosti konstanti.
+ERROR 15:52:35,427 - Greska na liniji 0: Pogresan tip pri dodeli vrednosti konstanti.
+ERROR 15:52:35,427 - Greska na liniji 5: Identifikator varijable vec postoji u tabeli simbola
+ERROR 15:52:35,427 - Greska na liniji 7: Identifikator varijable vec postoji u tabeli simbola
+ERROR 15:52:35,427 - Greska na liniji 8: Identifikator varijable vec postoji u tabeli simbola
+INFO  15:52:35,427 - Print calls = 0

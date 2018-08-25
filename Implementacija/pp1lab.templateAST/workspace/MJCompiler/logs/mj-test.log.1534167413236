@@ -1,0 +1,46 @@
+INFO  15:36:35,314 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:36:35,356 - #2 program
+INFO  15:36:35,357 - #45 P
+INFO  15:36:35,357 - #16 const
+INFO  15:36:35,358 - #45 int
+INFO  15:36:35,358 - #45 a
+INFO  15:36:35,358 - #30 =
+INFO  15:36:35,358 - #42 10
+INFO  15:36:35,359 - #34 ,
+INFO  15:36:35,359 - #45 b
+INFO  15:36:35,359 - #30 =
+INFO  15:36:35,359 - #42 3
+INFO  15:36:35,359 - #34 ,
+INFO  15:36:35,359 - #45 c
+INFO  15:36:35,359 - #30 =
+INFO  15:36:35,359 - #42 4
+INFO  15:36:35,359 - #33 ;
+INFO  15:36:35,360 - #16 const
+INFO  15:36:35,360 - #45 char
+INFO  15:36:35,360 - #45 d
+INFO  15:36:35,360 - #30 =
+INFO  15:36:35,361 - #44 'a'
+INFO  15:36:35,361 - #33 ;
+INFO  15:36:35,362 - #16 const
+INFO  15:36:35,362 - #45 bool
+INFO  15:36:35,362 - #45 e
+INFO  15:36:35,362 - #30 =
+INFO  15:36:35,362 - #43 true
+INFO  15:36:35,362 - #34 ,
+INFO  15:36:35,363 - #45 f
+INFO  15:36:35,363 - #30 =
+INFO  15:36:35,363 - #44 'a'
+INFO  15:36:35,363 - #33 ;
+INFO  15:36:35,363 - #40 {
+INFO  15:36:35,363 - #11 void
+INFO  15:36:35,364 - #45 main
+INFO  15:36:35,364 - #36 (
+INFO  15:36:35,365 - #37 )
+INFO  15:36:35,365 - #40 {
+INFO  15:36:35,366 - #41 }
+INFO  15:36:35,366 - #41 }
+INFO  15:36:35,368 - Zavrseno parsiranje 
+
+
+ERROR 15:36:35,377 - Greska na liniji 0: Pogresan tip pri dodeli vrednosti konstanti.
+INFO  15:36:35,377 - Print calls = 0

@@ -1,0 +1,10 @@
+INFO  17:03:04,848 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:03:04,854 - #2 program
+INFO  17:03:04,854 - #45 tojeto
+INFO  17:03:04,854 - #45 deklaracionaLista
+INFO  17:03:04,854 - #40 {
+INFO  17:03:04,855 - #41 }
+ERROR 17:03:04,855 - 
+Sintaksna greska na liniji 1
+ERROR 17:03:04,855 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 1
+INFO  17:03:04,855 - Print calls = 5

@@ -1,0 +1,41 @@
+INFO  14:50:22,595 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:50:22,628 - #2 program
+INFO  14:50:22,628 - #45 P
+INFO  14:50:22,628 - #45 char
+INFO  14:50:22,629 - #45 x
+INFO  14:50:22,629 - #34 ,
+INFO  14:50:22,630 - #45 y
+INFO  14:50:22,630 - #34 ,
+INFO  14:50:22,630 - #45 z
+INFO  14:50:22,630 - #33 ;
+INFO  14:50:22,631 - #16 const
+INFO  14:50:22,631 - #45 int
+INFO  14:50:22,631 - #45 a
+INFO  14:50:22,631 - #30 =
+INFO  14:50:22,631 - #42 10
+INFO  14:50:22,631 - #34 ,
+INFO  14:50:22,631 - #45 b
+INFO  14:50:22,631 - #30 =
+INFO  14:50:22,632 - #43 true
+INFO  14:50:22,632 - #33 ;
+INFO  14:50:22,632 - #40 {
+INFO  14:50:22,633 - #11 void
+INFO  14:50:22,633 - #45 main
+INFO  14:50:22,634 - #36 (
+INFO  14:50:22,634 - #37 )
+INFO  14:50:22,634 - #40 {
+INFO  14:50:22,634 - #41 }
+INFO  14:50:22,635 - #41 }
+INFO  14:50:22,636 - Zavrseno parsiranje 
+
+
+INFO  14:50:22,646 - Smena declaration list empty
+INFO  14:50:22,646 - Smena declaration list not empty
+ERROR 14:50:22,647 - Greska na liniji 0: Pogresan tip pri dodeli vrednosti boolean konstanti.
+INFO  14:50:22,647 - Smena declaration list not empty
+INFO  14:50:22,647 - Smena method declaration list empty
+INFO  14:50:22,647 - Metoda je void 
+INFO  14:50:22,647 - Smena method declaration nadjena
+INFO  14:50:22,647 - Metoda main dodata u scope
+INFO  14:50:22,647 - Smena  method declaration list
+INFO  14:50:22,647 - Print calls = 0

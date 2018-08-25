@@ -1,0 +1,62 @@
+INFO  18:54:17,893 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:54:17,928 - #2 program
+INFO  18:54:17,928 - #45 P
+INFO  18:54:17,929 - #16 const
+INFO  18:54:17,929 - #45 int
+INFO  18:54:17,929 - #45 ac
+INFO  18:54:17,930 - #30 =
+INFO  18:54:17,930 - #42 10
+INFO  18:54:17,930 - #33 ;
+INFO  18:54:17,931 - #45 int
+INFO  18:54:17,931 - #45 a
+INFO  18:54:17,931 - #33 ;
+INFO  18:54:17,932 - #45 bool
+INFO  18:54:17,933 - #45 b
+INFO  18:54:17,933 - #33 ;
+INFO  18:54:17,933 - #45 char
+INFO  18:54:17,933 - #45 c
+INFO  18:54:17,933 - #33 ;
+INFO  18:54:17,933 - #45 int
+INFO  18:54:17,933 - #45 niza
+INFO  18:54:17,933 - #38 [
+INFO  18:54:17,937 - #39 ]
+INFO  18:54:17,937 - #33 ;
+INFO  18:54:17,937 - #45 char
+INFO  18:54:17,937 - #45 nizb
+INFO  18:54:17,937 - #38 [
+INFO  18:54:17,938 - #39 ]
+INFO  18:54:17,938 - #33 ;
+INFO  18:54:17,938 - #45 bool
+INFO  18:54:17,938 - #45 nizc
+INFO  18:54:17,938 - #38 [
+INFO  18:54:17,938 - #39 ]
+INFO  18:54:17,938 - #33 ;
+INFO  18:54:17,938 - #40 {
+INFO  18:54:17,938 - #45 int
+INFO  18:54:17,938 - #45 funkcija1
+INFO  18:54:17,939 - #36 (
+INFO  18:54:17,939 - #37 )
+INFO  18:54:17,939 - #40 {
+INFO  18:54:17,940 - #10 return
+INFO  18:54:17,940 - #42 1
+INFO  18:54:17,941 - #33 ;
+INFO  18:54:17,942 - #41 }
+INFO  18:54:17,942 - #11 void
+INFO  18:54:17,943 - #45 main
+INFO  18:54:17,943 - #36 (
+INFO  18:54:17,943 - #37 )
+INFO  18:54:17,943 - #40 {
+INFO  18:54:17,943 - #8 print
+INFO  18:54:17,943 - #36 (
+INFO  18:54:17,943 - #45 funkcija1
+INFO  18:54:17,943 - #36 (
+INFO  18:54:17,944 - #37 )
+INFO  18:54:17,944 - #37 )
+INFO  18:54:17,945 - #33 ;
+INFO  18:54:17,945 - #41 }
+INFO  18:54:17,945 - #41 }
+INFO  18:54:17,945 - Zavrseno parsiranje 
+
+
+ERROR 18:54:17,955 - Greska na liniji 7: Iskaz u print naredbi nije ni int, ni char, ni bool
+INFO  18:54:17,957 - Print calls = 0

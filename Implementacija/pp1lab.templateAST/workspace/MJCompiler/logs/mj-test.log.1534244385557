@@ -1,0 +1,61 @@
+INFO  12:59:30,507 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:59:30,569 - #2 program
+INFO  12:59:30,569 - #45 P
+INFO  12:59:30,570 - #16 const
+INFO  12:59:30,571 - #45 int
+INFO  12:59:30,571 - #45 ac
+INFO  12:59:30,572 - #30 =
+INFO  12:59:30,572 - #42 10
+INFO  12:59:30,572 - #33 ;
+INFO  12:59:30,573 - #45 int
+INFO  12:59:30,574 - #45 a
+INFO  12:59:30,574 - #33 ;
+INFO  12:59:30,576 - #45 bool
+INFO  12:59:30,576 - #45 b
+INFO  12:59:30,576 - #33 ;
+INFO  12:59:30,576 - #45 char
+INFO  12:59:30,576 - #45 c
+INFO  12:59:30,576 - #33 ;
+INFO  12:59:30,576 - #45 int
+INFO  12:59:30,576 - #45 niza
+INFO  12:59:30,576 - #38 [
+INFO  12:59:30,581 - #39 ]
+INFO  12:59:30,581 - #33 ;
+INFO  12:59:30,581 - #45 char
+INFO  12:59:30,581 - #45 nizb
+INFO  12:59:30,581 - #38 [
+INFO  12:59:30,581 - #39 ]
+INFO  12:59:30,581 - #33 ;
+INFO  12:59:30,581 - #45 bool
+INFO  12:59:30,581 - #45 nizc
+INFO  12:59:30,582 - #38 [
+INFO  12:59:30,582 - #39 ]
+INFO  12:59:30,582 - #33 ;
+INFO  12:59:30,582 - #40 {
+INFO  12:59:30,582 - #45 int
+INFO  12:59:30,582 - #45 funkcija1
+INFO  12:59:30,582 - #36 (
+INFO  12:59:30,583 - #37 )
+INFO  12:59:30,583 - #40 {
+INFO  12:59:30,583 - #10 return
+INFO  12:59:30,584 - #42 1
+INFO  12:59:30,585 - #33 ;
+INFO  12:59:30,585 - #41 }
+INFO  12:59:30,585 - #11 void
+INFO  12:59:30,586 - #45 main
+INFO  12:59:30,587 - #36 (
+INFO  12:59:30,587 - #37 )
+INFO  12:59:30,587 - #40 {
+INFO  12:59:30,587 - #45 aa
+INFO  12:59:30,587 - #30 =
+INFO  12:59:30,587 - #7 new
+INFO  12:59:30,587 - #45 int
+INFO  12:59:30,587 - #33 ;
+INFO  12:59:30,588 - #41 }
+INFO  12:59:30,588 - #41 }
+INFO  12:59:30,588 - Zavrseno parsiranje 
+
+
+ERROR 12:59:30,598 - Greska na liniji 19: Koristi se nedeklarisan simbol
+ERROR 12:59:30,598 - Greska na liniji 19: Nekompatibilne vrednosti pri iskazu dodele 
+INFO  12:59:30,598 - Print calls = 0

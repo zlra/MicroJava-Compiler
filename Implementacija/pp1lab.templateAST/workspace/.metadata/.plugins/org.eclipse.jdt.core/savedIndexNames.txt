@@ -1,0 +1,25 @@
+INDEX VERSION 1.130+C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\.metadata\.plugins\org.eclipse.jdt.core
+2956378016.index
+1055679481.index
+1860642593.index
+3637040476.index
+3808123788.index
+1580166048.index
+2429332019.index
+267254768.index
+64009066.index
+15719292.index
+1230538165.index
+2646634559.index
+2692035760.index
+2589955883.index
+3693261185.index
+4232500288.index
+1329257546.index
+3947521672.index
+1924884100.index
+421022922.index
+610805289.index
+315890579.index
+592600685.index
+2916426105.index

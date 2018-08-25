@@ -1,0 +1,37 @@
+program rz140030d
+
+
+{
+	int prebrojElemente(int niz[]) int i; {
+		i = 0;
+		do {
+			i++;
+		} while (i < len(niz));
+		
+		return i;
+	}
+
+	void main() int brojelem; {
+		niz = new int[10];
+		niz[1] = 1;
+		niz[3] = %
+		niz[5] = 7;
+		niz[9] = 10;
+		
+		a+=b+=c;
+		
+		c = $
+	
+		if (1 > 0 *10 ) {
+			print(2);
+		} else {
+			print('g');
+		}
+		
+		brojelem = prebrojElemente(niz);
+		
+		print(brojelem);
+		
+		return;
+	}
+}

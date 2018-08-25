@@ -1,0 +1,61 @@
+INFO  18:26:54,410 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:26:54,446 - #2 program
+INFO  18:26:54,446 - #45 P
+INFO  18:26:54,446 - #16 const
+INFO  18:26:54,447 - #45 int
+INFO  18:26:54,447 - #45 ac
+INFO  18:26:54,448 - #30 =
+INFO  18:26:54,448 - #42 10
+INFO  18:26:54,448 - #33 ;
+INFO  18:26:54,448 - #45 int
+INFO  18:26:54,449 - #45 a
+INFO  18:26:54,449 - #33 ;
+INFO  18:26:54,450 - #45 bool
+INFO  18:26:54,450 - #45 b
+INFO  18:26:54,450 - #33 ;
+INFO  18:26:54,450 - #45 char
+INFO  18:26:54,450 - #45 c
+INFO  18:26:54,450 - #33 ;
+INFO  18:26:54,450 - #45 int
+INFO  18:26:54,451 - #45 niza
+INFO  18:26:54,451 - #38 [
+INFO  18:26:54,451 - #39 ]
+INFO  18:26:54,451 - #33 ;
+INFO  18:26:54,451 - #45 char
+INFO  18:26:54,451 - #45 nizb
+INFO  18:26:54,452 - #38 [
+INFO  18:26:54,452 - #39 ]
+INFO  18:26:54,452 - #33 ;
+INFO  18:26:54,452 - #45 bool
+INFO  18:26:54,452 - #45 nizc
+INFO  18:26:54,452 - #38 [
+INFO  18:26:54,452 - #39 ]
+INFO  18:26:54,452 - #33 ;
+INFO  18:26:54,452 - #40 {
+INFO  18:26:54,452 - #45 int
+INFO  18:26:54,452 - #45 funkcija1
+INFO  18:26:54,452 - #36 (
+INFO  18:26:54,453 - #37 )
+INFO  18:26:54,453 - #40 {
+INFO  18:26:54,454 - #10 return
+INFO  18:26:54,454 - #42 1
+INFO  18:26:54,455 - #33 ;
+INFO  18:26:54,455 - #41 }
+INFO  18:26:54,456 - #11 void
+INFO  18:26:54,456 - #45 main
+INFO  18:26:54,457 - #36 (
+INFO  18:26:54,457 - #37 )
+INFO  18:26:54,457 - #40 {
+INFO  18:26:54,457 - #8 print
+INFO  18:26:54,457 - #36 (
+INFO  18:26:54,457 - #45 aa
+INFO  18:26:54,457 - #37 )
+INFO  18:26:54,458 - #33 ;
+INFO  18:26:54,458 - #41 }
+INFO  18:26:54,458 - #41 }
+INFO  18:26:54,459 - Zavrseno parsiranje 
+
+
+ERROR 18:26:54,469 - Greska na liniji 18: Koristi se nedeklarisan simbol
+ERROR 18:26:54,469 - Greska na liniji 7: Iskaz u print naredbi nije ni int, ni char, ni bool
+INFO  18:26:54,469 - Print calls = 0

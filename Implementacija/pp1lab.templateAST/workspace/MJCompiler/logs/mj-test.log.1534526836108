@@ -1,0 +1,63 @@
+INFO  19:19:22,215 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:19:22,252 - #2 program
+INFO  19:19:22,252 - #45 Prog
+INFO  19:19:22,252 - #16 const
+INFO  19:19:22,253 - #45 int
+INFO  19:19:22,253 - #45 b
+INFO  19:19:22,254 - #30 =
+INFO  19:19:22,254 - #42 3
+INFO  19:19:22,254 - #33 ;
+INFO  19:19:22,254 - #45 int
+INFO  19:19:22,255 - #45 c
+INFO  19:19:22,255 - #33 ;
+INFO  19:19:22,256 - #45 int
+INFO  19:19:22,256 - #45 d
+INFO  19:19:22,256 - #33 ;
+INFO  19:19:22,256 - #45 int
+INFO  19:19:22,256 - #45 e
+INFO  19:19:22,256 - #33 ;
+INFO  19:19:22,256 - #45 int
+INFO  19:19:22,256 - #45 f
+INFO  19:19:22,256 - #33 ;
+INFO  19:19:22,259 - #40 {
+INFO  19:19:22,259 - #11 void
+INFO  19:19:22,259 - #45 main
+INFO  19:19:22,260 - #36 (
+INFO  19:19:22,260 - #37 )
+INFO  19:19:22,261 - #45 int
+INFO  19:19:22,261 - #45 x
+INFO  19:19:22,261 - #34 ,
+INFO  19:19:22,261 - #45 y
+INFO  19:19:22,261 - #34 ,
+INFO  19:19:22,261 - #45 z
+INFO  19:19:22,262 - #33 ;
+INFO  19:19:22,262 - #45 char
+INFO  19:19:22,262 - #45 a
+INFO  19:19:22,262 - #34 ,
+INFO  19:19:22,262 - #45 b
+INFO  19:19:22,262 - #33 ;
+INFO  19:19:22,262 - #40 {
+INFO  19:19:22,262 - #45 x
+INFO  19:19:22,263 - #30 =
+INFO  19:19:22,263 - #42 7
+INFO  19:19:22,264 - #33 ;
+INFO  19:19:22,265 - #45 y
+INFO  19:19:22,265 - #30 =
+INFO  19:19:22,265 - #45 x
+INFO  19:19:22,265 - #18 -
+INFO  19:19:22,266 - #42 1
+INFO  19:19:22,266 - #33 ;
+INFO  19:19:22,267 - #45 z
+INFO  19:19:22,267 - #30 =
+INFO  19:19:22,267 - #45 y
+INFO  19:19:22,267 - #17 +
+INFO  19:19:22,267 - #42 2
+INFO  19:19:22,268 - #33 ;
+INFO  19:19:22,268 - #41 }
+INFO  19:19:22,268 - #41 }
+INFO  19:19:22,269 - Zavrseno parsiranje 
+
+
+INFO  19:19:22,281 - Print calls = 0
+INFO  19:19:22,283 - Generating bytecode file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  19:19:22,288 - Parsiranje uspesno zavrseno!

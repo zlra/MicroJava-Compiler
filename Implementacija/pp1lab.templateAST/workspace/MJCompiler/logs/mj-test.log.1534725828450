@@ -1,0 +1,61 @@
+INFO  02:43:34,296 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  02:43:34,336 - #2 program
+INFO  02:43:34,336 - #45 test301
+INFO  02:43:34,336 - #16 const
+INFO  02:43:34,337 - #45 int
+INFO  02:43:34,337 - #45 jedan
+INFO  02:43:34,338 - #30 =
+INFO  02:43:34,338 - #42 1
+INFO  02:43:34,338 - #33 ;
+INFO  02:43:34,339 - #16 const
+INFO  02:43:34,339 - #45 int
+INFO  02:43:34,339 - #45 pet
+INFO  02:43:34,340 - #30 =
+INFO  02:43:34,340 - #42 5
+INFO  02:43:34,340 - #33 ;
+INFO  02:43:34,340 - #45 int
+INFO  02:43:34,340 - #45 niz
+INFO  02:43:34,340 - #38 [
+INFO  02:43:34,340 - #39 ]
+INFO  02:43:34,341 - #33 ;
+INFO  02:43:34,342 - #45 char
+INFO  02:43:34,343 - #45 nizch
+INFO  02:43:34,343 - #38 [
+INFO  02:43:34,343 - #39 ]
+INFO  02:43:34,343 - #33 ;
+INFO  02:43:34,343 - #40 {
+INFO  02:43:34,343 - #45 int
+INFO  02:43:34,344 - #45 funkcija
+INFO  02:43:34,344 - #36 (
+INFO  02:43:34,344 - #45 int
+INFO  02:43:34,344 - #45 a
+INFO  02:43:34,344 - #34 ,
+INFO  02:43:34,345 - #45 char
+INFO  02:43:34,345 - #45 b
+INFO  02:43:34,345 - #37 )
+INFO  02:43:34,345 - #40 {
+INFO  02:43:34,346 - #10 return
+INFO  02:43:34,346 - #42 2
+INFO  02:43:34,347 - #33 ;
+INFO  02:43:34,348 - #41 }
+INFO  02:43:34,348 - #11 void
+INFO  02:43:34,350 - #45 main
+INFO  02:43:34,350 - #36 (
+INFO  02:43:34,350 - #37 )
+INFO  02:43:34,351 - #45 int
+INFO  02:43:34,351 - #45 bodovi
+INFO  02:43:34,351 - #33 ;
+INFO  02:43:34,351 - #40 {
+INFO  02:43:34,351 - #45 funkcija
+INFO  02:43:34,352 - #36 (
+INFO  02:43:34,352 - #37 )
+INFO  02:43:34,353 - #33 ;
+INFO  02:43:34,353 - #41 }
+INFO  02:43:34,353 - #41 }
+INFO  02:43:34,354 - Zavrseno parsiranje 
+
+
+INFO  02:43:34,366 - Detektovana upotreba globalne metode funkcija na liniji 18
+INFO  02:43:34,366 - Print calls = 0
+INFO  02:43:34,367 - Generating bytecode file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  02:43:34,372 - Parsiranje uspesno zavrseno!

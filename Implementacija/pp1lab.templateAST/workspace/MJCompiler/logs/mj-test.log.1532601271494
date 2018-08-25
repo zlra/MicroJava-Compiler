@@ -1,0 +1,46 @@
+INFO  12:30:55,757 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:30:55,796 - #2 program
+INFO  12:30:55,796 - #45 P
+INFO  12:30:55,796 - #45 int
+INFO  12:30:55,797 - #45 x
+INFO  12:30:55,797 - #34 ,
+INFO  12:30:55,798 - #45 y
+INFO  12:30:55,798 - #34 ,
+INFO  12:30:55,798 - #45 z
+INFO  12:30:55,798 - #33 ;
+INFO  12:30:55,799 - #16 const
+INFO  12:30:55,799 - #45 int
+INFO  12:30:55,799 - #45 a
+INFO  12:30:55,799 - #30 =
+INFO  12:30:55,799 - #42 10
+INFO  12:30:55,799 - #33 ;
+INFO  12:30:55,800 - #40 {
+INFO  12:30:55,800 - #11 void
+INFO  12:30:55,801 - #45 main
+INFO  12:30:55,801 - #36 (
+INFO  12:30:55,801 - #37 )
+INFO  12:30:55,802 - #40 {
+INFO  12:30:55,802 - #41 }
+INFO  12:30:55,803 - #11 void
+INFO  12:30:55,803 - #45 main
+INFO  12:30:55,804 - #36 (
+INFO  12:30:55,804 - #37 )
+INFO  12:30:55,804 - #40 {
+INFO  12:30:55,804 - #41 }
+INFO  12:30:55,804 - #41 }
+INFO  12:30:55,804 - Zavrseno parsiranje 
+
+
+INFO  12:30:55,814 - Smena declaration list empty
+INFO  12:30:55,814 - Smena declaration list not empty
+INFO  12:30:55,814 - Smena declaration list not empty
+INFO  12:30:55,814 - Smena method declaration list empty
+INFO  12:30:55,814 - Metoda je void 
+INFO  12:30:55,814 - Smena method declaration nadjena
+INFO  12:30:55,814 - Metoda main dodata u scope
+INFO  12:30:55,814 - Smena  method declaration list
+INFO  12:30:55,814 - Metoda je void 
+INFO  12:30:55,814 - Smena method declaration nadjena
+ERROR 12:30:55,815 - Metoda sa datim imenom vec postoji u tabeli simbola.Greska na liniji 9
+INFO  12:30:55,815 - Smena  method declaration list
+INFO  12:30:55,815 - Print calls = 0

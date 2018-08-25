@@ -1,0 +1,72 @@
+INFO  17:39:25,336 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:39:25,372 - #2 program
+INFO  17:39:25,372 - #45 Prog
+INFO  17:39:25,372 - #45 int
+INFO  17:39:25,373 - #45 niz
+INFO  17:39:25,374 - #38 [
+INFO  17:39:25,374 - #39 ]
+INFO  17:39:25,374 - #33 ;
+INFO  17:39:25,375 - #40 {
+INFO  17:39:25,376 - #11 void
+INFO  17:39:25,376 - #45 main
+INFO  17:39:25,376 - #36 (
+INFO  17:39:25,377 - #37 )
+INFO  17:39:25,377 - #45 int
+INFO  17:39:25,378 - #45 a
+INFO  17:39:25,378 - #33 ;
+INFO  17:39:25,378 - #40 {
+INFO  17:39:25,378 - #45 niz
+INFO  17:39:25,379 - #30 =
+INFO  17:39:25,380 - #7 new
+INFO  17:39:25,381 - #45 int
+INFO  17:39:25,388 - #38 [
+INFO  17:39:25,388 - #42 7
+INFO  17:39:25,388 - #39 ]
+INFO  17:39:25,389 - #33 ;
+INFO  17:39:25,389 - #45 niz
+INFO  17:39:25,389 - #38 [
+INFO  17:39:25,390 - #42 1
+INFO  17:39:25,390 - #39 ]
+INFO  17:39:25,390 - #30 =
+INFO  17:39:25,390 - #42 2
+INFO  17:39:25,390 - #33 ;
+INFO  17:39:25,390 - #45 niz
+INFO  17:39:25,390 - #38 [
+INFO  17:39:25,391 - #42 1
+INFO  17:39:25,391 - #39 ]
+INFO  17:39:25,391 - #32 --
+INFO  17:39:25,391 - #33 ;
+INFO  17:39:25,391 - #45 niz
+INFO  17:39:25,391 - #38 [
+INFO  17:39:25,391 - #42 1
+INFO  17:39:25,391 - #39 ]
+INFO  17:39:25,391 - #31 ++
+INFO  17:39:25,391 - #33 ;
+INFO  17:39:25,391 - #45 niz
+INFO  17:39:25,391 - #38 [
+INFO  17:39:25,391 - #42 2
+INFO  17:39:25,391 - #39 ]
+INFO  17:39:25,392 - #31 ++
+INFO  17:39:25,392 - #33 ;
+INFO  17:39:25,392 - #8 print
+INFO  17:39:25,392 - #36 (
+INFO  17:39:25,392 - #45 niz
+INFO  17:39:25,392 - #38 [
+INFO  17:39:25,392 - #45 niz
+INFO  17:39:25,392 - #38 [
+INFO  17:39:25,392 - #42 1
+INFO  17:39:25,392 - #39 ]
+INFO  17:39:25,392 - #31 ++
+ERROR 17:39:25,392 - 
+Sintaksna greska na liniji 10
+INFO  17:39:25,394 - #39 ]
+INFO  17:39:25,394 - #37 )
+INFO  17:39:25,394 - #33 ;
+INFO  17:39:25,395 - #41 }
+INFO  17:39:25,395 - #41 }
+ERROR 17:39:25,395 - Greska pri definiciji iskaza dodele na liniji 11
+INFO  17:39:25,397 - Zavrseno parsiranje 
+
+
+INFO  17:39:25,406 - Print calls = 0
+ERROR 17:39:25,408 - Parsiranje NIJE uspesno zavrseno!

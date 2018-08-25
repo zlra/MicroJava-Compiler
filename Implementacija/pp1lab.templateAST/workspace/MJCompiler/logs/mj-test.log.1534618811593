@@ -1,0 +1,39 @@
+INFO  21:00:04,845 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:00:04,881 - #2 program
+INFO  21:00:04,882 - #45 Prog
+INFO  21:00:04,882 - #45 int
+INFO  21:00:04,883 - #45 x
+INFO  21:00:04,883 - #33 ;
+INFO  21:00:04,884 - #40 {
+INFO  21:00:04,884 - #45 int
+INFO  21:00:04,885 - #45 dvojka
+INFO  21:00:04,885 - #36 (
+INFO  21:00:04,886 - #37 )
+INFO  21:00:04,886 - #40 {
+INFO  21:00:04,886 - #10 return
+INFO  21:00:04,887 - #42 5
+INFO  21:00:04,888 - #33 ;
+INFO  21:00:04,888 - #41 }
+INFO  21:00:04,888 - #11 void
+INFO  21:00:04,889 - #45 main
+INFO  21:00:04,890 - #36 (
+INFO  21:00:04,890 - #37 )
+INFO  21:00:04,890 - #45 int
+INFO  21:00:04,890 - #45 x
+INFO  21:00:04,890 - #33 ;
+INFO  21:00:04,890 - #40 {
+INFO  21:00:04,890 - #45 a
+INFO  21:00:04,890 - #30 =
+INFO  21:00:04,891 - #45 dvojka
+INFO  21:00:04,891 - #36 (
+INFO  21:00:04,891 - #37 )
+INFO  21:00:04,892 - #33 ;
+INFO  21:00:04,892 - #41 }
+INFO  21:00:04,892 - #41 }
+INFO  21:00:04,893 - Zavrseno parsiranje 
+
+
+ERROR 21:00:04,903 - Greska na liniji 11: Koristi se nedeklarisan simbol
+ERROR 21:00:04,903 - Greska na liniji 11: Nekompatibilne vrednosti pri iskazu dodele 
+INFO  21:00:04,903 - Print calls = 0
+ERROR 21:00:04,904 - Parsiranje NIJE uspesno zavrseno!

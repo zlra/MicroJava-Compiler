@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="spec"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="src" path="config"/>
+	<classpathentry kind="lib" path="C:/Users/zlra/Desktop/libsrc/cup_v10k.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zlra/Desktop/libsrc/JFlex.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zlra/Desktop/libsrc/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zlra/Desktop/libsrc/mj-runtime-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/zlra/Desktop/libsrc/symboltable.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

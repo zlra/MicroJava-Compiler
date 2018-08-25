@@ -1,0 +1,57 @@
+INFO  02:57:38,272 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  02:57:38,309 - #2 program
+INFO  02:57:38,310 - #45 test301
+INFO  02:57:38,310 - #16 const
+INFO  02:57:38,311 - #45 int
+INFO  02:57:38,311 - #45 jedan
+INFO  02:57:38,312 - #30 =
+INFO  02:57:38,312 - #42 1
+INFO  02:57:38,312 - #33 ;
+INFO  02:57:38,313 - #16 const
+INFO  02:57:38,313 - #45 int
+INFO  02:57:38,313 - #45 pet
+INFO  02:57:38,313 - #30 =
+INFO  02:57:38,314 - #42 5
+INFO  02:57:38,314 - #33 ;
+INFO  02:57:38,314 - #45 int
+INFO  02:57:38,314 - #45 niz
+INFO  02:57:38,314 - #38 [
+INFO  02:57:38,314 - #39 ]
+INFO  02:57:38,314 - #33 ;
+INFO  02:57:38,316 - #45 char
+INFO  02:57:38,316 - #45 nizch
+INFO  02:57:38,316 - #38 [
+INFO  02:57:38,316 - #39 ]
+INFO  02:57:38,316 - #33 ;
+INFO  02:57:38,316 - #40 {
+INFO  02:57:38,316 - #45 int
+INFO  02:57:38,317 - #45 funkcija
+INFO  02:57:38,317 - #36 (
+INFO  02:57:38,317 - #37 )
+INFO  02:57:38,318 - #40 {
+INFO  02:57:38,318 - #10 return
+INFO  02:57:38,319 - #42 2
+INFO  02:57:38,320 - #33 ;
+INFO  02:57:38,320 - #41 }
+INFO  02:57:38,321 - #11 void
+INFO  02:57:38,321 - #45 main
+INFO  02:57:38,322 - #36 (
+INFO  02:57:38,322 - #37 )
+INFO  02:57:38,322 - #45 int
+INFO  02:57:38,322 - #45 bodovi
+INFO  02:57:38,322 - #33 ;
+INFO  02:57:38,322 - #40 {
+INFO  02:57:38,323 - #45 funkcija
+INFO  02:57:38,323 - #36 (
+INFO  02:57:38,323 - #42 2
+INFO  02:57:38,323 - #37 )
+INFO  02:57:38,323 - #33 ;
+INFO  02:57:38,323 - #41 }
+INFO  02:57:38,324 - #41 }
+INFO  02:57:38,324 - Zavrseno parsiranje 
+
+
+INFO  02:57:38,336 - Detektovana upotreba globalne metode funkcija na liniji 18
+ERROR 02:57:38,336 - Greska na liniji 10: Broj argumenata pri pozivu funkcije je veci od broja parametara funkcije pri njenoj definiciji
+INFO  02:57:38,336 - Print calls = 0
+ERROR 02:57:38,337 - Parsiranje NIJE uspesno zavrseno!

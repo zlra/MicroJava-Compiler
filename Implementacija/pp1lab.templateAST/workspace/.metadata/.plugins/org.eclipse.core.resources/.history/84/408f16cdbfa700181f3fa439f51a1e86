@@ -1,0 +1,14 @@
+program oporavak3
+{
+
+	int k(int []k, int j) {
+		return 1;
+	} 
+	
+	void p(int j, int []k) {
+	}
+	
+	void main() {
+		
+	}
+}

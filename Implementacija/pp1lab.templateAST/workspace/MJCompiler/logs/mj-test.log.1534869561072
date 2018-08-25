@@ -1,0 +1,40 @@
+INFO  18:38:22,221 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:38:22,261 - #2 program
+INFO  18:38:22,261 - #45 test301
+INFO  18:38:22,261 - #45 int
+INFO  18:38:22,262 - #45 niza
+INFO  18:38:22,263 - #38 [
+INFO  18:38:22,263 - #39 ]
+INFO  18:38:22,263 - #34 ,
+INFO  18:38:22,264 - #45 nizb
+INFO  18:38:22,265 - #38 [
+INFO  18:38:22,265 - #39 ]
+INFO  18:38:22,265 - #34 ,
+INFO  18:38:22,265 - #45 nizc
+INFO  18:38:22,265 - #38 [
+INFO  18:38:22,265 - #39 ]
+INFO  18:38:22,265 - #33 ;
+INFO  18:38:22,266 - #45 int
+INFO  18:38:22,267 - #45 a
+INFO  18:38:22,267 - #34 ,
+INFO  18:38:22,267 - #45 b
+INFO  18:38:22,267 - #33 ;
+INFO  18:38:22,268 - #40 {
+INFO  18:38:22,268 - #11 void
+INFO  18:38:22,268 - #45 main
+INFO  18:38:22,269 - #36 (
+INFO  18:38:22,269 - #37 )
+INFO  18:38:22,270 - #40 {
+INFO  18:38:22,271 - #45 nizc
+INFO  18:38:22,271 - #30 =
+INFO  18:38:22,272 - #45 niza
+INFO  18:38:22,272 - #19 *
+INFO  18:38:22,273 - #45 a
+INFO  18:38:22,274 - #33 ;
+INFO  18:38:22,275 - #41 }
+INFO  18:38:22,275 - #41 }
+INFO  18:38:22,276 - Zavrseno parsiranje 
+
+
+INFO  18:38:22,289 - Detektovana upotreba globalne promenljive a na liniji 6
+ERROR 18:38:22,289 - Greska na liniji 6: Faktor u izrazu nije tipa int ili su array ali ne ispunajvaju uslove da su oba istog tipa i da je operacija *

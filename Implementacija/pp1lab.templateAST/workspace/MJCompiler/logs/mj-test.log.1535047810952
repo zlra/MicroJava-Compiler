@@ -1,0 +1,51 @@
+INFO  20:09:29,189 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:09:29,247 - #2 program
+INFO  20:09:29,247 - #45 oporavak3
+INFO  20:09:29,247 - #40 {
+INFO  20:09:29,248 - #45 int
+INFO  20:09:29,249 - #45 k
+INFO  20:09:29,249 - #36 (
+INFO  20:09:29,249 - #45 int
+INFO  20:09:29,249 - #38 [
+ERROR 20:09:29,250 - 
+Sintaksna greska na liniji 4
+INFO  20:09:29,250 - #39 ]
+INFO  20:09:29,250 - #45 k
+INFO  20:09:29,250 - #34 ,
+INFO  20:09:29,250 - #45 int
+INFO  20:09:29,250 - #45 j
+INFO  20:09:29,251 - #37 )
+ERROR 20:09:29,251 - Greska pri deklaraciji formalnog parametra funkcije na liniji 3
+INFO  20:09:29,252 - #40 {
+INFO  20:09:29,253 - #10 return
+INFO  20:09:29,254 - #42 1
+INFO  20:09:29,255 - #33 ;
+INFO  20:09:29,255 - #41 }
+INFO  20:09:29,256 - #11 void
+INFO  20:09:29,256 - #45 p
+INFO  20:09:29,257 - #36 (
+INFO  20:09:29,257 - #45 int
+INFO  20:09:29,257 - #45 j
+INFO  20:09:29,257 - #34 ,
+INFO  20:09:29,257 - #45 int
+INFO  20:09:29,257 - #38 [
+ERROR 20:09:29,257 - 
+Sintaksna greska na liniji 8
+INFO  20:09:29,257 - #39 ]
+INFO  20:09:29,257 - #45 k
+INFO  20:09:29,257 - #37 )
+INFO  20:09:29,257 - #40 {
+INFO  20:09:29,257 - #41 }
+INFO  20:09:29,258 - #11 void
+ERROR 20:09:29,258 - Greska pri deklaraciji formalnog parametra funkcije na liniji 10
+INFO  20:09:29,258 - #45 main
+INFO  20:09:29,258 - #36 (
+INFO  20:09:29,258 - #37 )
+INFO  20:09:29,258 - #40 {
+INFO  20:09:29,258 - #41 }
+INFO  20:09:29,259 - #41 }
+INFO  20:09:29,259 - Zavrseno parsiranje 
+
+
+INFO  20:09:29,270 - Print calls = 0
+ERROR 20:09:29,271 - Parsiranje NIJE uspesno zavrseno!

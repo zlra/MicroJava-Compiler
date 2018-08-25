@@ -1,0 +1,95 @@
+INFO  19:36:55,412 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:36:55,447 - #2 program
+INFO  19:36:55,448 - #45 maja
+INFO  19:36:55,448 - #16 const
+INFO  19:36:55,449 - #45 int
+INFO  19:36:55,449 - #45 x
+INFO  19:36:55,449 - #30 =
+INFO  19:36:55,449 - #44 'a'
+INFO  19:36:55,449 - #33 ;
+INFO  19:36:55,450 - #45 int
+INFO  19:36:55,450 - #45 a
+INFO  19:36:55,450 - #34 ,
+INFO  19:36:55,451 - #45 b
+INFO  19:36:55,451 - #34 ,
+INFO  19:36:55,451 - #33 ;
+ERROR 19:36:55,452 - 
+Sintaksna greska na liniji 3
+INFO  19:36:55,452 - #40 {
+INFO  19:36:55,452 - #45 int
+INFO  19:36:55,452 - #45 zbir
+ERROR 19:36:55,452 - Greska pri definiciji globalne promenljive na liniji 4
+INFO  19:36:55,461 - #36 (
+INFO  19:36:55,462 - #37 )
+INFO  19:36:55,462 - #40 {
+INFO  19:36:55,462 - #45 a
+INFO  19:36:55,463 - #30 =
+INFO  19:36:55,463 - #42 3
+INFO  19:36:55,464 - #33 ;
+INFO  19:36:55,465 - #45 b
+INFO  19:36:55,465 - #30 =
+INFO  19:36:55,465 - #42 4
+INFO  19:36:55,465 - #33 ;
+INFO  19:36:55,465 - #45 x
+INFO  19:36:55,465 - #30 =
+INFO  19:36:55,465 - #45 a
+INFO  19:36:55,465 - #17 +
+INFO  19:36:55,466 - #45 b
+INFO  19:36:55,466 - #33 ;
+INFO  19:36:55,467 - #10 return
+INFO  19:36:55,467 - #45 x
+INFO  19:36:55,467 - #33 ;
+INFO  19:36:55,467 - #41 }
+INFO  19:36:55,467 - #11 void
+INFO  19:36:55,467 - #45 main
+INFO  19:36:55,468 - #36 (
+INFO  19:36:55,468 - #37 )
+INFO  19:36:55,468 - #45 int
+INFO  19:36:55,468 - #45 z
+INFO  19:36:55,468 - #33 ;
+INFO  19:36:55,468 - #45 char
+INFO  19:36:55,468 - #45 niz
+INFO  19:36:55,468 - #38 [
+INFO  19:36:55,468 - #39 ]
+INFO  19:36:55,468 - #33 ;
+INFO  19:36:55,469 - #40 {
+INFO  19:36:55,469 - #45 z
+INFO  19:36:55,469 - #30 =
+INFO  19:36:55,469 - #44 'c'
+INFO  19:36:55,469 - #33 ;
+INFO  19:36:55,469 - #45 z
+INFO  19:36:55,469 - #30 =
+INFO  19:36:55,471 - #45 zbir
+INFO  19:36:55,471 - #36 (
+INFO  19:36:55,471 - #37 )
+INFO  19:36:55,472 - #19 *
+INFO  19:36:55,472 - #45 z
+INFO  19:36:55,473 - #33 ;
+INFO  19:36:55,473 - #8 print
+INFO  19:36:55,473 - #36 (
+INFO  19:36:55,474 - #45 niz
+INFO  19:36:55,474 - #37 )
+INFO  19:36:55,474 - #33 ;
+INFO  19:36:55,474 - #41 }
+INFO  19:36:55,474 - #41 }
+INFO  19:36:55,475 - Zavrseno parsiranje 
+
+
+ERROR 19:36:55,484 - Greska na liniji 2: Pogresan tip pri dodeli vrednosti konstanti.
+ERROR 19:36:55,484 - Greska na liniji 2 razliciti tipovi pri dodeli vrednosti konstanti
+INFO  19:36:55,485 - Detektovana upotreba globalne promenljive a na liniji 7
+INFO  19:36:55,485 - Detektovana upotreba globalne promenljive b na liniji 8
+INFO  19:36:55,485 - Detektovana upotreba konstante x na liniji 9
+ERROR 19:36:55,485 - Greska na liniji 9: Dodela vrednosti konstanti je zabranjena
+INFO  19:36:55,485 - Detektovana upotreba globalne promenljive a na liniji 9
+INFO  19:36:55,485 - Detektovana upotreba globalne promenljive b na liniji 9
+ERROR 19:36:55,485 - Greska na liniji 9: Dodela vrednosti identifikatoru koji nije element niza ni ime promenljive
+INFO  19:36:55,485 - Detektovana upotreba konstante x na liniji 10
+INFO  19:36:55,485 - Detektovana upotreba lokalne promenljive z na liniji 17
+ERROR 19:36:55,485 - Greska na liniji 17: Nekompatibilne vrednosti pri iskazu dodele 
+INFO  19:36:55,485 - Detektovana upotreba lokalne promenljive z na liniji 18
+INFO  19:36:55,485 - Detektovana upotreba globalne metode zbir na liniji 18
+INFO  19:36:55,485 - Detektovana upotreba lokalne promenljive z na liniji 18
+ERROR 19:36:55,485 - Greska na liniji 7: Iskaz u print naredbi nije ni int, ni char, ni bool
+INFO  19:36:55,485 - Print calls = 0
+ERROR 19:36:55,486 - Parsiranje NIJE uspesno zavrseno!

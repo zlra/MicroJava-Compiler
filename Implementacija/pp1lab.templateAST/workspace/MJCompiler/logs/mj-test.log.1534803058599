@@ -1,0 +1,146 @@
+INFO  00:08:54,703 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:08:54,759 - #2 program
+INFO  00:08:54,759 - #45 test301
+INFO  00:08:54,760 - #16 const
+INFO  00:08:54,760 - #45 int
+INFO  00:08:54,760 - #45 jedan
+INFO  00:08:54,761 - #30 =
+INFO  00:08:54,761 - #42 1
+INFO  00:08:54,761 - #33 ;
+INFO  00:08:54,762 - #16 const
+INFO  00:08:54,762 - #45 int
+INFO  00:08:54,762 - #45 pet
+INFO  00:08:54,762 - #30 =
+INFO  00:08:54,762 - #42 5
+INFO  00:08:54,762 - #33 ;
+INFO  00:08:54,762 - #45 int
+INFO  00:08:54,762 - #45 niz
+INFO  00:08:54,762 - #38 [
+INFO  00:08:54,762 - #39 ]
+INFO  00:08:54,762 - #33 ;
+INFO  00:08:54,764 - #45 char
+INFO  00:08:54,771 - #45 nizch
+INFO  00:08:54,771 - #38 [
+INFO  00:08:54,771 - #39 ]
+INFO  00:08:54,771 - #33 ;
+INFO  00:08:54,771 - #40 {
+INFO  00:08:54,771 - #45 int
+INFO  00:08:54,772 - #45 funkcija
+INFO  00:08:54,772 - #36 (
+INFO  00:08:54,772 - #45 int
+INFO  00:08:54,772 - #45 a
+INFO  00:08:54,772 - #34 ,
+INFO  00:08:54,773 - #45 int
+INFO  00:08:54,773 - #45 b
+INFO  00:08:54,773 - #34 ,
+INFO  00:08:54,773 - #45 char
+INFO  00:08:54,773 - #45 c
+INFO  00:08:54,773 - #37 )
+INFO  00:08:54,773 - #45 int
+INFO  00:08:54,774 - #45 x
+INFO  00:08:54,774 - #33 ;
+INFO  00:08:54,774 - #40 {
+INFO  00:08:54,774 - #8 print
+INFO  00:08:54,774 - #36 (
+INFO  00:08:54,774 - #45 c
+INFO  00:08:54,775 - #37 )
+INFO  00:08:54,777 - #33 ;
+INFO  00:08:54,777 - #45 b
+INFO  00:08:54,777 - #32 --
+INFO  00:08:54,777 - #33 ;
+INFO  00:08:54,777 - #8 print
+INFO  00:08:54,777 - #36 (
+INFO  00:08:54,777 - #45 b
+INFO  00:08:54,777 - #37 )
+INFO  00:08:54,777 - #33 ;
+INFO  00:08:54,777 - #10 return
+INFO  00:08:54,777 - #45 a
+INFO  00:08:54,777 - #17 +
+INFO  00:08:54,777 - #42 90
+INFO  00:08:54,778 - #33 ;
+INFO  00:08:54,780 - #41 }
+INFO  00:08:54,780 - #11 void
+INFO  00:08:54,782 - #45 main
+INFO  00:08:54,782 - #36 (
+INFO  00:08:54,782 - #37 )
+INFO  00:08:54,782 - #45 int
+INFO  00:08:54,782 - #45 bodovi
+INFO  00:08:54,782 - #34 ,
+INFO  00:08:54,782 - #45 a
+INFO  00:08:54,782 - #34 ,
+INFO  00:08:54,782 - #45 niza
+INFO  00:08:54,782 - #38 [
+INFO  00:08:54,782 - #39 ]
+INFO  00:08:54,782 - #34 ,
+INFO  00:08:54,782 - #45 nizb
+INFO  00:08:54,782 - #38 [
+INFO  00:08:54,782 - #39 ]
+INFO  00:08:54,782 - #33 ;
+INFO  00:08:54,783 - #40 {
+INFO  00:08:54,783 - #45 bodovi
+INFO  00:08:54,783 - #30 =
+INFO  00:08:54,783 - #42 0
+INFO  00:08:54,783 - #33 ;
+INFO  00:08:54,783 - #45 a
+INFO  00:08:54,783 - #30 =
+INFO  00:08:54,783 - #42 1
+INFO  00:08:54,783 - #33 ;
+INFO  00:08:54,783 - #12 do
+INFO  00:08:54,783 - #40 {
+INFO  00:08:54,784 - #8 print
+INFO  00:08:54,784 - #36 (
+INFO  00:08:54,784 - #44 'z'
+INFO  00:08:54,784 - #37 )
+INFO  00:08:54,784 - #33 ;
+INFO  00:08:54,784 - #12 do
+INFO  00:08:54,784 - #40 {
+INFO  00:08:54,784 - #8 print
+INFO  00:08:54,784 - #36 (
+INFO  00:08:54,784 - #44 'r'
+INFO  00:08:54,784 - #37 )
+INFO  00:08:54,785 - #33 ;
+INFO  00:08:54,785 - #45 a
+INFO  00:08:54,785 - #32 --
+INFO  00:08:54,785 - #33 ;
+INFO  00:08:54,785 - #41 }
+INFO  00:08:54,785 - #13 while
+INFO  00:08:54,785 - #36 (
+INFO  00:08:54,785 - #45 a
+INFO  00:08:54,785 - #24 >
+INFO  00:08:54,785 - #42 0
+INFO  00:08:54,786 - #37 )
+INFO  00:08:54,787 - #33 ;
+INFO  00:08:54,787 - #45 bodovi
+INFO  00:08:54,788 - #31 ++
+INFO  00:08:54,788 - #33 ;
+INFO  00:08:54,788 - #41 }
+INFO  00:08:54,788 - #13 while
+INFO  00:08:54,788 - #36 (
+INFO  00:08:54,788 - #45 bodovi
+INFO  00:08:54,788 - #22 <
+INFO  00:08:54,788 - #42 10
+INFO  00:08:54,789 - #37 )
+INFO  00:08:54,789 - #33 ;
+INFO  00:08:54,789 - #8 print
+INFO  00:08:54,789 - #36 (
+INFO  00:08:54,789 - #44 'l'
+INFO  00:08:54,789 - #37 )
+INFO  00:08:54,789 - #33 ;
+INFO  00:08:54,789 - #41 }
+INFO  00:08:54,789 - #41 }
+INFO  00:08:54,790 - Zavrseno parsiranje 
+
+
+INFO  00:08:54,800 - Detektovana upotreba lokalne promenljive c na liniji 14
+INFO  00:08:54,800 - Detektovana upotreba lokalne promenljive b na liniji 15
+INFO  00:08:54,800 - Detektovana upotreba lokalne promenljive b na liniji 16
+INFO  00:08:54,800 - Detektovana upotreba lokalne promenljive a na liniji 17
+INFO  00:08:54,800 - Detektovana upotreba lokalne promenljive bodovi na liniji 22
+INFO  00:08:54,800 - Detektovana upotreba lokalne promenljive a na liniji 23
+INFO  00:08:54,800 - Detektovana upotreba lokalne promenljive a na liniji 28
+INFO  00:08:54,800 - Detektovana upotreba lokalne promenljive a na liniji 29
+INFO  00:08:54,800 - Detektovana upotreba lokalne promenljive bodovi na liniji 31
+INFO  00:08:54,800 - Detektovana upotreba lokalne promenljive bodovi na liniji 32
+INFO  00:08:54,800 - Print calls = 0
+INFO  00:08:54,801 - Generating bytecode file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  00:08:54,806 - Parsiranje uspesno zavrseno!

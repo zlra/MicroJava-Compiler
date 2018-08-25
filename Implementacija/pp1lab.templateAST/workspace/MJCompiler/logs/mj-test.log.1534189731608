@@ -1,0 +1,73 @@
+INFO  21:43:01,097 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:43:01,132 - #2 program
+INFO  21:43:01,133 - #45 P
+INFO  21:43:01,133 - #16 const
+INFO  21:43:01,134 - #45 int
+INFO  21:43:01,134 - #45 ac
+INFO  21:43:01,134 - #30 =
+INFO  21:43:01,134 - #42 10
+INFO  21:43:01,134 - #33 ;
+INFO  21:43:01,135 - #45 int
+INFO  21:43:01,135 - #45 a
+INFO  21:43:01,135 - #33 ;
+INFO  21:43:01,137 - #45 bool
+INFO  21:43:01,137 - #45 b
+INFO  21:43:01,137 - #33 ;
+INFO  21:43:01,137 - #45 char
+INFO  21:43:01,137 - #45 c
+INFO  21:43:01,137 - #33 ;
+INFO  21:43:01,137 - #45 int
+INFO  21:43:01,137 - #45 niza
+INFO  21:43:01,138 - #38 [
+INFO  21:43:01,140 - #39 ]
+INFO  21:43:01,140 - #33 ;
+INFO  21:43:01,141 - #45 char
+INFO  21:43:01,141 - #45 nizb
+INFO  21:43:01,141 - #38 [
+INFO  21:43:01,141 - #39 ]
+INFO  21:43:01,141 - #33 ;
+INFO  21:43:01,141 - #45 bool
+INFO  21:43:01,141 - #45 nizc
+INFO  21:43:01,141 - #38 [
+INFO  21:43:01,141 - #39 ]
+INFO  21:43:01,141 - #33 ;
+INFO  21:43:01,141 - #40 {
+INFO  21:43:01,142 - #45 int
+INFO  21:43:01,142 - #45 funkcija1
+INFO  21:43:01,142 - #36 (
+INFO  21:43:01,143 - #37 )
+INFO  21:43:01,143 - #40 {
+INFO  21:43:01,144 - #10 return
+INFO  21:43:01,144 - #42 1
+INFO  21:43:01,145 - #33 ;
+INFO  21:43:01,146 - #41 }
+INFO  21:43:01,146 - #11 void
+INFO  21:43:01,147 - #45 main
+INFO  21:43:01,147 - #36 (
+INFO  21:43:01,147 - #37 )
+INFO  21:43:01,147 - #40 {
+INFO  21:43:01,148 - #45 a
+INFO  21:43:01,148 - #30 =
+INFO  21:43:01,148 - #45 niza
+INFO  21:43:01,148 - #38 [
+INFO  21:43:01,149 - #42 1
+INFO  21:43:01,149 - #39 ]
+INFO  21:43:01,149 - #17 +
+INFO  21:43:01,150 - #45 funkcija1
+INFO  21:43:01,151 - #36 (
+INFO  21:43:01,151 - #37 )
+INFO  21:43:01,152 - #17 +
+INFO  21:43:01,152 - #42 2
+INFO  21:43:01,154 - #17 +
+INFO  21:43:01,155 - #45 ac
+INFO  21:43:01,155 - #17 +
+INFO  21:43:01,155 - #43 true
+INFO  21:43:01,155 - #33 ;
+INFO  21:43:01,156 - #41 }
+INFO  21:43:01,156 - #41 }
+INFO  21:43:01,157 - Zavrseno parsiranje 
+
+
+ERROR 21:43:01,167 - Greska na liniji 18: Faktor u izrazu nije tipa int.
+ERROR 21:43:01,167 - Greska na liniji 18: Nekompatibilne vrednosti pri iskazu dodele 
+INFO  21:43:01,168 - Print calls = 0

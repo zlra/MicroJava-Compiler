@@ -1,0 +1,79 @@
+INFO  23:51:55,129 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:51:55,169 - #2 program
+INFO  23:51:55,169 - #45 test302
+INFO  23:51:55,169 - #45 int
+INFO  23:51:55,170 - #45 i
+INFO  23:51:55,171 - #33 ;
+INFO  23:51:55,173 - #45 bool
+INFO  23:51:55,173 - #45 ibool
+INFO  23:51:55,173 - #33 ;
+INFO  23:51:55,173 - #45 int
+INFO  23:51:55,174 - #45 niz
+INFO  23:51:55,174 - #38 [
+INFO  23:51:55,174 - #39 ]
+INFO  23:51:55,174 - #33 ;
+INFO  23:51:55,174 - #40 {
+INFO  23:51:55,175 - #45 int
+INFO  23:51:55,175 - #45 sum
+INFO  23:51:55,176 - #36 (
+INFO  23:51:55,176 - #45 int
+INFO  23:51:55,176 - #45 z
+INFO  23:51:55,176 - #34 ,
+INFO  23:51:55,180 - #45 int
+INFO  23:51:55,180 - #45 d
+INFO  23:51:55,180 - #37 )
+INFO  23:51:55,181 - #40 {
+INFO  23:51:55,182 - #10 return
+INFO  23:51:55,182 - #45 z
+INFO  23:51:55,183 - #17 +
+INFO  23:51:55,184 - #45 d
+INFO  23:51:55,185 - #33 ;
+INFO  23:51:55,185 - #41 }
+INFO  23:51:55,186 - #45 int
+INFO  23:51:55,187 - #45 inkrement
+INFO  23:51:55,187 - #36 (
+INFO  23:51:55,187 - #45 int
+INFO  23:51:55,187 - #45 a
+INFO  23:51:55,187 - #37 )
+INFO  23:51:55,187 - #45 int
+INFO  23:51:55,187 - #45 pom
+INFO  23:51:55,187 - #33 ;
+INFO  23:51:55,187 - #40 {
+INFO  23:51:55,187 - #45 pom
+INFO  23:51:55,187 - #30 =
+INFO  23:51:55,187 - #42 1
+INFO  23:51:55,187 - #33 ;
+INFO  23:51:55,188 - #10 return
+INFO  23:51:55,188 - #45 sum
+INFO  23:51:55,188 - #36 (
+INFO  23:51:55,188 - #45 a
+INFO  23:51:55,188 - #34 ,
+INFO  23:51:55,188 - #45 pom
+INFO  23:51:55,188 - #37 )
+INFO  23:51:55,188 - #33 ;
+INFO  23:51:55,188 - #41 }
+INFO  23:51:55,189 - #11 void
+INFO  23:51:55,189 - #45 main
+INFO  23:51:55,189 - #36 (
+INFO  23:51:55,189 - #37 )
+INFO  23:51:55,190 - #40 {
+INFO  23:51:55,190 - #45 len
+INFO  23:51:55,190 - #36 (
+INFO  23:51:55,190 - #45 niz
+INFO  23:51:55,190 - #37 )
+INFO  23:51:55,190 - #33 ;
+INFO  23:51:55,191 - #41 }
+INFO  23:51:55,191 - #41 }
+INFO  23:51:55,191 - Zavrseno parsiranje 
+
+
+INFO  23:51:55,205 - Detektovana upotreba lokalne promenljive z na liniji 14
+INFO  23:51:55,205 - Detektovana upotreba lokalne promenljive d na liniji 14
+INFO  23:51:55,205 - Detektovana upotreba lokalne promenljive pom na liniji 19
+INFO  23:51:55,206 - Detektovana upotreba globalne metode sum na liniji 20
+INFO  23:51:55,206 - Detektovana upotreba lokalne promenljive a na liniji 20
+INFO  23:51:55,206 - Detektovana upotreba lokalne promenljive pom na liniji 20
+INFO  23:51:55,206 - Detektovana upotreba globalne metode len na liniji 25
+INFO  23:51:55,207 - Print calls = 0
+INFO  23:51:55,208 - Generating bytecode file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  23:51:55,215 - Parsiranje uspesno zavrseno!

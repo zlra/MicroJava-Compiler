@@ -1,0 +1,66 @@
+INFO  15:40:42,533 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:40:42,575 - #2 program
+INFO  15:40:42,575 - #45 test301
+INFO  15:40:42,575 - #45 int
+INFO  15:40:42,576 - #45 niza
+INFO  15:40:42,577 - #38 [
+INFO  15:40:42,577 - #39 ]
+INFO  15:40:42,577 - #34 ,
+INFO  15:40:42,578 - #45 nizb
+INFO  15:40:42,578 - #38 [
+INFO  15:40:42,578 - #39 ]
+INFO  15:40:42,578 - #33 ;
+INFO  15:40:42,579 - #45 int
+INFO  15:40:42,579 - #45 nizc
+INFO  15:40:42,579 - #38 [
+INFO  15:40:42,579 - #39 ]
+INFO  15:40:42,579 - #33 ;
+INFO  15:40:42,579 - #45 int
+INFO  15:40:42,579 - #45 a
+INFO  15:40:42,579 - #34 ,
+INFO  15:40:42,580 - #45 b
+INFO  15:40:42,580 - #33 ;
+INFO  15:40:42,580 - #40 {
+INFO  15:40:42,581 - #45 int
+INFO  15:40:42,581 - #45 funkcija
+INFO  15:40:42,581 - #36 (
+INFO  15:40:42,582 - #45 int
+INFO  15:40:42,582 - #45 x
+INFO  15:40:42,582 - #34 ,
+INFO  15:40:42,582 - #45 int
+INFO  15:40:42,582 - #45 y
+INFO  15:40:42,582 - #37 )
+INFO  15:40:42,583 - #40 {
+INFO  15:40:42,583 - #45 x
+INFO  15:40:42,584 - #31 ++
+INFO  15:40:42,584 - #33 ;
+INFO  15:40:42,584 - #45 y
+INFO  15:40:42,585 - #32 --
+INFO  15:40:42,585 - #33 ;
+INFO  15:40:42,585 - #10 return
+INFO  15:40:42,585 - #42 2
+INFO  15:40:42,586 - #33 ;
+INFO  15:40:42,586 - #41 }
+INFO  15:40:42,586 - #11 void
+INFO  15:40:42,587 - #45 main
+INFO  15:40:42,588 - #36 (
+INFO  15:40:42,588 - #37 )
+INFO  15:40:42,588 - #40 {
+INFO  15:40:42,588 - #45 funkcija
+INFO  15:40:42,588 - #36 (
+INFO  15:40:42,588 - #42 10
+INFO  15:40:42,588 - #34 ,
+INFO  15:40:42,589 - #42 11
+INFO  15:40:42,589 - #37 )
+INFO  15:40:42,589 - #33 ;
+INFO  15:40:42,589 - #41 }
+INFO  15:40:42,589 - #41 }
+INFO  15:40:42,590 - Zavrseno parsiranje 
+
+
+INFO  15:40:42,602 - Detektovana upotreba lokalne promenljive x na liniji 7
+INFO  15:40:42,604 - Detektovana upotreba lokalne promenljive y na liniji 8
+INFO  15:40:42,604 - Detektovana upotreba globalne metode funkcija na liniji 14
+INFO  15:40:42,604 - Print calls = 0
+INFO  15:40:42,605 - Generating bytecode file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  15:40:42,609 - Parsiranje uspesno zavrseno!

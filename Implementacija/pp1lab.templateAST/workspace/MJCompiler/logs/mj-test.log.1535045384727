@@ -1,0 +1,67 @@
+INFO  19:29:30,597 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:29:30,636 - #2 program
+INFO  19:29:30,636 - #45 p
+INFO  19:29:30,636 - #16 const
+INFO  19:29:30,637 - #45 int
+INFO  19:29:30,637 - #45 x
+INFO  19:29:30,638 - #30 =
+INFO  19:29:30,638 - #42 3
+INFO  19:29:30,638 - #33 ;
+INFO  19:29:30,639 - #16 const
+INFO  19:29:30,639 - #45 char
+INFO  19:29:30,639 - #45 a
+INFO  19:29:30,639 - #30 =
+INFO  19:29:30,640 - #44 'a'
+INFO  19:29:30,640 - #33 ;
+INFO  19:29:30,640 - #40 {
+INFO  19:29:30,640 - #11 void
+INFO  19:29:30,640 - #45 main
+INFO  19:29:30,641 - #36 (
+INFO  19:29:30,641 - #37 )
+INFO  19:29:30,642 - #45 int
+INFO  19:29:30,650 - #45 niz
+INFO  19:29:30,650 - #38 [
+INFO  19:29:30,651 - #39 ]
+INFO  19:29:30,651 - #33 ;
+INFO  19:29:30,652 - #40 {
+INFO  19:29:30,652 - #45 niz
+INFO  19:29:30,653 - #38 [
+INFO  19:29:30,653 - #42 0
+INFO  19:29:30,654 - #39 ]
+INFO  19:29:30,654 - #30 =
+INFO  19:29:30,655 - #42 1
+INFO  19:29:30,655 - #33 ;
+INFO  19:29:30,655 - #45 niz
+INFO  19:29:30,655 - #38 [
+INFO  19:29:30,655 - #42 1
+INFO  19:29:30,655 - #39 ]
+INFO  19:29:30,655 - #30 =
+INFO  19:29:30,656 - #42 2
+INFO  19:29:30,656 - #33 ;
+INFO  19:29:30,656 - #45 niz
+INFO  19:29:30,656 - #38 [
+INFO  19:29:30,656 - #42 3
+INFO  19:29:30,656 - #39 ]
+INFO  19:29:30,656 - #30 =
+INFO  19:29:30,656 - #42 4
+INFO  19:29:30,656 - #33 ;
+INFO  19:29:30,656 - #8 print
+INFO  19:29:30,656 - #36 (
+INFO  19:29:30,656 - #45 niz
+INFO  19:29:30,656 - #38 [
+INFO  19:29:30,657 - #42 1
+INFO  19:29:30,657 - #39 ]
+INFO  19:29:30,657 - #37 )
+INFO  19:29:30,657 - #33 ;
+INFO  19:29:30,657 - #41 }
+INFO  19:29:30,658 - #41 }
+INFO  19:29:30,659 - Zavrseno parsiranje 
+
+
+INFO  19:29:30,669 - Detektovano koriscenje elementa niza na liniji 8
+INFO  19:29:30,671 - Detektovano koriscenje elementa niza na liniji 9
+INFO  19:29:30,671 - Detektovano koriscenje elementa niza na liniji 10
+INFO  19:29:30,671 - Detektovano koriscenje elementa niza na liniji 12
+INFO  19:29:30,671 - Print calls = 0
+INFO  19:29:30,672 - Generating bytecode file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  19:29:30,675 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,165 @@
+INFO  19:41:30,896 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:41:30,934 - #2 program
+INFO  19:41:30,935 - #45 sintaksnan
+INFO  19:41:30,935 - #45 int
+INFO  19:41:30,936 - #45 x
+INFO  19:41:30,936 - #33 ;
+INFO  19:41:30,937 - #45 int
+INFO  19:41:30,938 - #45 y
+INFO  19:41:30,938 - #33 ;
+INFO  19:41:30,938 - #45 int
+INFO  19:41:30,938 - #45 z
+INFO  19:41:30,938 - #34 ,
+INFO  19:41:30,938 - #34 ,
+ERROR 19:41:30,938 - 
+Sintaksna greska na liniji 6
+INFO  19:41:30,938 - #45 k
+INFO  19:41:30,938 - #33 ;
+INFO  19:41:30,938 - #40 {
+ERROR 19:41:30,939 - Greska pri definiciji globalne promenljive na liniji 7
+INFO  19:41:30,940 - #45 int
+INFO  19:41:30,940 - #45 sum
+INFO  19:41:30,940 - #36 (
+INFO  19:41:30,940 - #37 )
+INFO  19:41:30,941 - #40 {
+INFO  19:41:30,941 - #10 return
+INFO  19:41:30,942 - #45 x
+INFO  19:41:30,942 - #17 +
+INFO  19:41:30,943 - #45 y
+INFO  19:41:30,944 - #33 ;
+INFO  19:41:30,945 - #41 }
+INFO  19:41:30,945 - #11 void
+INFO  19:41:30,946 - #45 main
+INFO  19:41:30,946 - #36 (
+INFO  19:41:30,947 - #37 )
+INFO  19:41:30,947 - #45 int
+INFO  19:41:30,947 - #45 bodovi
+INFO  19:41:30,947 - #33 ;
+INFO  19:41:30,947 - #45 char
+INFO  19:41:30,947 - #45 nizc
+INFO  19:41:30,947 - #38 [
+INFO  19:41:30,947 - #39 ]
+INFO  19:41:30,947 - #33 ;
+INFO  19:41:30,948 - #40 {
+INFO  19:41:30,948 - #45 x
+INFO  19:41:30,948 - #30 =
+INFO  19:41:30,948 - #42 1
+INFO  19:41:30,948 - #33 ;
+INFO  19:41:30,948 - #45 y
+INFO  19:41:30,949 - #30 =
+INFO  19:41:30,949 - #42 6
+INFO  19:41:30,949 - #33 ;
+INFO  19:41:30,949 - #45 z
+INFO  19:41:30,949 - #30 =
+INFO  19:41:30,949 - #42 2
+INFO  19:41:30,949 - #17 +
+INFO  19:41:30,949 - #33 ;
+ERROR 19:41:30,949 - 
+Sintaksna greska na liniji 18
+INFO  19:41:30,949 - #45 bodovi
+INFO  19:41:30,949 - #30 =
+INFO  19:41:30,949 - #45 x
+ERROR 19:41:30,949 - Greska pri definiciji iskaza dodele na liniji 18
+INFO  19:41:30,952 - #17 +
+INFO  19:41:30,952 - #45 y
+INFO  19:41:30,952 - #17 +
+INFO  19:41:30,952 - #45 z
+INFO  19:41:30,952 - #33 ;
+INFO  19:41:30,952 - #8 print
+INFO  19:41:30,953 - #36 (
+INFO  19:41:30,953 - #45 sum
+INFO  19:41:30,953 - #36 (
+INFO  19:41:30,953 - #37 )
+INFO  19:41:30,953 - #37 )
+INFO  19:41:30,954 - #33 ;
+INFO  19:41:30,954 - #8 print
+INFO  19:41:30,954 - #36 (
+INFO  19:41:30,954 - #45 bodovi
+INFO  19:41:30,954 - #37 )
+INFO  19:41:30,954 - #33 ;
+INFO  19:41:30,954 - #45 nizc
+INFO  19:41:30,954 - #30 =
+INFO  19:41:30,954 - #7 new
+INFO  19:41:30,955 - #45 char
+INFO  19:41:30,955 - #38 [
+INFO  19:41:30,955 - #42 2
+INFO  19:41:30,955 - #39 ]
+INFO  19:41:30,955 - #33 ;
+INFO  19:41:30,955 - #45 nizc
+INFO  19:41:30,955 - #38 [
+INFO  19:41:30,956 - #42 0
+INFO  19:41:30,956 - #39 ]
+INFO  19:41:30,956 - #30 =
+INFO  19:41:30,956 - #44 'a'
+INFO  19:41:30,957 - #33 ;
+INFO  19:41:30,957 - #45 nizc
+INFO  19:41:30,957 - #38 [
+INFO  19:41:30,957 - #42 1
+INFO  19:41:30,957 - #39 ]
+INFO  19:41:30,957 - #30 =
+INFO  19:41:30,957 - #44 'b'
+INFO  19:41:30,957 - #33 ;
+INFO  19:41:30,957 - #8 print
+INFO  19:41:30,957 - #36 (
+INFO  19:41:30,957 - #45 nizc
+INFO  19:41:30,957 - #38 [
+INFO  19:41:30,957 - #42 0
+INFO  19:41:30,957 - #39 ]
+INFO  19:41:30,957 - #37 )
+INFO  19:41:30,958 - #33 ;
+INFO  19:41:30,958 - #8 print
+INFO  19:41:30,958 - #36 (
+INFO  19:41:30,958 - #45 nizc
+INFO  19:41:30,958 - #38 [
+INFO  19:41:30,958 - #42 1
+INFO  19:41:30,958 - #39 ]
+INFO  19:41:30,958 - #37 )
+INFO  19:41:30,958 - #33 ;
+INFO  19:41:30,958 - #6 if
+INFO  19:41:30,958 - #36 (
+INFO  19:41:30,959 - #27 ||
+ERROR 19:41:30,959 - 
+Sintaksna greska na liniji 30
+INFO  19:41:30,959 - #45 x
+INFO  19:41:30,959 - #28 ==
+INFO  19:41:30,959 - #42 6
+INFO  19:41:30,959 - #37 )
+INFO  19:41:30,959 - #40 {
+INFO  19:41:30,959 - #8 print
+INFO  19:41:30,959 - #36 (
+ERROR 19:41:30,959 - Greska u uslovu if iskaza na liniji 30
+INFO  19:41:30,960 - #45 x
+INFO  19:41:30,960 - #37 )
+INFO  19:41:30,961 - #33 ;
+INFO  19:41:30,961 - #41 }
+INFO  19:41:30,961 - #5 else
+INFO  19:41:30,961 - #40 {
+INFO  19:41:30,962 - #8 print
+INFO  19:41:30,962 - #36 (
+INFO  19:41:30,962 - #45 bodovi
+INFO  19:41:30,962 - #37 )
+INFO  19:41:30,962 - #33 ;
+INFO  19:41:30,962 - #41 }
+INFO  19:41:30,962 - #41 }
+INFO  19:41:30,963 - #41 }
+INFO  19:41:30,963 - Zavrseno parsiranje 
+
+
+INFO  19:41:30,973 - Detektovana upotreba globalne promenljive x na liniji 11
+INFO  19:41:30,973 - Detektovana upotreba globalne promenljive y na liniji 11
+INFO  19:41:30,973 - Detektovana upotreba globalne promenljive x na liniji 16
+INFO  19:41:30,973 - Detektovana upotreba globalne promenljive y na liniji 17
+INFO  19:41:30,974 - Detektovana upotreba lokalne promenljive bodovi na liniji 19
+INFO  19:41:30,974 - Detektovana upotreba globalne promenljive x na liniji 19
+INFO  19:41:30,974 - Detektovana upotreba globalne promenljive y na liniji 19
+INFO  19:41:30,974 - Detektovana upotreba globalne promenljive z na liniji 19
+INFO  19:41:30,974 - Detektovana upotreba globalne metode sum na liniji 20
+INFO  19:41:30,974 - Detektovana upotreba lokalne promenljive bodovi na liniji 21
+INFO  19:41:30,974 - Detektovano koriscenje elementa niza na liniji 24
+INFO  19:41:30,974 - Detektovano koriscenje elementa niza na liniji 25
+INFO  19:41:30,974 - Detektovano koriscenje elementa niza na liniji 27
+INFO  19:41:30,974 - Detektovano koriscenje elementa niza na liniji 28
+INFO  19:41:30,974 - Detektovana upotreba globalne promenljive x na liniji 31
+INFO  19:41:30,974 - Detektovana upotreba lokalne promenljive bodovi na liniji 33
+INFO  19:41:30,974 - Print calls = 0
+ERROR 19:41:30,975 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,72 @@
+INFO  12:46:56,214 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:46:56,251 - #2 program
+INFO  12:46:56,251 - #45 P
+INFO  12:46:56,251 - #16 const
+INFO  12:46:56,252 - #45 int
+INFO  12:46:56,252 - #45 ac
+INFO  12:46:56,252 - #30 =
+INFO  12:46:56,252 - #42 10
+INFO  12:46:56,252 - #33 ;
+INFO  12:46:56,253 - #45 int
+INFO  12:46:56,253 - #45 a
+INFO  12:46:56,253 - #33 ;
+INFO  12:46:56,255 - #45 bool
+INFO  12:46:56,255 - #45 b
+INFO  12:46:56,255 - #33 ;
+INFO  12:46:56,255 - #45 char
+INFO  12:46:56,255 - #45 c
+INFO  12:46:56,255 - #33 ;
+INFO  12:46:56,255 - #45 int
+INFO  12:46:56,255 - #45 niza
+INFO  12:46:56,255 - #38 [
+INFO  12:46:56,255 - #39 ]
+INFO  12:46:56,255 - #33 ;
+INFO  12:46:56,256 - #45 char
+INFO  12:46:56,256 - #45 nizb
+INFO  12:46:56,256 - #38 [
+INFO  12:46:56,256 - #39 ]
+INFO  12:46:56,256 - #33 ;
+INFO  12:46:56,256 - #45 bool
+INFO  12:46:56,256 - #45 nizc
+INFO  12:46:56,256 - #38 [
+INFO  12:46:56,256 - #39 ]
+INFO  12:46:56,256 - #33 ;
+INFO  12:46:56,256 - #40 {
+INFO  12:46:56,256 - #45 int
+INFO  12:46:56,257 - #45 funkcija1
+INFO  12:46:56,257 - #36 (
+INFO  12:46:56,257 - #37 )
+INFO  12:46:56,258 - #40 {
+INFO  12:46:56,258 - #10 return
+INFO  12:46:56,259 - #42 1
+INFO  12:46:56,259 - #33 ;
+INFO  12:46:56,260 - #41 }
+INFO  12:46:56,260 - #11 void
+INFO  12:46:56,261 - #45 main
+INFO  12:46:56,261 - #36 (
+INFO  12:46:56,262 - #37 )
+INFO  12:46:56,262 - #40 {
+INFO  12:46:56,262 - #45 a
+INFO  12:46:56,262 - #30 =
+INFO  12:46:56,262 - #42 1
+INFO  12:46:56,262 - #17 +
+INFO  12:46:56,262 - #42 2
+INFO  12:46:56,263 - #17 +
+INFO  12:46:56,263 - #42 3
+INFO  12:46:56,263 - #19 *
+INFO  12:46:56,264 - #45 funkcija1
+INFO  12:46:56,264 - #38 [
+INFO  12:46:56,265 - #42 1
+INFO  12:46:56,265 - #39 ]
+INFO  12:46:56,267 - #33 ;
+INFO  12:46:56,268 - #41 }
+INFO  12:46:56,268 - #41 }
+INFO  12:46:56,268 - Zavrseno parsiranje 
+
+
+ERROR 12:46:56,279 - Greska na liniji 29: funkcija1 nije niz.
+ERROR 12:46:56,279 - Greska na liniji 19: Koristi se pristup nizu a identifikator nije ime niza
+ERROR 12:46:56,279 - Greska na liniji 19: Faktor u izrazu nije tipa int.
+ERROR 12:46:56,279 - Greska na liniji 19: Faktor u izrazu nije tipa int.
+ERROR 12:46:56,279 - Greska na liniji 19: Nekompatibilne vrednosti pri iskazu dodele 
+INFO  12:46:56,279 - Print calls = 0

@@ -1,0 +1,100 @@
+INFO  19:14:14,355 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:14:14,454 - #2 program
+INFO  19:14:14,454 - #45 p
+INFO  19:14:14,454 - #40 {
+INFO  19:14:14,456 - #11 void
+INFO  19:14:14,457 - #45 main
+INFO  19:14:14,458 - #36 (
+INFO  19:14:14,459 - #37 )
+INFO  19:14:14,460 - #40 {
+INFO  19:14:14,461 - #45 a
+INFO  19:14:14,461 - #30 =
+INFO  19:14:14,462 - #45 b
+INFO  19:14:14,463 - #17 +
+INFO  19:14:14,465 - #45 c
+INFO  19:14:14,466 - #33 ;
+INFO  19:14:14,467 - #45 v
+INFO  19:14:14,468 - #30 =
+INFO  19:14:14,468 - #45 a
+INFO  19:14:14,468 - #19 *
+INFO  19:14:14,468 - #45 a
+INFO  19:14:14,470 - #33 ;
+INFO  19:14:14,472 - #45 x
+INFO  19:14:14,472 - #30 =
+INFO  19:14:14,472 - #42 44
+INFO  19:14:14,472 - #33 ;
+INFO  19:14:14,472 - #45 niz
+INFO  19:14:14,472 - #30 =
+INFO  19:14:14,472 - #7 new
+INFO  19:14:14,472 - #45 int
+INFO  19:14:14,473 - #38 [
+INFO  19:14:14,473 - #42 5
+INFO  19:14:14,473 - #39 ]
+INFO  19:14:14,474 - #33 ;
+INFO  19:14:14,474 - #45 niz
+INFO  19:14:14,474 - #38 [
+INFO  19:14:14,474 - #42 3
+INFO  19:14:14,474 - #39 ]
+INFO  19:14:14,475 - #30 =
+INFO  19:14:14,475 - #42 22
+INFO  19:14:14,475 - #33 ;
+INFO  19:14:14,475 - #41 }
+INFO  19:14:14,475 - #41 }
+INFO  19:14:14,477 - Zavrseno parsiranje 
+
+
+ERROR 19:14:14,492 - Greska na liniji 6: Koristi se nedeklarisan simbol
+ERROR 19:14:14,493 - Greska na liniji 6: Koristi se nedeklarisan simbol
+ERROR 19:14:14,493 - Greska na liniji 6: Koristi se nedeklarisan simbol
+ERROR 19:14:14,493 - Greska na liniji 6: Faktor u izrazu nije tipa int.
+ERROR 19:14:14,493 - Greska na liniji 6: Nekompatibilne vrednosti pri iskazu dodele 
+ERROR 19:14:14,493 - Greska na liniji 7: Koristi se nedeklarisan simbol
+ERROR 19:14:14,493 - Greska na liniji 7: Koristi se nedeklarisan simbol
+ERROR 19:14:14,493 - Greska na liniji 7: Koristi se nedeklarisan simbol
+ERROR 19:14:14,493 - Greska na liniji 7: Faktor u izrazu nije tipa int ili su array ali ne ispunjavaju uslove da su oba istog tipa i da je operacija * ili da je jedan skalar a drugi niz i kompatibilnih su tipova
+ERROR 19:14:14,493 - Greska na liniji 7: Nekompatibilne vrednosti pri iskazu dodele 
+ERROR 19:14:14,493 - Greska na liniji 8: Koristi se nedeklarisan simbol
+ERROR 19:14:14,493 - Greska na liniji 8: Nekompatibilne vrednosti pri iskazu dodele 
+ERROR 19:14:14,494 - Greska na liniji 9: Koristi se nedeklarisan simbol
+ERROR 19:14:14,494 - Greska na liniji 9: Nekompatibilne vrednosti pri iskazu dodele 
+ERROR 19:14:14,494 - Greska na liniji 10: Identifikator niz ne postoji u tabeli simbola
+ERROR 19:14:14,494 - Greska na liniji 5:  nije niz.
+ERROR 19:14:14,494 - Greska na liniji 10: Koristi se nedeklarisan simbol
+ERROR 19:14:14,494 - Greska na liniji 10 : Pristup strukturi koja nije niz kao elementu niza ili polju klase(klase nisu obradjivane za fazu a)
+ERROR 19:14:14,495 - Greska na liniji DesignatorAssignExpress(
+  Designator(
+    DesignatorArrayOrClass(
+      ArrayOrClassName(
+       niz
+      ) [ArrayOrClassName]
+      ExistingDesignatorListSingle(
+        DesignatorElementExpr(
+          Expression(
+            NonExistingOptionalMinus(
+            ) [NonExistingOptionalMinus]
+            SingleExpressionList(
+              TermSingleFactor(
+                FactorNumConst(
+                 3
+                ) [FactorNumConst]
+              ) [TermSingleFactor]
+            ) [SingleExpressionList]
+          ) [Expression]
+        ) [DesignatorElementExpr]
+      ) [ExistingDesignatorListSingle]
+    ) [DesignatorArrayOrClass]
+  ) [Designator]
+  Expression(
+    NonExistingOptionalMinus(
+    ) [NonExistingOptionalMinus]
+    SingleExpressionList(
+      TermSingleFactor(
+        FactorNumConst(
+         22
+        ) [FactorNumConst]
+      ) [TermSingleFactor]
+    ) [SingleExpressionList]
+  ) [Expression]
+) [DesignatorAssignExpress]: Dodela vrednosti identifikatoru koji nije promenljiva ili element niza
+INFO  19:14:14,495 - Print calls = 0
+ERROR 19:14:14,496 - Parsiranje NIJE uspesno zavrseno!

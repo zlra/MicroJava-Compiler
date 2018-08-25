@@ -1,0 +1,63 @@
+INFO  19:09:56,707 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:09:56,742 - #2 program
+INFO  19:09:56,742 - #45 test301
+INFO  19:09:56,742 - #45 int
+INFO  19:09:56,743 - #45 niza
+INFO  19:09:56,743 - #38 [
+INFO  19:09:56,743 - #39 ]
+INFO  19:09:56,744 - #34 ,
+INFO  19:09:56,744 - #45 nizb
+INFO  19:09:56,744 - #38 [
+INFO  19:09:56,745 - #39 ]
+INFO  19:09:56,745 - #34 ,
+INFO  19:09:56,745 - #45 nizc
+INFO  19:09:56,745 - #38 [
+INFO  19:09:56,745 - #39 ]
+INFO  19:09:56,745 - #33 ;
+INFO  19:09:56,745 - #45 int
+INFO  19:09:56,746 - #45 a
+INFO  19:09:56,746 - #34 ,
+INFO  19:09:56,746 - #45 b
+INFO  19:09:56,746 - #33 ;
+INFO  19:09:56,750 - #40 {
+INFO  19:09:56,750 - #11 void
+INFO  19:09:56,750 - #45 main
+INFO  19:09:56,751 - #36 (
+INFO  19:09:56,751 - #37 )
+INFO  19:09:56,752 - #40 {
+INFO  19:09:56,752 - #45 niza
+INFO  19:09:56,753 - #30 =
+INFO  19:09:56,753 - #7 new
+INFO  19:09:56,754 - #45 int
+INFO  19:09:56,754 - #38 [
+INFO  19:09:56,754 - #42 5
+INFO  19:09:56,754 - #39 ]
+INFO  19:09:56,755 - #33 ;
+INFO  19:09:56,755 - #45 nizb
+INFO  19:09:56,756 - #30 =
+INFO  19:09:56,756 - #7 new
+INFO  19:09:56,756 - #45 int
+INFO  19:09:56,756 - #38 [
+INFO  19:09:56,756 - #42 5
+INFO  19:09:56,756 - #39 ]
+INFO  19:09:56,756 - #33 ;
+INFO  19:09:56,756 - #8 print
+INFO  19:09:56,756 - #36 (
+INFO  19:09:56,756 - #44 'z'
+INFO  19:09:56,756 - #37 )
+INFO  19:09:56,756 - #33 ;
+INFO  19:09:56,756 - #45 a
+INFO  19:09:56,757 - #30 =
+INFO  19:09:56,757 - #45 niza
+INFO  19:09:56,757 - #19 *
+INFO  19:09:56,758 - #45 nizb
+INFO  19:09:56,759 - #33 ;
+INFO  19:09:56,759 - #41 }
+INFO  19:09:56,759 - #41 }
+INFO  19:09:56,761 - Zavrseno parsiranje 
+
+
+INFO  19:09:56,772 - Detektovana upotreba globalne promenljive a na liniji 9
+INFO  19:09:56,773 - Print calls = 0
+INFO  19:09:56,773 - Generating bytecode file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  19:09:56,778 - Parsiranje uspesno zavrseno!

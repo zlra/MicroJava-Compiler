@@ -1,0 +1,16 @@
+program test9
+	int niz[];
+{
+	void main() {
+		
+		niz = new int[5];
+		
+		print(ord('A'));
+		print(chr(65));
+		
+		print(ord('D'));
+		print(chr(68));
+		
+		print('a');
+	}
+}

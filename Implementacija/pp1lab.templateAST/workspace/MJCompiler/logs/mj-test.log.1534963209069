@@ -1,0 +1,132 @@
+INFO  20:39:34,232 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:39:34,272 - #2 program
+INFO  20:39:34,272 - #45 test301
+INFO  20:39:34,272 - #45 int
+INFO  20:39:34,273 - #45 niza
+INFO  20:39:34,273 - #38 [
+INFO  20:39:34,273 - #39 ]
+INFO  20:39:34,273 - #34 ,
+INFO  20:39:34,274 - #45 nizb
+INFO  20:39:34,274 - #38 [
+INFO  20:39:34,274 - #39 ]
+INFO  20:39:34,274 - #34 ,
+INFO  20:39:34,274 - #45 nizc
+INFO  20:39:34,275 - #38 [
+INFO  20:39:34,275 - #39 ]
+INFO  20:39:34,275 - #33 ;
+INFO  20:39:34,275 - #45 int
+INFO  20:39:34,275 - #45 a
+INFO  20:39:34,275 - #34 ,
+INFO  20:39:34,276 - #45 b
+INFO  20:39:34,276 - #33 ;
+INFO  20:39:34,276 - #40 {
+INFO  20:39:34,276 - #11 void
+INFO  20:39:34,277 - #45 main
+INFO  20:39:34,277 - #36 (
+INFO  20:39:34,278 - #37 )
+INFO  20:39:34,278 - #40 {
+INFO  20:39:34,278 - #45 niza
+INFO  20:39:34,279 - #30 =
+INFO  20:39:34,279 - #7 new
+INFO  20:39:34,280 - #45 int
+INFO  20:39:34,280 - #38 [
+INFO  20:39:34,280 - #42 5
+INFO  20:39:34,280 - #39 ]
+INFO  20:39:34,281 - #33 ;
+INFO  20:39:34,281 - #45 nizb
+INFO  20:39:34,281 - #30 =
+INFO  20:39:34,281 - #7 new
+INFO  20:39:34,281 - #45 int
+INFO  20:39:34,281 - #38 [
+INFO  20:39:34,281 - #42 5
+INFO  20:39:34,281 - #39 ]
+INFO  20:39:34,281 - #33 ;
+INFO  20:39:34,282 - #45 nizc
+INFO  20:39:34,282 - #30 =
+INFO  20:39:34,282 - #7 new
+INFO  20:39:34,282 - #45 int
+INFO  20:39:34,282 - #38 [
+INFO  20:39:34,282 - #42 5
+INFO  20:39:34,282 - #39 ]
+INFO  20:39:34,282 - #33 ;
+INFO  20:39:34,282 - #45 niza
+INFO  20:39:34,282 - #38 [
+INFO  20:39:34,283 - #42 0
+INFO  20:39:34,283 - #39 ]
+INFO  20:39:34,283 - #30 =
+INFO  20:39:34,283 - #42 1
+INFO  20:39:34,283 - #33 ;
+INFO  20:39:34,283 - #45 niza
+INFO  20:39:34,283 - #38 [
+INFO  20:39:34,285 - #42 1
+INFO  20:39:34,286 - #39 ]
+INFO  20:39:34,286 - #30 =
+INFO  20:39:34,286 - #42 2
+INFO  20:39:34,286 - #33 ;
+INFO  20:39:34,286 - #45 niza
+INFO  20:39:34,286 - #38 [
+INFO  20:39:34,286 - #42 2
+INFO  20:39:34,286 - #39 ]
+INFO  20:39:34,286 - #30 =
+INFO  20:39:34,286 - #42 3
+INFO  20:39:34,286 - #33 ;
+INFO  20:39:34,287 - #45 niza
+INFO  20:39:34,287 - #38 [
+INFO  20:39:34,287 - #42 3
+INFO  20:39:34,287 - #39 ]
+INFO  20:39:34,287 - #30 =
+INFO  20:39:34,287 - #42 4
+INFO  20:39:34,287 - #33 ;
+INFO  20:39:34,287 - #45 niza
+INFO  20:39:34,287 - #38 [
+INFO  20:39:34,287 - #42 4
+INFO  20:39:34,287 - #39 ]
+INFO  20:39:34,287 - #30 =
+INFO  20:39:34,287 - #42 5
+INFO  20:39:34,287 - #33 ;
+INFO  20:39:34,287 - #45 nizb
+INFO  20:39:34,287 - #38 [
+INFO  20:39:34,287 - #42 0
+INFO  20:39:34,287 - #39 ]
+INFO  20:39:34,288 - #30 =
+INFO  20:39:34,288 - #42 2
+INFO  20:39:34,288 - #33 ;
+INFO  20:39:34,288 - #45 nizc
+INFO  20:39:34,288 - #38 [
+INFO  20:39:34,288 - #42 3
+INFO  20:39:34,288 - #39 ]
+INFO  20:39:34,288 - #30 =
+INFO  20:39:34,288 - #42 5
+INFO  20:39:34,288 - #33 ;
+INFO  20:39:34,288 - #8 print
+INFO  20:39:34,288 - #36 (
+INFO  20:39:34,288 - #44 'z'
+INFO  20:39:34,288 - #37 )
+INFO  20:39:34,288 - #33 ;
+INFO  20:39:34,289 - #45 nizb
+INFO  20:39:34,289 - #30 =
+INFO  20:39:34,289 - #45 niza
+INFO  20:39:34,289 - #17 +
+INFO  20:39:34,289 - #45 nizc
+INFO  20:39:34,290 - #33 ;
+INFO  20:39:34,290 - #8 print
+INFO  20:39:34,291 - #36 (
+INFO  20:39:34,291 - #45 a
+INFO  20:39:34,291 - #37 )
+INFO  20:39:34,291 - #33 ;
+INFO  20:39:34,291 - #41 }
+INFO  20:39:34,291 - #41 }
+INFO  20:39:34,292 - Zavrseno parsiranje 
+
+
+INFO  20:39:34,303 - Detektovano koriscenje elementa niza na liniji 10
+INFO  20:39:34,303 - Detektovano koriscenje elementa niza na liniji 11
+INFO  20:39:34,303 - Detektovano koriscenje elementa niza na liniji 12
+INFO  20:39:34,303 - Detektovano koriscenje elementa niza na liniji 13
+INFO  20:39:34,304 - Detektovano koriscenje elementa niza na liniji 14
+INFO  20:39:34,304 - Detektovano koriscenje elementa niza na liniji 16
+INFO  20:39:34,304 - Detektovano koriscenje elementa niza na liniji 17
+INFO  20:39:34,304 - Detektovana upotreba globalne promenljive a na liniji 21
+INFO  20:39:34,304 - Print calls = 0
+INFO  20:39:34,305 - Generating bytecode file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  20:39:34,309 - Parsiranje uspesno zavrseno!

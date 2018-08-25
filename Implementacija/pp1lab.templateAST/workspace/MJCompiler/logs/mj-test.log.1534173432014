@@ -1,0 +1,21 @@
+INFO  17:16:26,413 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:16:26,448 - #2 program
+INFO  17:16:26,448 - #45 P
+INFO  17:16:26,448 - #45 int
+INFO  17:16:26,449 - #37 )
+ERROR 17:16:26,450 - 
+Sintaksna greska na liniji 2
+INFO  17:16:26,450 - #33 ;
+INFO  17:16:26,450 - #40 {
+INFO  17:16:26,450 - #11 void
+INFO  17:16:26,450 - #45 main
+ERROR 17:16:26,450 - Greska pri definiciji globalne promenljive na liniji 3
+INFO  17:16:26,452 - #36 (
+INFO  17:16:26,452 - #37 )
+INFO  17:16:26,453 - #40 {
+INFO  17:16:26,453 - #41 }
+INFO  17:16:26,454 - #41 }
+INFO  17:16:26,455 - Zavrseno parsiranje 
+
+
+INFO  17:16:26,463 - Print calls = 0

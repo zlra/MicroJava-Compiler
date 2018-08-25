@@ -1,0 +1,37 @@
+INFO  14:49:30,733 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:49:30,769 - #2 program
+INFO  14:49:30,769 - #45 P
+INFO  14:49:30,769 - #45 char
+INFO  14:49:30,770 - #45 x
+INFO  14:49:30,770 - #34 ,
+INFO  14:49:30,771 - #45 y
+INFO  14:49:30,771 - #34 ,
+INFO  14:49:30,771 - #45 z
+INFO  14:49:30,772 - #33 ;
+INFO  14:49:30,772 - #16 const
+INFO  14:49:30,772 - #45 int
+INFO  14:49:30,772 - #45 a
+INFO  14:49:30,772 - #30 =
+INFO  14:49:30,773 - #44 'b'
+INFO  14:49:30,773 - #33 ;
+INFO  14:49:30,773 - #40 {
+INFO  14:49:30,774 - #11 void
+INFO  14:49:30,774 - #45 main
+INFO  14:49:30,774 - #36 (
+INFO  14:49:30,775 - #37 )
+INFO  14:49:30,777 - #40 {
+INFO  14:49:30,778 - #41 }
+INFO  14:49:30,778 - #41 }
+INFO  14:49:30,780 - Zavrseno parsiranje 
+
+
+INFO  14:49:30,792 - Smena declaration list empty
+INFO  14:49:30,792 - Smena declaration list not empty
+ERROR 14:49:30,792 - Greska na liniji 0: Pogresan tip pri dodeli vrednosti char konstanti.
+INFO  14:49:30,792 - Smena declaration list not empty
+INFO  14:49:30,792 - Smena method declaration list empty
+INFO  14:49:30,792 - Metoda je void 
+INFO  14:49:30,792 - Smena method declaration nadjena
+INFO  14:49:30,792 - Metoda main dodata u scope
+INFO  14:49:30,792 - Smena  method declaration list
+INFO  14:49:30,792 - Print calls = 0

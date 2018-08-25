@@ -1,0 +1,64 @@
+INFO  02:51:20,723 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  02:51:20,759 - #2 program
+INFO  02:51:20,759 - #45 test301
+INFO  02:51:20,759 - #16 const
+INFO  02:51:20,760 - #45 int
+INFO  02:51:20,760 - #45 jedan
+INFO  02:51:20,761 - #30 =
+INFO  02:51:20,761 - #42 1
+INFO  02:51:20,761 - #33 ;
+INFO  02:51:20,761 - #16 const
+INFO  02:51:20,762 - #45 int
+INFO  02:51:20,762 - #45 pet
+INFO  02:51:20,762 - #30 =
+INFO  02:51:20,762 - #42 5
+INFO  02:51:20,762 - #33 ;
+INFO  02:51:20,762 - #45 int
+INFO  02:51:20,762 - #45 niz
+INFO  02:51:20,762 - #38 [
+INFO  02:51:20,762 - #39 ]
+INFO  02:51:20,762 - #33 ;
+INFO  02:51:20,763 - #45 char
+INFO  02:51:20,767 - #45 nizch
+INFO  02:51:20,767 - #38 [
+INFO  02:51:20,767 - #39 ]
+INFO  02:51:20,767 - #33 ;
+INFO  02:51:20,767 - #40 {
+INFO  02:51:20,767 - #45 int
+INFO  02:51:20,768 - #45 funkcija
+INFO  02:51:20,768 - #36 (
+INFO  02:51:20,768 - #45 int
+INFO  02:51:20,768 - #45 a
+INFO  02:51:20,768 - #34 ,
+INFO  02:51:20,769 - #45 char
+INFO  02:51:20,769 - #45 b
+INFO  02:51:20,769 - #37 )
+INFO  02:51:20,770 - #40 {
+INFO  02:51:20,770 - #10 return
+INFO  02:51:20,771 - #42 2
+INFO  02:51:20,771 - #33 ;
+INFO  02:51:20,772 - #41 }
+INFO  02:51:20,772 - #11 void
+INFO  02:51:20,773 - #45 main
+INFO  02:51:20,774 - #36 (
+INFO  02:51:20,774 - #37 )
+INFO  02:51:20,774 - #45 int
+INFO  02:51:20,774 - #45 bodovi
+INFO  02:51:20,774 - #33 ;
+INFO  02:51:20,775 - #40 {
+INFO  02:51:20,775 - #45 funkcija
+INFO  02:51:20,775 - #36 (
+INFO  02:51:20,775 - #42 5
+INFO  02:51:20,775 - #34 ,
+INFO  02:51:20,776 - #42 6
+INFO  02:51:20,776 - #37 )
+INFO  02:51:20,776 - #33 ;
+INFO  02:51:20,776 - #41 }
+INFO  02:51:20,776 - #41 }
+INFO  02:51:20,777 - Zavrseno parsiranje 
+
+
+INFO  02:51:20,788 - Detektovana upotreba globalne metode funkcija na liniji 18
+ERROR 02:51:20,797 - Greska na liniji 10: Tipovi argumenata pri pozivu funkcije i njenom deklarisanju se razlikuju
+INFO  02:51:20,797 - Print calls = 0
+ERROR 02:51:20,798 - Parsiranje NIJE uspesno zavrseno!

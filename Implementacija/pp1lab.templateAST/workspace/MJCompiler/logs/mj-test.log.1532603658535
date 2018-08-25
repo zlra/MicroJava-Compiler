@@ -1,0 +1,37 @@
+INFO  13:14:00,080 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  13:14:00,116 - #2 program
+INFO  13:14:00,116 - #45 P
+INFO  13:14:00,116 - #45 double
+INFO  13:14:00,117 - #45 x
+INFO  13:14:00,118 - #34 ,
+INFO  13:14:00,119 - #45 y
+INFO  13:14:00,119 - #34 ,
+INFO  13:14:00,120 - #45 z
+INFO  13:14:00,120 - #33 ;
+INFO  13:14:00,121 - #16 const
+INFO  13:14:00,121 - #45 int
+INFO  13:14:00,121 - #45 a
+INFO  13:14:00,121 - #30 =
+INFO  13:14:00,121 - #42 10
+INFO  13:14:00,121 - #33 ;
+INFO  13:14:00,122 - #40 {
+INFO  13:14:00,123 - #11 void
+INFO  13:14:00,123 - #45 main
+INFO  13:14:00,124 - #36 (
+INFO  13:14:00,124 - #37 )
+INFO  13:14:00,132 - #40 {
+INFO  13:14:00,132 - #41 }
+INFO  13:14:00,133 - #41 }
+INFO  13:14:00,134 - Zavrseno parsiranje 
+
+
+INFO  13:14:00,144 - Smena declaration list empty
+ERROR 13:14:00,144 - Greska na liniji 2: double ne postoji u tabeli simbola
+INFO  13:14:00,144 - Smena declaration list not empty
+INFO  13:14:00,144 - Smena declaration list not empty
+INFO  13:14:00,144 - Smena method declaration list empty
+INFO  13:14:00,144 - Metoda je void 
+INFO  13:14:00,144 - Smena method declaration nadjena
+INFO  13:14:00,144 - Metoda main dodata u scope
+INFO  13:14:00,144 - Smena  method declaration list
+INFO  13:14:00,144 - Print calls = 0

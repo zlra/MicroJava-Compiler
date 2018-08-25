@@ -1,0 +1,64 @@
+INFO  02:45:21,082 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  02:45:21,125 - #2 program
+INFO  02:45:21,126 - #45 test301
+INFO  02:45:21,126 - #16 const
+INFO  02:45:21,127 - #45 int
+INFO  02:45:21,127 - #45 jedan
+INFO  02:45:21,128 - #30 =
+INFO  02:45:21,128 - #42 1
+INFO  02:45:21,128 - #33 ;
+INFO  02:45:21,129 - #16 const
+INFO  02:45:21,129 - #45 int
+INFO  02:45:21,129 - #45 pet
+INFO  02:45:21,129 - #30 =
+INFO  02:45:21,129 - #42 5
+INFO  02:45:21,129 - #33 ;
+INFO  02:45:21,129 - #45 int
+INFO  02:45:21,129 - #45 niz
+INFO  02:45:21,129 - #38 [
+INFO  02:45:21,129 - #39 ]
+INFO  02:45:21,130 - #33 ;
+INFO  02:45:21,131 - #45 char
+INFO  02:45:21,139 - #45 nizch
+INFO  02:45:21,139 - #38 [
+INFO  02:45:21,139 - #39 ]
+INFO  02:45:21,139 - #33 ;
+INFO  02:45:21,139 - #40 {
+INFO  02:45:21,139 - #45 int
+INFO  02:45:21,140 - #45 funkcija
+INFO  02:45:21,140 - #36 (
+INFO  02:45:21,141 - #45 int
+INFO  02:45:21,141 - #45 a
+INFO  02:45:21,141 - #34 ,
+INFO  02:45:21,142 - #45 char
+INFO  02:45:21,142 - #45 b
+INFO  02:45:21,142 - #37 )
+INFO  02:45:21,142 - #40 {
+INFO  02:45:21,142 - #10 return
+INFO  02:45:21,143 - #42 2
+INFO  02:45:21,144 - #33 ;
+INFO  02:45:21,145 - #41 }
+INFO  02:45:21,146 - #11 void
+INFO  02:45:21,147 - #45 main
+INFO  02:45:21,148 - #36 (
+INFO  02:45:21,148 - #37 )
+INFO  02:45:21,148 - #45 int
+INFO  02:45:21,148 - #45 bodovi
+INFO  02:45:21,148 - #33 ;
+INFO  02:45:21,148 - #40 {
+INFO  02:45:21,149 - #45 funkcija
+INFO  02:45:21,149 - #36 (
+INFO  02:45:21,149 - #42 5
+INFO  02:45:21,149 - #34 ,
+INFO  02:45:21,150 - #42 6
+INFO  02:45:21,150 - #37 )
+INFO  02:45:21,150 - #33 ;
+INFO  02:45:21,150 - #41 }
+INFO  02:45:21,150 - #41 }
+INFO  02:45:21,151 - Zavrseno parsiranje 
+
+
+INFO  02:45:30,773 - Detektovana upotreba globalne metode funkcija na liniji 18
+INFO  02:45:30,779 - Print calls = 0
+INFO  02:45:30,782 - Generating bytecode file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  02:45:30,814 - Parsiranje uspesno zavrseno!

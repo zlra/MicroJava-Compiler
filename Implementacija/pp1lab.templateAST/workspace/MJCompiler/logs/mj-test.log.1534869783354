@@ -1,0 +1,46 @@
+INFO  18:42:53,058 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:42:53,092 - #2 program
+INFO  18:42:53,092 - #45 test301
+INFO  18:42:53,092 - #45 int
+INFO  18:42:53,092 - #45 niza
+INFO  18:42:53,093 - #38 [
+INFO  18:42:53,093 - #39 ]
+INFO  18:42:53,093 - #34 ,
+INFO  18:42:53,094 - #45 nizb
+INFO  18:42:53,094 - #38 [
+INFO  18:42:53,094 - #39 ]
+INFO  18:42:53,094 - #34 ,
+INFO  18:42:53,094 - #45 nizc
+INFO  18:42:53,094 - #38 [
+INFO  18:42:53,094 - #39 ]
+INFO  18:42:53,094 - #33 ;
+INFO  18:42:53,095 - #45 char
+INFO  18:42:53,095 - #45 nizd
+INFO  18:42:53,095 - #38 [
+INFO  18:42:53,095 - #39 ]
+INFO  18:42:53,095 - #33 ;
+INFO  18:42:53,097 - #45 int
+INFO  18:42:53,097 - #45 a
+INFO  18:42:53,097 - #34 ,
+INFO  18:42:53,097 - #45 b
+INFO  18:42:53,097 - #33 ;
+INFO  18:42:53,097 - #40 {
+INFO  18:42:53,097 - #11 void
+INFO  18:42:53,098 - #45 main
+INFO  18:42:53,098 - #36 (
+INFO  18:42:53,098 - #37 )
+INFO  18:42:53,099 - #40 {
+INFO  18:42:53,099 - #45 nizc
+INFO  18:42:53,100 - #30 =
+INFO  18:42:53,100 - #45 niza
+INFO  18:42:53,101 - #19 *
+INFO  18:42:53,101 - #45 nizb
+INFO  18:42:53,102 - #33 ;
+INFO  18:42:53,103 - #41 }
+INFO  18:42:53,103 - #41 }
+INFO  18:42:53,105 - Zavrseno parsiranje 
+
+
+ERROR 18:42:53,115 - Greska na liniji 7: Dodela vrednosti nizu osim naredbom new sa kompatibilnim tipom elemenata nije dozvoljena
+INFO  18:42:53,115 - Print calls = 0
+ERROR 18:42:53,116 - Parsiranje NIJE uspesno zavrseno!

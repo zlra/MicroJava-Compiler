@@ -1,0 +1,38 @@
+INFO  09:13:09,769 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  09:13:09,804 - #2 program
+INFO  09:13:09,804 - #45 P
+INFO  09:13:09,804 - #16 const
+INFO  09:13:09,805 - #45 int
+INFO  09:13:09,805 - #45 size
+INFO  09:13:09,806 - #30 =
+INFO  09:13:09,806 - #42 10
+INFO  09:13:09,806 - #33 ;
+INFO  09:13:09,807 - #45 int
+INFO  09:13:09,807 - #45 x
+INFO  09:13:09,807 - #34 ,
+INFO  09:13:09,808 - #45 abcd
+INFO  09:13:09,808 - #34 ,
+INFO  09:13:09,808 - #45 ok
+INFO  09:13:09,808 - #34 ,
+INFO  09:13:09,808 - #45 i
+INFO  09:13:09,808 - #33 ;
+INFO  09:13:09,809 - #45 Table
+INFO  09:13:09,809 - #45 val
+INFO  09:13:09,809 - #33 ;
+INFO  09:13:09,809 - #40 {
+INFO  09:13:09,809 - #11 void
+INFO  09:13:09,810 - #45 main
+INFO  09:13:09,810 - #36 (
+INFO  09:13:09,810 - #37 )
+INFO  09:13:09,810 - #40 {
+INFO  09:13:09,811 - #45 x
+INFO  09:13:09,811 - #31 ++
+INFO  09:13:09,812 - #33 ;
+INFO  09:13:09,812 - #41 }
+INFO  09:13:09,812 - #41 }
+INFO  09:13:09,813 - Zavrseno parsiranje 
+
+
+INFO  09:13:09,823 - Smena programName
+INFO  09:13:09,823 - Smena program 
+INFO  09:13:09,823 - Print calls = 0

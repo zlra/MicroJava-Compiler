@@ -1,0 +1,178 @@
+INFO  22:54:48,184 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:54:48,230 - #2 program
+INFO  22:54:48,230 - #45 ProveraSintaksnihSmena
+INFO  22:54:48,231 - #16 const
+INFO  22:54:48,232 - #45 int
+INFO  22:54:48,232 - #45 x
+INFO  22:54:48,232 - #30 =
+INFO  22:54:48,232 - #42 1
+INFO  22:54:48,232 - #33 ;
+INFO  22:54:48,233 - #45 int
+INFO  22:54:48,233 - #45 y
+INFO  22:54:48,233 - #38 [
+INFO  22:54:48,233 - #39 ]
+INFO  22:54:48,233 - #34 ,
+INFO  22:54:48,234 - #45 j
+INFO  22:54:48,235 - #30 =
+ERROR 22:54:48,235 - 
+Sintaksna greska na liniji 3
+INFO  22:54:48,235 - #33 ;
+INFO  22:54:48,235 - #45 bool
+INFO  22:54:48,235 - #45 z
+INFO  22:54:48,238 - #33 ;
+ERROR 22:54:48,238 - Greska pri definiciji globalne promenljive na liniji 3
+INFO  22:54:48,240 - #40 {
+INFO  22:54:48,240 - #45 int
+INFO  22:54:48,241 - #45 k
+INFO  22:54:48,241 - #36 (
+INFO  22:54:48,241 - #45 int
+INFO  22:54:48,241 - #45 a
+INFO  22:54:48,242 - #38 [
+INFO  22:54:48,242 - #39 ]
+INFO  22:54:48,242 - #34 ,
+INFO  22:54:48,242 - #45 int
+INFO  22:54:48,242 - #45 b
+INFO  22:54:48,242 - #37 )
+INFO  22:54:48,243 - #45 int
+INFO  22:54:48,243 - #45 c
+INFO  22:54:48,244 - #33 ;
+INFO  22:54:48,244 - #40 {
+INFO  22:54:48,244 - #45 c
+INFO  22:54:48,245 - #38 [
+INFO  22:54:48,245 - #42 3
+INFO  22:54:48,246 - #39 ]
+INFO  22:54:48,247 - #30 =
+INFO  22:54:48,249 - #42 0
+INFO  22:54:48,249 - #33 ;
+INFO  22:54:48,249 - #12 do
+INFO  22:54:48,250 - #40 {
+INFO  22:54:48,250 - #3 break
+INFO  22:54:48,250 - #33 ;
+INFO  22:54:48,250 - #15 continue
+INFO  22:54:48,251 - #33 ;
+INFO  22:54:48,251 - #45 a
+INFO  22:54:48,252 - #38 [
+INFO  22:54:48,252 - #42 1
+INFO  22:54:48,252 - #39 ]
+INFO  22:54:48,252 - #30 =
+INFO  22:54:48,252 - #45 a
+INFO  22:54:48,252 - #17 +
+INFO  22:54:48,253 - #45 b
+INFO  22:54:48,254 - #18 -
+INFO  22:54:48,256 - #45 c
+INFO  22:54:48,256 - #19 *
+INFO  22:54:48,256 - #45 d
+INFO  22:54:48,257 - #20 /
+INFO  22:54:48,258 - #45 g
+INFO  22:54:48,258 - #21 %
+INFO  22:54:48,259 - #45 e
+INFO  22:54:48,259 - #33 ;
+INFO  22:54:48,259 - #45 k
+INFO  22:54:48,259 - #36 (
+INFO  22:54:48,259 - #45 a
+INFO  22:54:48,259 - #34 ,
+INFO  22:54:48,260 - #45 b
+INFO  22:54:48,260 - #17 +
+INFO  22:54:48,260 - #42 3
+INFO  22:54:48,260 - #37 )
+INFO  22:54:48,260 - #33 ;
+INFO  22:54:48,261 - #45 a
+INFO  22:54:48,261 - #38 [
+INFO  22:54:48,261 - #42 5
+INFO  22:54:48,261 - #39 ]
+INFO  22:54:48,261 - #30 =
+INFO  22:54:48,261 - #45 k
+INFO  22:54:48,261 - #36 (
+INFO  22:54:48,261 - #45 a
+INFO  22:54:48,261 - #34 ,
+INFO  22:54:48,261 - #45 b
+INFO  22:54:48,261 - #17 +
+INFO  22:54:48,261 - #42 3
+INFO  22:54:48,262 - #37 )
+INFO  22:54:48,262 - #17 +
+INFO  22:54:48,262 - #42 8
+INFO  22:54:48,262 - #33 ;
+INFO  22:54:48,262 - #41 }
+INFO  22:54:48,262 - #13 while
+INFO  22:54:48,262 - #36 (
+INFO  22:54:48,263 - #45 a
+INFO  22:54:48,263 - #38 [
+INFO  22:54:48,263 - #45 i
+INFO  22:54:48,263 - #39 ]
+INFO  22:54:48,263 - #22 <
+INFO  22:54:48,264 - #45 b
+INFO  22:54:48,264 - #37 )
+INFO  22:54:48,266 - #33 ;
+INFO  22:54:48,266 - #10 return
+INFO  22:54:48,267 - #45 c
+INFO  22:54:48,267 - #38 [
+INFO  22:54:48,267 - #42 2
+INFO  22:54:48,267 - #39 ]
+INFO  22:54:48,267 - #33 ;
+INFO  22:54:48,267 - #41 }
+INFO  22:54:48,268 - #45 int
+INFO  22:54:48,269 - #45 main
+INFO  22:54:48,269 - #36 (
+INFO  22:54:48,269 - #37 )
+INFO  22:54:48,269 - #40 {
+INFO  22:54:48,269 - #6 if
+INFO  22:54:48,270 - #36 (
+INFO  22:54:48,270 - #42 5
+INFO  22:54:48,270 - #24 >
+INFO  22:54:48,270 - #42 3
+INFO  22:54:48,271 - #37 )
+INFO  22:54:48,271 - #8 print
+INFO  22:54:48,271 - #36 (
+INFO  22:54:48,271 - #42 1
+INFO  22:54:48,271 - #37 )
+INFO  22:54:48,271 - #33 ;
+INFO  22:54:48,272 - #5 else
+INFO  22:54:48,272 - #6 if
+INFO  22:54:48,273 - #36 (
+INFO  22:54:48,273 - #45 ss
+INFO  22:54:48,273 - #29 !=
+INFO  22:54:48,273 - #45 a
+INFO  22:54:48,274 - #37 )
+INFO  22:54:48,274 - #45 a
+INFO  22:54:48,274 - #31 ++
+INFO  22:54:48,274 - #33 ;
+INFO  22:54:48,274 - #45 k
+INFO  22:54:48,275 - #38 [
+INFO  22:54:48,275 - #42 3
+INFO  22:54:48,275 - #39 ]
+INFO  22:54:48,275 - #36 (
+INFO  22:54:48,275 - #37 )
+INFO  22:54:48,276 - #33 ;
+INFO  22:54:48,276 - #8 print
+INFO  22:54:48,276 - #36 (
+INFO  22:54:48,276 - #42 2
+INFO  22:54:48,276 - #37 )
+INFO  22:54:48,276 - #33 ;
+INFO  22:54:48,276 - #10 return
+INFO  22:54:48,276 - #33 ;
+INFO  22:54:48,276 - #41 }
+INFO  22:54:48,277 - #41 }
+INFO  22:54:48,277 - Zavrseno parsiranje 
+
+
+ERROR 22:55:16,020 - Greska na liniji 3: c nije niz.
+INFO  22:55:16,020 - Detektovana upotreba lokalne promenljive c na liniji 9
+ERROR 22:55:16,020 - Greska na liniji 9 : Pristup strukturi koja nije niz kao elementu niza ili polju klase(klase nisu obradjivane za fazu a)
+ERROR 22:55:34,584 - Greska na liniji 9: Dodela vrednosti identifikatoru koji nije promenljiva ili element niza
+ERROR 22:55:36,122 - Greska na liniji 4: a nije niz.
+INFO  22:55:36,123 - Detektovana upotreba lokalne promenljive a na liniji 13
+ERROR 22:55:36,123 - Greska na liniji 13 : Pristup strukturi koja nije niz kao elementu niza ili polju klase(klase nisu obradjivane za fazu a)
+INFO  22:55:36,123 - Detektovana upotreba lokalne promenljive a na liniji 13
+INFO  22:55:36,123 - Detektovana upotreba lokalne promenljive b na liniji 13
+INFO  22:55:36,123 - Detektovana upotreba lokalne promenljive c na liniji 13
+ERROR 22:55:36,123 - Greska na liniji 13: Koristi se nedeklarisan simbol
+ERROR 22:55:36,123 - Greska na liniji 13: Faktor u izrazu nije tipa int ili su array ali ne ispunjavaju uslove da su oba istog tipa i da je operacija * ili da je jedan skalar a drugi niz i kompatibilnih su tipova
+ERROR 22:55:36,123 - Greska na liniji 13: Koristi se nedeklarisan simbol
+ERROR 22:55:36,123 - Greska na liniji 13: Faktor u izrazu nije tipa int ili su array ali ne ispunjavaju uslove da su oba istog tipa i da je operacija * ili da je jedan skalar a drugi niz i kompatibilnih su tipova
+ERROR 22:55:36,123 - Greska na liniji 13: Koristi se nedeklarisan simbol
+ERROR 22:55:36,123 - Greska na liniji 13: Faktor u izrazu nije tipa int ili su array ali ne ispunjavaju uslove da su oba istog tipa i da je operacija * ili da je jedan skalar a drugi niz i kompatibilnih su tipova
+ERROR 22:55:36,123 - Greska na liniji 13: Faktor u izrazu nije tipa int.
+ERROR 22:55:40,508 - Greska na liniji 13: Dodela vrednosti identifikatoru koji nije promenljiva ili element niza
+INFO  22:55:40,508 - Detektovana upotreba globalne metode k na liniji 14
+INFO  22:55:40,508 - Detektovana upotreba lokalne promenljive a na liniji 14
+INFO  22:55:40,508 - Detektovana upotreba lokalne promenljive b na liniji 14

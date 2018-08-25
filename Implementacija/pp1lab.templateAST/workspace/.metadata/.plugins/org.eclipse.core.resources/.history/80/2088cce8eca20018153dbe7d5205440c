@@ -1,0 +1,109 @@
+// generated with ast extension for cup
+// version 0.8
+// 18/7/2018 15:44:43
+
+
+package rs.ac.bg.etf.pp1.ast;
+
+public class ClassDeclaration implements SyntaxNode {
+
+    private SyntaxNode parent;
+    private int line;
+    private String I1;
+    private OptionalExtends OptionalExtends;
+    private ClassDeclBody ClassDeclBody;
+
+    public ClassDeclaration (String I1, OptionalExtends OptionalExtends, ClassDeclBody ClassDeclBody) {
+        this.I1=I1;
+        this.OptionalExtends=OptionalExtends;
+        if(OptionalExtends!=null) OptionalExtends.setParent(this);
+        this.ClassDeclBody=ClassDeclBody;
+        if(ClassDeclBody!=null) ClassDeclBody.setParent(this);
+    }
+
+    public String getI1() {
+        return I1;
+    }
+
+    public void setI1(String I1) {
+        this.I1=I1;
+    }
+
+    public OptionalExtends getOptionalExtends() {
+        return OptionalExtends;
+    }
+
+    public void setOptionalExtends(OptionalExtends OptionalExtends) {
+        this.OptionalExtends=OptionalExtends;
+    }
+
+    public ClassDeclBody getClassDeclBody() {
+        return ClassDeclBody;
+    }
+
+    public void setClassDeclBody(ClassDeclBody ClassDeclBody) {
+        this.ClassDeclBody=ClassDeclBody;
+    }
+
+    public SyntaxNode getParent() {
+        return parent;
+    }
+
+    public void setParent(SyntaxNode parent) {
+        this.parent=parent;
+    }
+
+    public int getLine() {
+        return line;
+    }
+
+    public void setLine(int line) {
+        this.line=line;
+    }
+
+    public void accept(Visitor visitor) {
+        visitor.visit(this);
+    }
+
+    public void childrenAccept(Visitor visitor) {
+        if(OptionalExtends!=null) OptionalExtends.accept(visitor);
+        if(ClassDeclBody!=null) ClassDeclBody.accept(visitor);
+    }
+
+    public void traverseTopDown(Visitor visitor) {
+        accept(visitor);
+        if(OptionalExtends!=null) OptionalExtends.traverseTopDown(visitor);
+        if(ClassDeclBody!=null) ClassDeclBody.traverseTopDown(visitor);
+    }
+
+    public void traverseBottomUp(Visitor visitor) {
+        if(OptionalExtends!=null) OptionalExtends.traverseBottomUp(visitor);
+        if(ClassDeclBody!=null) ClassDeclBody.traverseBottomUp(visitor);
+        accept(visitor);
+    }
+
+    public String toString(String tab) {
+        StringBuffer buffer=new StringBuffer();
+        buffer.append(tab);
+        buffer.append("ClassDeclaration(\n");
+
+        buffer.append(" "+tab+I1);
+        buffer.append("\n");
+
+        if(OptionalExtends!=null)
+            buffer.append(OptionalExtends.toString("  "+tab));
+        else
+            buffer.append(tab+"  null");
+        buffer.append("\n");
+
+        if(ClassDeclBody!=null)
+            buffer.append(ClassDeclBody.toString("  "+tab));
+        else
+            buffer.append(tab+"  null");
+        buffer.append("\n");
+
+        buffer.append(tab);
+        buffer.append(") [ClassDeclaration]");
+        return buffer.toString();
+    }
+}

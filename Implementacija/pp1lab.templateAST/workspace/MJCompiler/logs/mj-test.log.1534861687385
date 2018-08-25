@@ -1,0 +1,66 @@
+INFO  16:27:50,372 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:27:50,412 - #2 program
+INFO  16:27:50,412 - #45 test301
+INFO  16:27:50,412 - #45 int
+INFO  16:27:50,413 - #45 niza
+INFO  16:27:50,414 - #38 [
+INFO  16:27:50,414 - #39 ]
+INFO  16:27:50,414 - #34 ,
+INFO  16:27:50,415 - #45 nizb
+INFO  16:27:50,415 - #38 [
+INFO  16:27:50,415 - #39 ]
+INFO  16:27:50,415 - #34 ,
+INFO  16:27:50,415 - #45 nizc
+INFO  16:27:50,415 - #38 [
+INFO  16:27:50,415 - #39 ]
+INFO  16:27:50,415 - #33 ;
+INFO  16:27:50,416 - #45 int
+INFO  16:27:50,416 - #45 a
+INFO  16:27:50,416 - #34 ,
+INFO  16:27:50,417 - #45 b
+INFO  16:27:50,417 - #33 ;
+INFO  16:27:50,417 - #40 {
+INFO  16:27:50,417 - #11 void
+INFO  16:27:50,418 - #45 main
+INFO  16:27:50,418 - #36 (
+INFO  16:27:50,419 - #37 )
+INFO  16:27:50,419 - #40 {
+INFO  16:27:50,420 - #45 niza
+INFO  16:27:50,420 - #30 =
+INFO  16:27:50,421 - #7 new
+INFO  16:27:50,421 - #45 int
+INFO  16:27:50,421 - #38 [
+INFO  16:27:50,421 - #42 5
+INFO  16:27:50,422 - #39 ]
+INFO  16:27:50,422 - #33 ;
+INFO  16:27:50,423 - #45 nizb
+INFO  16:27:50,423 - #30 =
+INFO  16:27:50,423 - #7 new
+INFO  16:27:50,423 - #45 int
+INFO  16:27:50,423 - #38 [
+INFO  16:27:50,423 - #42 5
+INFO  16:27:50,423 - #39 ]
+INFO  16:27:50,423 - #33 ;
+INFO  16:27:50,423 - #45 Code
+INFO  16:27:50,423 - #35 .
+INFO  16:27:50,424 - #8 print
+ERROR 16:27:50,424 - 
+Sintaksna greska na liniji 8
+INFO  16:27:50,424 - #36 (
+INFO  16:27:50,424 - #44 'z'
+INFO  16:27:50,424 - #37 )
+INFO  16:27:50,424 - #33 ;
+INFO  16:27:50,425 - #45 nizc
+INFO  16:27:50,425 - #30 =
+INFO  16:27:50,425 - #45 niza
+ERROR 16:27:50,425 - Greska pri definiciji iskaza dodele na liniji 8
+INFO  16:27:50,425 - #17 +
+INFO  16:27:50,426 - #45 nizb
+INFO  16:27:50,426 - #33 ;
+INFO  16:27:50,427 - #41 }
+INFO  16:27:50,427 - #41 }
+INFO  16:27:50,430 - Zavrseno parsiranje 
+
+
+INFO  16:27:50,440 - Print calls = 0
+ERROR 16:27:50,441 - Parsiranje NIJE uspesno zavrseno!

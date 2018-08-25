@@ -1,0 +1,60 @@
+INFO  18:25:30,747 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:25:30,783 - #2 program
+INFO  18:25:30,783 - #45 P
+INFO  18:25:30,783 - #16 const
+INFO  18:25:30,784 - #45 int
+INFO  18:25:30,784 - #45 ac
+INFO  18:25:30,784 - #30 =
+INFO  18:25:30,785 - #42 10
+INFO  18:25:30,785 - #33 ;
+INFO  18:25:30,785 - #45 int
+INFO  18:25:30,785 - #45 a
+INFO  18:25:30,786 - #33 ;
+INFO  18:25:30,787 - #45 bool
+INFO  18:25:30,787 - #45 b
+INFO  18:25:30,787 - #33 ;
+INFO  18:25:30,787 - #45 char
+INFO  18:25:30,787 - #45 c
+INFO  18:25:30,787 - #33 ;
+INFO  18:25:30,787 - #45 int
+INFO  18:25:30,787 - #45 niza
+INFO  18:25:30,788 - #38 [
+INFO  18:25:30,788 - #39 ]
+INFO  18:25:30,788 - #33 ;
+INFO  18:25:30,788 - #45 char
+INFO  18:25:30,788 - #45 nizb
+INFO  18:25:30,788 - #38 [
+INFO  18:25:30,788 - #39 ]
+INFO  18:25:30,788 - #33 ;
+INFO  18:25:30,788 - #45 bool
+INFO  18:25:30,789 - #45 nizc
+INFO  18:25:30,789 - #38 [
+INFO  18:25:30,789 - #39 ]
+INFO  18:25:30,789 - #33 ;
+INFO  18:25:30,789 - #40 {
+INFO  18:25:30,789 - #45 int
+INFO  18:25:30,789 - #45 funkcija1
+INFO  18:25:30,789 - #36 (
+INFO  18:25:30,790 - #37 )
+INFO  18:25:30,790 - #40 {
+INFO  18:25:30,791 - #10 return
+INFO  18:25:30,791 - #42 1
+INFO  18:25:30,792 - #33 ;
+INFO  18:25:30,792 - #41 }
+INFO  18:25:30,793 - #11 void
+INFO  18:25:30,793 - #45 main
+INFO  18:25:30,794 - #36 (
+INFO  18:25:30,794 - #37 )
+INFO  18:25:30,794 - #40 {
+INFO  18:25:30,794 - #9 read
+INFO  18:25:30,794 - #36 (
+INFO  18:25:30,794 - #45 ac
+INFO  18:25:30,794 - #37 )
+INFO  18:25:30,795 - #33 ;
+INFO  18:25:30,795 - #41 }
+INFO  18:25:30,796 - #41 }
+INFO  18:25:30,796 - Zavrseno parsiranje 
+
+
+ERROR 18:25:30,808 - Greska na liniji 18: Designator u read naredbi nije promenljiva,element niza ili objekat klase
+INFO  18:25:30,808 - Print calls = 0

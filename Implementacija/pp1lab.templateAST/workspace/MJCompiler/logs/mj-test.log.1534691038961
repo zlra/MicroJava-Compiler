@@ -1,0 +1,64 @@
+INFO  17:03:14,025 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:03:14,066 - #2 program
+INFO  17:03:14,066 - #45 Prog
+INFO  17:03:14,066 - #45 int
+INFO  17:03:14,068 - #45 niz
+INFO  17:03:14,068 - #38 [
+INFO  17:03:14,069 - #39 ]
+INFO  17:03:14,069 - #33 ;
+INFO  17:03:14,070 - #40 {
+INFO  17:03:14,070 - #11 void
+INFO  17:03:14,071 - #45 main
+INFO  17:03:14,072 - #36 (
+INFO  17:03:14,072 - #37 )
+INFO  17:03:14,073 - #40 {
+INFO  17:03:14,074 - #45 niz
+INFO  17:03:14,074 - #30 =
+INFO  17:03:14,075 - #7 new
+INFO  17:03:14,076 - #45 int
+INFO  17:03:14,076 - #38 [
+INFO  17:03:14,076 - #42 5
+INFO  17:03:14,076 - #39 ]
+INFO  17:03:14,103 - #33 ;
+INFO  17:03:14,104 - #45 niz
+INFO  17:03:14,104 - #38 [
+INFO  17:03:14,104 - #42 1
+INFO  17:03:14,104 - #39 ]
+INFO  17:03:14,104 - #30 =
+INFO  17:03:14,105 - #42 1
+INFO  17:03:14,105 - #33 ;
+INFO  17:03:14,105 - #45 niz
+INFO  17:03:14,105 - #38 [
+INFO  17:03:14,105 - #42 2
+INFO  17:03:14,105 - #39 ]
+INFO  17:03:14,105 - #30 =
+INFO  17:03:14,105 - #42 2
+INFO  17:03:14,105 - #33 ;
+INFO  17:03:14,105 - #45 niz
+INFO  17:03:14,105 - #38 [
+INFO  17:03:14,105 - #42 3
+INFO  17:03:14,105 - #39 ]
+INFO  17:03:14,106 - #30 =
+INFO  17:03:14,106 - #42 3
+INFO  17:03:14,106 - #33 ;
+INFO  17:03:14,106 - #45 niz
+INFO  17:03:14,106 - #38 [
+INFO  17:03:14,106 - #42 4
+INFO  17:03:14,106 - #39 ]
+INFO  17:03:14,106 - #30 =
+INFO  17:03:14,107 - #42 4
+INFO  17:03:14,107 - #33 ;
+INFO  17:03:14,107 - #45 niz
+INFO  17:03:14,107 - #38 [
+INFO  17:03:14,107 - #42 3
+INFO  17:03:14,107 - #39 ]
+INFO  17:03:14,107 - #31 ++
+INFO  17:03:14,107 - #33 ;
+INFO  17:03:14,107 - #41 }
+INFO  17:03:14,107 - #41 }
+INFO  17:03:14,108 - Zavrseno parsiranje 
+
+
+INFO  17:03:14,120 - Print calls = 0
+INFO  17:03:14,121 - Generating bytecode file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  17:03:14,125 - Parsiranje uspesno zavrseno!

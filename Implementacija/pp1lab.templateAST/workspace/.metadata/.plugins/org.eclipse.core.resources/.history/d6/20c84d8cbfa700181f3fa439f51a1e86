@@ -1,0 +1,11 @@
+program semanticka8
+	const char a = 'b';
+	const int b = 1;
+{	
+	void main() char a; {
+	}
+	
+	void k(int a, int b) {
+		
+	}
+}

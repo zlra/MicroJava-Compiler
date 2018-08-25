@@ -1,0 +1,11 @@
+program test4
+	int i;
+{
+	void main()	{
+		i = 0;
+        do {
+        	i++;
+        	print(i);
+        } while(i == 1 && 1 == 1 || 1==1 && i < 5);
+	}
+}

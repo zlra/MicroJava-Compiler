@@ -1,0 +1,36 @@
+INFO  14:53:02,152 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:53:02,191 - #2 program
+INFO  14:53:02,191 - #45 test301
+INFO  14:53:02,191 - #45 int
+INFO  14:53:02,193 - #45 niza
+INFO  14:53:02,193 - #38 [
+INFO  14:53:02,194 - #39 ]
+INFO  14:53:02,194 - #34 ,
+INFO  14:53:02,195 - #45 nizb
+INFO  14:53:02,195 - #38 [
+INFO  14:53:02,195 - #39 ]
+INFO  14:53:02,195 - #33 ;
+INFO  14:53:02,196 - #45 int
+INFO  14:53:02,197 - #45 x
+INFO  14:53:02,197 - #33 ;
+INFO  14:53:02,198 - #40 {
+INFO  14:53:02,198 - #11 void
+INFO  14:53:02,198 - #45 main
+INFO  14:53:02,199 - #36 (
+INFO  14:53:02,200 - #37 )
+INFO  14:53:02,201 - #40 {
+INFO  14:53:02,201 - #45 x
+INFO  14:53:02,202 - #30 =
+INFO  14:53:02,203 - #45 niza
+INFO  14:53:02,204 - #17 +
+INFO  14:53:02,204 - #45 nizb
+INFO  14:53:02,205 - #33 ;
+INFO  14:53:02,206 - #41 }
+INFO  14:53:02,207 - #41 }
+INFO  14:53:02,208 - Zavrseno parsiranje 
+
+
+INFO  14:53:02,220 - Detektovana upotreba globalne promenljive x na liniji 6
+ERROR 14:53:02,221 - Greska na liniji 6: Nekompatibilne vrednosti pri iskazu dodele 
+INFO  14:53:02,221 - Print calls = 0
+ERROR 14:53:02,222 - Parsiranje NIJE uspesno zavrseno!

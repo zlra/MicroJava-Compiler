@@ -1,0 +1,156 @@
+INFO  20:52:42,822 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:52:42,863 - #2 program
+INFO  20:52:42,863 - #45 test301
+INFO  20:52:42,863 - #45 int
+INFO  20:52:42,864 - #45 niza
+INFO  20:52:42,865 - #38 [
+INFO  20:52:42,865 - #39 ]
+INFO  20:52:42,865 - #34 ,
+INFO  20:52:42,866 - #45 nizb
+INFO  20:52:42,867 - #38 [
+INFO  20:52:42,867 - #39 ]
+INFO  20:52:42,867 - #34 ,
+INFO  20:52:42,867 - #45 nizc
+INFO  20:52:42,867 - #38 [
+INFO  20:52:42,867 - #39 ]
+INFO  20:52:42,867 - #33 ;
+INFO  20:52:42,868 - #45 int
+INFO  20:52:42,869 - #45 a
+INFO  20:52:42,869 - #34 ,
+INFO  20:52:42,870 - #45 b
+INFO  20:52:42,870 - #33 ;
+INFO  20:52:42,870 - #40 {
+INFO  20:52:42,870 - #11 void
+INFO  20:52:42,870 - #45 main
+INFO  20:52:42,871 - #36 (
+INFO  20:52:42,871 - #37 )
+INFO  20:52:42,872 - #40 {
+INFO  20:52:42,872 - #45 niza
+INFO  20:52:42,873 - #30 =
+INFO  20:52:42,873 - #7 new
+INFO  20:52:42,874 - #45 int
+INFO  20:52:42,874 - #38 [
+INFO  20:52:42,874 - #42 5
+INFO  20:52:42,874 - #39 ]
+INFO  20:52:42,875 - #33 ;
+INFO  20:52:42,875 - #45 nizb
+INFO  20:52:42,875 - #30 =
+INFO  20:52:42,875 - #7 new
+INFO  20:52:42,875 - #45 int
+INFO  20:52:42,876 - #38 [
+INFO  20:52:42,876 - #42 5
+INFO  20:52:42,876 - #39 ]
+INFO  20:52:42,876 - #33 ;
+INFO  20:52:42,876 - #45 niza
+INFO  20:52:42,876 - #38 [
+INFO  20:52:42,876 - #42 0
+INFO  20:52:42,876 - #39 ]
+INFO  20:52:42,877 - #30 =
+INFO  20:52:42,877 - #42 0
+INFO  20:52:42,877 - #33 ;
+INFO  20:52:42,877 - #45 niza
+INFO  20:52:42,877 - #38 [
+INFO  20:52:42,877 - #42 1
+INFO  20:52:42,877 - #39 ]
+INFO  20:52:42,877 - #30 =
+INFO  20:52:42,877 - #42 1
+INFO  20:52:42,877 - #33 ;
+INFO  20:52:42,878 - #45 niza
+INFO  20:52:42,878 - #38 [
+INFO  20:52:42,878 - #42 2
+INFO  20:52:42,879 - #39 ]
+INFO  20:52:42,879 - #30 =
+INFO  20:52:42,880 - #42 3
+INFO  20:52:42,880 - #33 ;
+INFO  20:52:42,880 - #45 niza
+INFO  20:52:42,880 - #38 [
+INFO  20:52:42,880 - #42 3
+INFO  20:52:42,880 - #39 ]
+INFO  20:52:42,880 - #30 =
+INFO  20:52:42,880 - #42 5
+INFO  20:52:42,880 - #33 ;
+INFO  20:52:42,880 - #45 niza
+INFO  20:52:42,880 - #38 [
+INFO  20:52:42,880 - #42 4
+INFO  20:52:42,880 - #39 ]
+INFO  20:52:42,880 - #30 =
+INFO  20:52:42,881 - #42 7
+INFO  20:52:42,881 - #33 ;
+INFO  20:52:42,881 - #45 nizb
+INFO  20:52:42,881 - #38 [
+INFO  20:52:42,881 - #42 0
+INFO  20:52:42,881 - #39 ]
+INFO  20:52:42,881 - #30 =
+INFO  20:52:42,881 - #42 0
+INFO  20:52:42,881 - #33 ;
+INFO  20:52:42,881 - #45 nizb
+INFO  20:52:42,881 - #38 [
+INFO  20:52:42,881 - #42 1
+INFO  20:52:42,881 - #39 ]
+INFO  20:52:42,881 - #30 =
+INFO  20:52:42,881 - #42 2
+INFO  20:52:42,881 - #33 ;
+INFO  20:52:42,881 - #45 nizb
+INFO  20:52:42,882 - #38 [
+INFO  20:52:42,882 - #42 2
+INFO  20:52:42,882 - #39 ]
+INFO  20:52:42,882 - #30 =
+INFO  20:52:42,882 - #42 4
+INFO  20:52:42,882 - #33 ;
+INFO  20:52:42,882 - #45 nizb
+INFO  20:52:42,882 - #38 [
+INFO  20:52:42,882 - #42 3
+INFO  20:52:42,882 - #39 ]
+INFO  20:52:42,882 - #30 =
+INFO  20:52:42,882 - #42 6
+INFO  20:52:42,882 - #33 ;
+INFO  20:52:42,882 - #45 nizb
+INFO  20:52:42,882 - #38 [
+INFO  20:52:42,882 - #42 4
+INFO  20:52:42,882 - #39 ]
+INFO  20:52:42,882 - #30 =
+INFO  20:52:42,883 - #42 8
+INFO  20:52:42,883 - #33 ;
+INFO  20:52:42,883 - #45 b
+INFO  20:52:42,883 - #30 =
+INFO  20:52:42,883 - #42 7
+INFO  20:52:42,883 - #33 ;
+INFO  20:52:42,883 - #8 print
+INFO  20:52:42,883 - #36 (
+INFO  20:52:42,883 - #44 'z'
+INFO  20:52:42,883 - #37 )
+INFO  20:52:42,883 - #33 ;
+INFO  20:52:42,883 - #45 a
+INFO  20:52:42,884 - #30 =
+INFO  20:52:42,884 - #45 niza
+INFO  20:52:42,884 - #19 *
+INFO  20:52:42,884 - #45 b
+INFO  20:52:42,885 - #33 ;
+INFO  20:52:42,885 - #8 print
+INFO  20:52:42,886 - #36 (
+INFO  20:52:42,886 - #45 a
+INFO  20:52:42,886 - #37 )
+INFO  20:52:42,886 - #33 ;
+INFO  20:52:42,886 - #41 }
+INFO  20:52:42,886 - #41 }
+INFO  20:52:42,887 - Zavrseno parsiranje 
+
+
+INFO  20:52:42,898 - Detektovano koriscenje elementa niza na liniji 8
+INFO  20:52:42,898 - Detektovano koriscenje elementa niza na liniji 9
+INFO  20:52:42,898 - Detektovano koriscenje elementa niza na liniji 10
+INFO  20:52:42,898 - Detektovano koriscenje elementa niza na liniji 11
+INFO  20:52:42,898 - Detektovano koriscenje elementa niza na liniji 12
+INFO  20:52:42,898 - Detektovano koriscenje elementa niza na liniji 14
+INFO  20:52:42,898 - Detektovano koriscenje elementa niza na liniji 15
+INFO  20:52:42,899 - Detektovano koriscenje elementa niza na liniji 16
+INFO  20:52:42,899 - Detektovano koriscenje elementa niza na liniji 17
+INFO  20:52:42,899 - Detektovano koriscenje elementa niza na liniji 18
+INFO  20:52:42,899 - Detektovana upotreba globalne promenljive b na liniji 20
+INFO  20:52:42,899 - Detektovana upotreba globalne promenljive a na liniji 23
+INFO  20:52:42,899 - Detektovana upotreba globalne promenljive b na liniji 23
+ERROR 20:52:42,899 - Greska na liniji 23: Faktor u izrazu nije tipa int ili su array ali ne ispunajvaju uslove da su oba istog tipa i da je operacija * ili da je jedan skalar a drugi niz i kompatibilnih su tipova
+ERROR 20:52:42,899 - Greska na liniji 23: Nekompatibilne vrednosti pri iskazu dodele 
+INFO  20:52:42,899 - Detektovana upotreba globalne promenljive a na liniji 24
+INFO  20:52:42,899 - Print calls = 0
+ERROR 20:52:42,900 - Parsiranje NIJE uspesno zavrseno!

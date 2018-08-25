@@ -1,0 +1,65 @@
+INFO  13:11:36,396 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  13:11:36,435 - #2 program
+INFO  13:11:36,436 - #45 Prog
+INFO  13:11:36,436 - #16 const
+INFO  13:11:36,437 - #45 int
+INFO  13:11:36,437 - #45 b
+INFO  13:11:36,437 - #30 =
+INFO  13:11:36,437 - #42 3
+INFO  13:11:36,437 - #33 ;
+INFO  13:11:36,438 - #45 int
+INFO  13:11:36,438 - #45 c
+INFO  13:11:36,438 - #33 ;
+INFO  13:11:36,440 - #45 int
+INFO  13:11:36,440 - #45 d
+INFO  13:11:36,440 - #33 ;
+INFO  13:11:36,440 - #45 int
+INFO  13:11:36,440 - #45 e
+INFO  13:11:36,441 - #33 ;
+INFO  13:11:36,441 - #45 int
+INFO  13:11:36,441 - #45 f
+INFO  13:11:36,441 - #33 ;
+INFO  13:11:36,450 - #40 {
+INFO  13:11:36,450 - #11 void
+INFO  13:11:36,451 - #45 main
+INFO  13:11:36,451 - #36 (
+INFO  13:11:36,452 - #37 )
+INFO  13:11:36,452 - #45 int
+INFO  13:11:36,453 - #45 x
+INFO  13:11:36,453 - #34 ,
+INFO  13:11:36,453 - #45 y
+INFO  13:11:36,453 - #34 ,
+INFO  13:11:36,453 - #45 z
+INFO  13:11:36,454 - #33 ;
+INFO  13:11:36,454 - #45 char
+INFO  13:11:36,454 - #45 a
+INFO  13:11:36,454 - #34 ,
+INFO  13:11:36,454 - #45 b
+INFO  13:11:36,454 - #33 ;
+INFO  13:11:36,454 - #40 {
+INFO  13:11:36,454 - #45 x
+INFO  13:11:36,455 - #30 =
+INFO  13:11:36,456 - #42 7
+INFO  13:11:36,457 - #33 ;
+INFO  13:11:36,458 - #8 print
+INFO  13:11:36,458 - #36 (
+INFO  13:11:36,459 - #42 5
+INFO  13:11:36,459 - #34 ,
+INFO  13:11:36,459 - #42 3
+INFO  13:11:36,459 - #37 )
+INFO  13:11:36,459 - #33 ;
+INFO  13:11:36,459 - #8 print
+INFO  13:11:36,459 - #36 (
+INFO  13:11:36,459 - #44 'a'
+INFO  13:11:36,459 - #34 ,
+INFO  13:11:36,459 - #42 10
+INFO  13:11:36,459 - #37 )
+INFO  13:11:36,459 - #33 ;
+INFO  13:11:36,460 - #41 }
+INFO  13:11:36,460 - #41 }
+INFO  13:11:36,461 - Zavrseno parsiranje 
+
+
+INFO  13:11:36,475 - Print calls = 0
+INFO  13:11:36,475 - Generating bytecode file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  13:11:36,480 - Parsiranje uspesno zavrseno!

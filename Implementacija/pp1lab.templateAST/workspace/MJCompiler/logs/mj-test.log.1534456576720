@@ -1,0 +1,35 @@
+INFO  23:56:08,469 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:56:08,505 - #2 program
+INFO  23:56:08,505 - #45 Prog
+INFO  23:56:08,505 - #45 int
+INFO  23:56:08,506 - #45 a
+INFO  23:56:08,507 - #33 ;
+INFO  23:56:08,508 - #45 int
+INFO  23:56:08,508 - #45 niza
+INFO  23:56:08,509 - #38 [
+INFO  23:56:08,509 - #39 ]
+INFO  23:56:08,509 - #33 ;
+INFO  23:56:08,509 - #40 {
+INFO  23:56:08,509 - #11 void
+INFO  23:56:08,510 - #45 main
+INFO  23:56:08,510 - #36 (
+INFO  23:56:08,511 - #37 )
+INFO  23:56:08,511 - #40 {
+INFO  23:56:08,512 - #45 a
+INFO  23:56:08,512 - #30 =
+INFO  23:56:08,513 - #18 -
+INFO  23:56:08,513 - #42 2
+INFO  23:56:08,514 - #17 +
+INFO  23:56:08,515 - #42 3
+INFO  23:56:08,516 - #33 ;
+INFO  23:56:08,516 - #45 niza
+INFO  23:56:08,517 - #31 ++
+INFO  23:56:08,517 - #33 ;
+INFO  23:56:08,517 - #41 }
+INFO  23:56:08,517 - #41 }
+INFO  23:56:08,518 - Zavrseno parsiranje 
+
+
+ERROR 23:56:08,528 - Greska na liniji 7: Designator uz increment statement nije tipa int
+INFO  23:56:08,528 - Print calls = 0
+ERROR 23:56:08,529 - Parsiranje NIJE uspesno zavrseno!

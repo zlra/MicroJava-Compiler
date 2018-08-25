@@ -1,0 +1,73 @@
+INFO  19:29:16,038 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:29:16,100 - #2 program
+INFO  19:29:16,100 - #45 p
+INFO  19:29:16,100 - #16 const
+INFO  19:29:16,101 - #45 int
+INFO  19:29:16,101 - #45 x
+INFO  19:29:16,102 - #30 =
+INFO  19:29:16,102 - #42 3
+INFO  19:29:16,102 - #33 ;
+INFO  19:29:16,103 - #16 const
+INFO  19:29:16,103 - #45 char
+INFO  19:29:16,103 - #45 a
+INFO  19:29:16,103 - #30 =
+INFO  19:29:16,103 - #44 'a'
+INFO  19:29:16,103 - #33 ;
+INFO  19:29:16,104 - #40 {
+INFO  19:29:16,104 - #11 void
+INFO  19:29:16,104 - #45 main
+INFO  19:29:16,105 - #36 (
+INFO  19:29:16,105 - #37 )
+INFO  19:29:16,106 - #45 int
+INFO  19:29:16,107 - #45 niz
+INFO  19:29:16,107 - #38 [
+INFO  19:29:16,107 - #39 ]
+INFO  19:29:16,107 - #33 ;
+INFO  19:29:16,109 - #40 {
+INFO  19:29:16,109 - #45 a
+INFO  19:29:16,109 - #30 =
+INFO  19:29:16,110 - #44 'b'
+INFO  19:29:16,111 - #33 ;
+INFO  19:29:16,112 - #45 niz
+INFO  19:29:16,112 - #38 [
+INFO  19:29:16,113 - #42 0
+INFO  19:29:16,113 - #39 ]
+INFO  19:29:16,113 - #30 =
+INFO  19:29:16,113 - #42 1
+INFO  19:29:16,113 - #33 ;
+INFO  19:29:16,113 - #45 niz
+INFO  19:29:16,113 - #38 [
+INFO  19:29:16,113 - #42 1
+INFO  19:29:16,113 - #39 ]
+INFO  19:29:16,114 - #30 =
+INFO  19:29:16,114 - #42 2
+INFO  19:29:16,114 - #33 ;
+INFO  19:29:16,114 - #45 niz
+INFO  19:29:16,114 - #38 [
+INFO  19:29:16,114 - #42 3
+INFO  19:29:16,114 - #39 ]
+INFO  19:29:16,114 - #30 =
+INFO  19:29:16,114 - #42 4
+INFO  19:29:16,114 - #33 ;
+INFO  19:29:16,114 - #8 print
+INFO  19:29:16,114 - #36 (
+INFO  19:29:16,114 - #45 niz
+INFO  19:29:16,114 - #38 [
+INFO  19:29:16,114 - #42 1
+INFO  19:29:16,114 - #39 ]
+INFO  19:29:16,114 - #37 )
+INFO  19:29:16,115 - #33 ;
+INFO  19:29:16,115 - #41 }
+INFO  19:29:16,117 - #41 }
+INFO  19:29:16,118 - Zavrseno parsiranje 
+
+
+INFO  19:29:16,130 - Detektovana upotreba konstante a na liniji 8
+ERROR 19:29:16,130 - Greska na liniji 8: Dodela vrednosti konstanti je zabranjena
+ERROR 19:29:16,131 - Greska na liniji 8: Dodela vrednosti identifikatoru koji nije element niza ni ime promenljive
+INFO  19:29:16,131 - Detektovano koriscenje elementa niza na liniji 9
+INFO  19:29:16,131 - Detektovano koriscenje elementa niza na liniji 10
+INFO  19:29:16,131 - Detektovano koriscenje elementa niza na liniji 11
+INFO  19:29:16,131 - Detektovano koriscenje elementa niza na liniji 13
+INFO  19:29:16,131 - Print calls = 0
+ERROR 19:29:16,132 - Parsiranje NIJE uspesno zavrseno!

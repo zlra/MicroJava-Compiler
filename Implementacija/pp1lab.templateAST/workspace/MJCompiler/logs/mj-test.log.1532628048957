@@ -1,0 +1,32 @@
+INFO  20:00:34,419 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:00:34,503 - #2 program
+INFO  20:00:34,503 - #45 P
+INFO  20:00:34,504 - #45 char
+INFO  20:00:34,506 - #45 x
+INFO  20:00:34,507 - #34 ,
+INFO  20:00:34,509 - #45 y
+INFO  20:00:34,509 - #34 ,
+INFO  20:00:34,510 - #45 z
+INFO  20:00:34,510 - #33 ;
+INFO  20:00:34,510 - #16 const
+INFO  20:00:34,510 - #45 int
+INFO  20:00:34,511 - #45 a
+INFO  20:00:34,511 - #30 =
+INFO  20:00:34,511 - #42 10
+INFO  20:00:34,511 - #33 ;
+INFO  20:00:34,512 - #40 {
+INFO  20:00:34,512 - #11 void
+INFO  20:00:34,512 - #45 main
+INFO  20:00:34,513 - #36 (
+INFO  20:00:34,513 - #37 )
+INFO  20:00:34,521 - #40 {
+INFO  20:00:34,522 - #10 return
+INFO  20:00:34,523 - #42 5
+INFO  20:00:34,524 - #33 ;
+INFO  20:00:34,525 - #41 }
+INFO  20:00:34,525 - #41 }
+INFO  20:00:34,527 - Zavrseno parsiranje 
+
+
+ERROR 20:00:34,538 - Greska na liniji 2: Povratna vrednost je void a return nije prazan
+INFO  20:00:34,538 - Print calls = 0

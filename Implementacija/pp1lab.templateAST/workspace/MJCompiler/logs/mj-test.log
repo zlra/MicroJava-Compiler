@@ -1,0 +1,359 @@
+INFO  21:53:11,720 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:53:11,761 - #2 program
+INFO  21:53:11,761 - #45 test302
+INFO  21:53:11,761 - #45 int
+INFO  21:53:11,762 - #45 i
+INFO  21:53:11,763 - #33 ;
+INFO  21:53:11,764 - #45 bool
+INFO  21:53:11,764 - #45 ibool
+INFO  21:53:11,764 - #33 ;
+INFO  21:53:11,765 - #45 int
+INFO  21:53:11,765 - #45 niz
+INFO  21:53:11,765 - #38 [
+INFO  21:53:11,765 - #39 ]
+INFO  21:53:11,765 - #33 ;
+INFO  21:53:11,766 - #40 {
+INFO  21:53:11,766 - #45 int
+INFO  21:53:11,767 - #45 sum
+INFO  21:53:11,767 - #36 (
+INFO  21:53:11,768 - #45 int
+INFO  21:53:11,768 - #45 z
+INFO  21:53:11,768 - #34 ,
+INFO  21:53:11,776 - #45 int
+INFO  21:53:11,776 - #45 d
+INFO  21:53:11,776 - #37 )
+INFO  21:53:11,777 - #40 {
+INFO  21:53:11,778 - #10 return
+INFO  21:53:11,778 - #45 z
+INFO  21:53:11,779 - #17 +
+INFO  21:53:11,780 - #45 d
+INFO  21:53:11,781 - #33 ;
+INFO  21:53:11,782 - #41 }
+INFO  21:53:11,782 - #45 int
+INFO  21:53:11,783 - #45 inkrement
+INFO  21:53:11,784 - #36 (
+INFO  21:53:11,784 - #45 int
+INFO  21:53:11,784 - #45 a
+INFO  21:53:11,784 - #37 )
+INFO  21:53:11,784 - #45 int
+INFO  21:53:11,784 - #45 pom
+INFO  21:53:11,784 - #33 ;
+INFO  21:53:11,784 - #40 {
+INFO  21:53:11,784 - #45 pom
+INFO  21:53:11,784 - #30 =
+INFO  21:53:11,784 - #42 1
+INFO  21:53:11,784 - #33 ;
+INFO  21:53:11,785 - #10 return
+INFO  21:53:11,785 - #45 sum
+INFO  21:53:11,785 - #36 (
+INFO  21:53:11,785 - #45 a
+INFO  21:53:11,785 - #34 ,
+INFO  21:53:11,785 - #45 pom
+INFO  21:53:11,785 - #37 )
+INFO  21:53:11,785 - #33 ;
+INFO  21:53:11,786 - #41 }
+INFO  21:53:11,786 - #11 void
+INFO  21:53:11,786 - #45 main
+INFO  21:53:11,786 - #36 (
+INFO  21:53:11,787 - #37 )
+INFO  21:53:11,787 - #40 {
+INFO  21:53:11,787 - #6 if
+INFO  21:53:11,789 - #36 (
+INFO  21:53:11,790 - #42 1
+INFO  21:53:11,790 - #29 !=
+INFO  21:53:11,790 - #42 1
+INFO  21:53:11,791 - #37 )
+INFO  21:53:11,793 - #8 print
+INFO  21:53:11,793 - #36 (
+INFO  21:53:11,793 - #18 -
+INFO  21:53:11,793 - #42 6
+INFO  21:53:11,794 - #37 )
+INFO  21:53:11,794 - #33 ;
+INFO  21:53:11,794 - #5 else
+INFO  21:53:11,794 - #8 print
+INFO  21:53:11,795 - #36 (
+INFO  21:53:11,795 - #42 0
+INFO  21:53:11,795 - #37 )
+INFO  21:53:11,795 - #33 ;
+INFO  21:53:11,795 - #45 ibool
+INFO  21:53:11,796 - #30 =
+INFO  21:53:11,796 - #43 false
+INFO  21:53:11,796 - #33 ;
+INFO  21:53:11,796 - #45 i
+INFO  21:53:11,796 - #30 =
+INFO  21:53:11,796 - #42 0
+INFO  21:53:11,796 - #33 ;
+INFO  21:53:11,796 - #12 do
+INFO  21:53:11,796 - #40 {
+INFO  21:53:11,797 - #6 if
+INFO  21:53:11,797 - #36 (
+INFO  21:53:11,797 - #45 i
+INFO  21:53:11,797 - #28 ==
+INFO  21:53:11,797 - #42 2
+INFO  21:53:11,798 - #37 )
+INFO  21:53:11,798 - #45 ibool
+INFO  21:53:11,798 - #30 =
+INFO  21:53:11,798 - #43 true
+INFO  21:53:11,798 - #33 ;
+INFO  21:53:11,798 - #45 i
+INFO  21:53:11,798 - #31 ++
+INFO  21:53:11,798 - #33 ;
+INFO  21:53:11,798 - #41 }
+INFO  21:53:11,799 - #13 while
+INFO  21:53:11,799 - #36 (
+INFO  21:53:11,799 - #45 i
+INFO  21:53:11,799 - #22 <
+INFO  21:53:11,799 - #42 5
+INFO  21:53:11,799 - #37 )
+INFO  21:53:11,800 - #33 ;
+INFO  21:53:11,800 - #6 if
+INFO  21:53:11,801 - #36 (
+INFO  21:53:11,801 - #45 ibool
+INFO  21:53:11,801 - #37 )
+INFO  21:53:11,801 - #6 if
+INFO  21:53:11,801 - #36 (
+INFO  21:53:11,801 - #45 i
+INFO  21:53:11,801 - #28 ==
+INFO  21:53:11,801 - #42 5
+INFO  21:53:11,801 - #37 )
+INFO  21:53:11,801 - #8 print
+INFO  21:53:11,801 - #36 (
+INFO  21:53:11,801 - #42 1
+INFO  21:53:11,801 - #37 )
+INFO  21:53:11,801 - #33 ;
+INFO  21:53:11,801 - #5 else
+INFO  21:53:11,801 - #8 print
+INFO  21:53:11,801 - #36 (
+INFO  21:53:11,802 - #18 -
+INFO  21:53:11,802 - #42 1
+INFO  21:53:11,802 - #37 )
+INFO  21:53:11,802 - #33 ;
+INFO  21:53:11,802 - #45 niz
+INFO  21:53:11,802 - #30 =
+INFO  21:53:11,802 - #7 new
+INFO  21:53:11,802 - #45 int
+INFO  21:53:11,802 - #38 [
+INFO  21:53:11,802 - #42 3
+INFO  21:53:11,802 - #39 ]
+INFO  21:53:11,802 - #33 ;
+INFO  21:53:11,802 - #45 niz
+INFO  21:53:11,802 - #38 [
+INFO  21:53:11,803 - #42 0
+INFO  21:53:11,803 - #39 ]
+INFO  21:53:11,803 - #30 =
+INFO  21:53:11,803 - #42 1
+INFO  21:53:11,803 - #33 ;
+INFO  21:53:11,803 - #45 niz
+INFO  21:53:11,803 - #38 [
+INFO  21:53:11,803 - #42 1
+INFO  21:53:11,803 - #39 ]
+INFO  21:53:11,803 - #30 =
+INFO  21:53:11,803 - #42 2
+INFO  21:53:11,803 - #33 ;
+INFO  21:53:11,803 - #45 niz
+INFO  21:53:11,803 - #38 [
+INFO  21:53:11,803 - #42 2
+INFO  21:53:11,803 - #39 ]
+INFO  21:53:11,803 - #30 =
+INFO  21:53:11,803 - #45 sum
+INFO  21:53:11,803 - #36 (
+INFO  21:53:11,804 - #45 niz
+INFO  21:53:11,804 - #38 [
+INFO  21:53:11,804 - #42 1
+INFO  21:53:11,804 - #39 ]
+INFO  21:53:11,804 - #34 ,
+INFO  21:53:11,804 - #45 niz
+INFO  21:53:11,804 - #38 [
+INFO  21:53:11,804 - #42 0
+INFO  21:53:11,804 - #39 ]
+INFO  21:53:11,804 - #37 )
+INFO  21:53:11,804 - #17 +
+INFO  21:53:11,804 - #42 1
+INFO  21:53:11,804 - #33 ;
+INFO  21:53:11,804 - #6 if
+INFO  21:53:11,804 - #36 (
+INFO  21:53:11,804 - #45 niz
+INFO  21:53:11,804 - #38 [
+INFO  21:53:11,804 - #42 2
+INFO  21:53:11,804 - #39 ]
+INFO  21:53:11,804 - #28 ==
+INFO  21:53:11,804 - #42 4
+INFO  21:53:11,804 - #37 )
+INFO  21:53:11,804 - #8 print
+INFO  21:53:11,804 - #36 (
+INFO  21:53:11,805 - #45 ord
+INFO  21:53:11,805 - #36 (
+INFO  21:53:11,805 - #44 'A'
+INFO  21:53:11,805 - #37 )
+INFO  21:53:11,805 - #37 )
+INFO  21:53:11,805 - #33 ;
+INFO  21:53:11,805 - #5 else
+INFO  21:53:11,805 - #8 print
+INFO  21:53:11,805 - #36 (
+INFO  21:53:11,805 - #45 ord
+INFO  21:53:11,805 - #36 (
+INFO  21:53:11,805 - #44 'a'
+INFO  21:53:11,805 - #37 )
+INFO  21:53:11,805 - #37 )
+INFO  21:53:11,805 - #33 ;
+INFO  21:53:11,805 - #8 print
+INFO  21:53:11,805 - #36 (
+INFO  21:53:11,805 - #45 eol
+INFO  21:53:11,805 - #37 )
+INFO  21:53:11,805 - #33 ;
+INFO  21:53:11,805 - #45 i
+INFO  21:53:11,805 - #30 =
+INFO  21:53:11,806 - #42 0
+INFO  21:53:11,806 - #33 ;
+INFO  21:53:11,806 - #12 do
+INFO  21:53:11,806 - #40 {
+INFO  21:53:11,806 - #6 if
+INFO  21:53:11,806 - #36 (
+INFO  21:53:11,806 - #45 i
+INFO  21:53:11,806 - #28 ==
+INFO  21:53:11,806 - #42 3
+INFO  21:53:11,806 - #37 )
+INFO  21:53:11,806 - #40 {
+INFO  21:53:11,806 - #45 i
+INFO  21:53:11,806 - #31 ++
+INFO  21:53:11,806 - #33 ;
+INFO  21:53:11,806 - #15 continue
+INFO  21:53:11,806 - #33 ;
+INFO  21:53:11,806 - #41 }
+INFO  21:53:11,807 - #6 if
+INFO  21:53:11,807 - #36 (
+INFO  21:53:11,807 - #45 i
+INFO  21:53:11,807 - #28 ==
+INFO  21:53:11,807 - #42 4
+INFO  21:53:11,807 - #37 )
+INFO  21:53:11,807 - #3 break
+INFO  21:53:11,807 - #33 ;
+INFO  21:53:11,807 - #45 i
+INFO  21:53:11,808 - #30 =
+INFO  21:53:11,808 - #45 inkrement
+INFO  21:53:11,808 - #36 (
+INFO  21:53:11,808 - #45 i
+INFO  21:53:11,808 - #37 )
+INFO  21:53:11,808 - #33 ;
+INFO  21:53:11,808 - #41 }
+INFO  21:53:11,808 - #13 while
+INFO  21:53:11,808 - #36 (
+INFO  21:53:11,808 - #43 true
+INFO  21:53:11,808 - #37 )
+INFO  21:53:11,808 - #33 ;
+INFO  21:53:11,808 - #6 if
+INFO  21:53:11,808 - #36 (
+INFO  21:53:11,808 - #45 i
+INFO  21:53:11,808 - #28 ==
+INFO  21:53:11,808 - #42 3
+INFO  21:53:11,808 - #37 )
+INFO  21:53:11,808 - #8 print
+INFO  21:53:11,808 - #36 (
+INFO  21:53:11,808 - #42 4
+INFO  21:53:11,809 - #37 )
+INFO  21:53:11,809 - #33 ;
+INFO  21:53:11,809 - #5 else
+INFO  21:53:11,809 - #8 print
+INFO  21:53:11,809 - #36 (
+INFO  21:53:11,809 - #18 -
+INFO  21:53:11,809 - #42 4
+INFO  21:53:11,809 - #37 )
+INFO  21:53:11,809 - #33 ;
+INFO  21:53:11,809 - #9 read
+INFO  21:53:11,809 - #36 (
+INFO  21:53:11,810 - #45 niz
+INFO  21:53:11,810 - #38 [
+INFO  21:53:11,810 - #42 0
+INFO  21:53:11,810 - #39 ]
+INFO  21:53:11,810 - #37 )
+INFO  21:53:11,810 - #33 ;
+INFO  21:53:11,810 - #9 read
+INFO  21:53:11,810 - #36 (
+INFO  21:53:11,811 - #45 niz
+INFO  21:53:11,811 - #38 [
+INFO  21:53:11,811 - #42 1
+INFO  21:53:11,811 - #39 ]
+INFO  21:53:11,811 - #37 )
+INFO  21:53:11,811 - #33 ;
+INFO  21:53:11,811 - #9 read
+INFO  21:53:11,811 - #36 (
+INFO  21:53:11,811 - #45 niz
+INFO  21:53:11,811 - #38 [
+INFO  21:53:11,811 - #42 2
+INFO  21:53:11,811 - #39 ]
+INFO  21:53:11,811 - #37 )
+INFO  21:53:11,811 - #33 ;
+INFO  21:53:11,811 - #8 print
+INFO  21:53:11,811 - #36 (
+INFO  21:53:11,811 - #45 eol
+INFO  21:53:11,811 - #37 )
+INFO  21:53:11,811 - #33 ;
+INFO  21:53:11,811 - #8 print
+INFO  21:53:11,811 - #36 (
+INFO  21:53:11,811 - #45 sum
+INFO  21:53:11,811 - #36 (
+INFO  21:53:11,811 - #45 sum
+INFO  21:53:11,812 - #36 (
+INFO  21:53:11,812 - #45 niz
+INFO  21:53:11,812 - #38 [
+INFO  21:53:11,812 - #42 0
+INFO  21:53:11,812 - #39 ]
+INFO  21:53:11,812 - #34 ,
+INFO  21:53:11,812 - #45 niz
+INFO  21:53:11,812 - #38 [
+INFO  21:53:11,812 - #42 1
+INFO  21:53:11,812 - #39 ]
+INFO  21:53:11,812 - #37 )
+INFO  21:53:11,812 - #34 ,
+INFO  21:53:11,812 - #45 niz
+INFO  21:53:11,812 - #38 [
+INFO  21:53:11,812 - #42 2
+INFO  21:53:11,812 - #39 ]
+INFO  21:53:11,812 - #37 )
+INFO  21:53:11,812 - #37 )
+INFO  21:53:11,812 - #33 ;
+INFO  21:53:11,812 - #41 }
+INFO  21:53:11,812 - #41 }
+INFO  21:53:11,831 - Detektovana upotreba lokalne promenljive z na liniji 14
+INFO  21:53:11,831 - Detektovana upotreba lokalne promenljive d na liniji 14
+INFO  21:53:11,831 - Detektovana upotreba lokalne promenljive pom na liniji 19
+INFO  21:53:11,831 - Detektovana upotreba globalne metode sum na liniji 20
+INFO  21:53:11,831 - Detektovana upotreba lokalne promenljive a na liniji 20
+INFO  21:53:11,831 - Detektovana upotreba lokalne promenljive pom na liniji 20
+INFO  21:53:11,832 - Detektovana upotreba globalne promenljive ibool na liniji 31
+INFO  21:53:11,832 - Detektovana upotreba globalne promenljive i na liniji 32
+INFO  21:53:11,832 - Detektovana upotreba globalne promenljive i na liniji 35
+INFO  21:53:11,832 - Detektovana upotreba globalne promenljive ibool na liniji 35
+INFO  21:53:11,832 - Detektovana upotreba globalne promenljive i na liniji 36
+INFO  21:53:11,832 - Detektovana upotreba globalne promenljive i na liniji 37
+INFO  21:53:11,832 - Detektovana upotreba globalne promenljive ibool na liniji 39
+INFO  21:53:11,832 - Detektovana upotreba globalne promenljive i na liniji 40
+INFO  21:53:11,833 - Detektovano koriscenje elementa niza na liniji 45
+INFO  21:53:11,833 - Detektovano koriscenje elementa niza na liniji 46
+INFO  21:53:11,833 - Detektovano koriscenje elementa niza na liniji 47
+INFO  21:53:11,833 - Detektovana upotreba globalne metode sum na liniji 47
+INFO  21:53:11,833 - Detektovano koriscenje elementa niza na liniji 47
+INFO  21:53:11,833 - Detektovano koriscenje elementa niza na liniji 47
+INFO  21:53:11,833 - Detektovano koriscenje elementa niza na liniji 48
+INFO  21:53:11,833 - Detektovana upotreba globalne metode ord na liniji 48
+INFO  21:53:11,833 - Detektovana upotreba globalne metode ord na liniji 49
+INFO  21:53:11,833 - Detektovana upotreba konstante eol na liniji 51
+INFO  21:53:11,833 - Detektovana upotreba globalne promenljive i na liniji 52
+INFO  21:53:11,833 - Detektovana upotreba globalne promenljive i na liniji 55
+INFO  21:53:11,833 - Detektovana upotreba globalne promenljive i na liniji 57
+INFO  21:53:11,833 - Detektovana upotreba globalne promenljive i na liniji 60
+INFO  21:53:11,833 - Detektovana upotreba globalne promenljive i na liniji 61
+INFO  21:53:11,833 - Detektovana upotreba globalne metode inkrement na liniji 61
+INFO  21:53:11,833 - Detektovana upotreba globalne promenljive i na liniji 61
+INFO  21:53:11,833 - Detektovana upotreba globalne promenljive i na liniji 64
+INFO  21:53:11,834 - Detektovano koriscenje elementa niza na liniji 67
+INFO  21:53:11,834 - Detektovano koriscenje elementa niza na liniji 68
+INFO  21:53:11,834 - Detektovano koriscenje elementa niza na liniji 69
+INFO  21:53:11,834 - Detektovana upotreba konstante eol na liniji 70
+INFO  21:53:11,834 - Detektovana upotreba globalne metode sum na liniji 72
+INFO  21:53:11,834 - Detektovana upotreba globalne metode sum na liniji 72
+INFO  21:53:11,834 - Detektovano koriscenje elementa niza na liniji 72
+INFO  21:53:11,834 - Detektovano koriscenje elementa niza na liniji 72
+INFO  21:53:11,834 - Detektovano koriscenje elementa niza na liniji 72
+INFO  21:53:11,834 - Generating bytecode file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  21:53:11,839 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,73 @@
+program test14
+
+
+int i;
+int duz_a;
+int duz_b;
+bool ibool;
+
+int a[];
+int b[];
+
+{
+	void saberi_nizove(int niz1[], int niz2[]) 
+		int duz1;
+		int duz2;
+		int i;
+	{
+		duz1 = len(niz1);
+		duz2 = len(niz2);
+		
+		if(duz1 != duz2) {
+			print('!');
+			print('=');
+			print(eol);
+			return;
+		}
+				
+		i = 0;
+		
+		do {
+			niz1[i] = niz1[i] + niz2[i];
+			i++;
+		} while(i < duz1);
+		
+		i = 0;
+			
+		do {
+			print(niz1[i]);
+			i++;
+		} while (i < len(niz1));
+	}
+	void main()int a[]; int b[];
+	{
+		read(duz_a);
+		a = new int[duz_a];
+		
+		read(duz_b);
+		b = new int[duz_b];
+		
+		i = 0;
+		
+		do {
+			read(a[i]);
+			i++;
+		} while (i < len(a));
+		
+		i = 0;
+		
+		do {
+			read(b[i]);
+			i++;
+		} while (i < len(b));
+		
+	    saberi_nizove(a,b);
+	    
+	    i = 0;
+			
+		do {
+			print(a[i]);
+			i++;
+		} while (i < len(a));
+	}
+}

@@ -1,0 +1,29 @@
+program rz140030d
+
+int niz[];
+{
+	int nadjiMaks(int niz[]) int i; int max; {
+		max = -1; 
+		i = 0;
+		do {
+			if (niz[i] > max)
+				max = niz[i];
+			i++;
+		} while (i < len(niz));
+		
+		return max;
+	}
+
+	void main() {
+		niz = new int[10];
+		niz[1] = 1;
+		niz[3] = 5;
+		niz[5] = 7;
+		niz[9] = 10;
+	
+		
+		print(nadjiMaks(niz));
+		
+		return;
+	}
+}

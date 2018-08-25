@@ -1,0 +1,25 @@
+INFO  10:47:28,726 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  10:47:28,761 - #2 program
+INFO  10:47:28,761 - #45 P
+INFO  10:47:28,761 - #16 const
+INFO  10:47:28,762 - #45 int
+INFO  10:47:28,762 - #45 size
+INFO  10:47:28,764 - #30 =
+INFO  10:47:28,764 - #42 10
+INFO  10:47:28,764 - #33 ;
+INFO  10:47:28,765 - #45 int
+INFO  10:47:28,765 - #45 x
+INFO  10:47:28,765 - #34 ,
+INFO  10:47:28,767 - #45 abcd
+INFO  10:47:28,767 - #34 ,
+INFO  10:47:28,767 - #45 ok
+INFO  10:47:28,767 - #34 ,
+INFO  10:47:28,768 - #42 2
+ERROR 10:47:28,768 - 
+Sintaksna greska na liniji 3
+INFO  10:47:28,768 - #45 nijeok
+INFO  10:47:28,768 - #34 ,
+INFO  10:47:28,786 - #45 i
+INFO  10:47:28,787 - #33 ;
+INFO  10:47:28,787 - #4 class
+ERROR 10:47:28,787 - Sintaksna greska pri deklaraciji globalne promenljive na liniji 

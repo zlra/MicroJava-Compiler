@@ -1,0 +1,17 @@
+program test8
+	int i, j, k;
+{
+	bool lessThan(int i, int j) {
+		if (3 < 5 && 2 < 3 && 8 < 7 || i < j && i == i && j == j || i != j && i >= 0 && j < 0) {
+			print('D');
+			return true;
+		} else {
+			print('N');
+			return false;
+		}
+	}
+	
+	void main() {
+		print(lessThan(6, 5));
+	}
+}

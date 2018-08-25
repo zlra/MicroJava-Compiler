@@ -1,0 +1,65 @@
+INFO  02:54:16,507 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  02:54:16,542 - #2 program
+INFO  02:54:16,543 - #45 test301
+INFO  02:54:16,543 - #16 const
+INFO  02:54:16,543 - #45 int
+INFO  02:54:16,544 - #45 jedan
+INFO  02:54:16,544 - #30 =
+INFO  02:54:16,544 - #42 1
+INFO  02:54:16,544 - #33 ;
+INFO  02:54:16,545 - #16 const
+INFO  02:54:16,545 - #45 int
+INFO  02:54:16,545 - #45 pet
+INFO  02:54:16,545 - #30 =
+INFO  02:54:16,545 - #42 5
+INFO  02:54:16,545 - #33 ;
+INFO  02:54:16,545 - #45 int
+INFO  02:54:16,545 - #45 niz
+INFO  02:54:16,545 - #38 [
+INFO  02:54:16,545 - #39 ]
+INFO  02:54:16,546 - #33 ;
+INFO  02:54:16,547 - #45 char
+INFO  02:54:16,549 - #45 nizch
+INFO  02:54:16,549 - #38 [
+INFO  02:54:16,549 - #39 ]
+INFO  02:54:16,549 - #33 ;
+INFO  02:54:16,549 - #40 {
+INFO  02:54:16,549 - #45 int
+INFO  02:54:16,549 - #45 funkcija
+INFO  02:54:16,550 - #36 (
+INFO  02:54:16,550 - #45 int
+INFO  02:54:16,550 - #45 a
+INFO  02:54:16,550 - #34 ,
+INFO  02:54:16,551 - #45 char
+INFO  02:54:16,551 - #45 b
+INFO  02:54:16,551 - #37 )
+INFO  02:54:16,551 - #40 {
+INFO  02:54:16,552 - #10 return
+INFO  02:54:16,552 - #42 2
+INFO  02:54:16,553 - #33 ;
+INFO  02:54:16,554 - #41 }
+INFO  02:54:16,554 - #11 void
+INFO  02:54:16,555 - #45 main
+INFO  02:54:16,555 - #36 (
+INFO  02:54:16,555 - #37 )
+INFO  02:54:16,556 - #45 int
+INFO  02:54:16,556 - #45 bodovi
+INFO  02:54:16,556 - #33 ;
+INFO  02:54:16,556 - #40 {
+INFO  02:54:16,556 - #45 funkcija
+INFO  02:54:16,556 - #36 (
+INFO  02:54:16,557 - #44 'a'
+INFO  02:54:16,557 - #34 ,
+INFO  02:54:16,557 - #42 5
+INFO  02:54:16,557 - #37 )
+INFO  02:54:16,557 - #33 ;
+INFO  02:54:16,557 - #41 }
+INFO  02:54:16,558 - #41 }
+INFO  02:54:16,558 - Zavrseno parsiranje 
+
+
+INFO  02:54:16,568 - Detektovana upotreba globalne metode funkcija na liniji 18
+ERROR 02:54:16,571 - Greska na liniji 10: Tipovi argumenata pri pozivu funkcije i njenom deklarisanju se razlikuju
+ERROR 02:54:16,571 - Greska na liniji 10: Tipovi argumenata pri pozivu funkcije i njenom deklarisanju se razlikuju
+INFO  02:54:16,571 - Print calls = 0
+ERROR 02:54:16,571 - Parsiranje NIJE uspesno zavrseno!

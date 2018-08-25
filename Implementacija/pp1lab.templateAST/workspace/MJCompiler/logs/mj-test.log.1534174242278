@@ -1,0 +1,56 @@
+INFO  17:30:08,805 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:30:08,843 - #2 program
+INFO  17:30:08,843 - #45 P
+INFO  17:30:08,843 - #16 const
+INFO  17:30:08,844 - #45 int
+INFO  17:30:08,844 - #45 ac
+INFO  17:30:08,845 - #30 =
+INFO  17:30:08,845 - #42 10
+INFO  17:30:08,845 - #33 ;
+INFO  17:30:08,845 - #45 int
+INFO  17:30:08,846 - #45 a
+INFO  17:30:08,846 - #33 ;
+INFO  17:30:08,847 - #45 bool
+INFO  17:30:08,847 - #45 b
+INFO  17:30:08,847 - #33 ;
+INFO  17:30:08,847 - #45 char
+INFO  17:30:08,847 - #45 c
+INFO  17:30:08,847 - #33 ;
+INFO  17:30:08,847 - #45 int
+INFO  17:30:08,848 - #45 niza
+INFO  17:30:08,848 - #38 [
+INFO  17:30:08,851 - #39 ]
+INFO  17:30:08,851 - #33 ;
+INFO  17:30:08,851 - #45 char
+INFO  17:30:08,851 - #45 nizb
+INFO  17:30:08,851 - #38 [
+INFO  17:30:08,851 - #39 ]
+INFO  17:30:08,851 - #33 ;
+INFO  17:30:08,851 - #45 bool
+INFO  17:30:08,852 - #45 nizc
+INFO  17:30:08,852 - #38 [
+INFO  17:30:08,852 - #39 ]
+INFO  17:30:08,852 - #33 ;
+INFO  17:30:08,852 - #40 {
+INFO  17:30:08,852 - #11 void
+INFO  17:30:08,852 - #45 funkcija1
+INFO  17:30:08,853 - #36 (
+INFO  17:30:08,853 - #37 )
+INFO  17:30:08,854 - #40 {
+INFO  17:30:08,854 - #41 }
+INFO  17:30:08,854 - #11 void
+INFO  17:30:08,855 - #45 main
+INFO  17:30:08,855 - #36 (
+INFO  17:30:08,855 - #37 )
+INFO  17:30:08,855 - #40 {
+INFO  17:30:08,855 - #45 funkcija1
+INFO  17:30:08,856 - #30 =
+INFO  17:30:08,856 - #42 3
+INFO  17:30:08,857 - #33 ;
+INFO  17:30:08,858 - #41 }
+INFO  17:30:08,858 - #41 }
+INFO  17:30:08,859 - Zavrseno parsiranje 
+
+
+ERROR 17:30:08,870 - Greska na liniji 17: Dodela vrednosti identifikatoru koji nije element niza ni ime promenljive
+INFO  17:30:08,870 - Print calls = 0

@@ -1,0 +1,63 @@
+INFO  18:25:02,944 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:25:02,983 - #2 program
+INFO  18:25:02,984 - #45 P
+INFO  18:25:02,984 - #16 const
+INFO  18:25:02,985 - #45 int
+INFO  18:25:02,985 - #45 ac
+INFO  18:25:02,986 - #30 =
+INFO  18:25:02,986 - #42 10
+INFO  18:25:02,986 - #33 ;
+INFO  18:25:02,987 - #45 int
+INFO  18:25:02,987 - #45 a
+INFO  18:25:02,987 - #33 ;
+INFO  18:25:02,989 - #45 bool
+INFO  18:25:02,989 - #45 b
+INFO  18:25:02,989 - #33 ;
+INFO  18:25:02,989 - #45 char
+INFO  18:25:02,990 - #45 c
+INFO  18:25:02,990 - #33 ;
+INFO  18:25:02,990 - #45 int
+INFO  18:25:02,990 - #45 niza
+INFO  18:25:02,990 - #38 [
+INFO  18:25:02,992 - #39 ]
+INFO  18:25:02,992 - #33 ;
+INFO  18:25:02,992 - #45 char
+INFO  18:25:02,992 - #45 nizb
+INFO  18:25:02,992 - #38 [
+INFO  18:25:02,993 - #39 ]
+INFO  18:25:02,993 - #33 ;
+INFO  18:25:02,993 - #45 bool
+INFO  18:25:02,993 - #45 nizc
+INFO  18:25:02,993 - #38 [
+INFO  18:25:02,993 - #39 ]
+INFO  18:25:02,993 - #33 ;
+INFO  18:25:02,993 - #40 {
+INFO  18:25:02,993 - #45 int
+INFO  18:25:02,994 - #45 funkcija1
+INFO  18:25:02,994 - #36 (
+INFO  18:25:02,994 - #37 )
+INFO  18:25:02,995 - #40 {
+INFO  18:25:02,995 - #10 return
+INFO  18:25:02,996 - #42 1
+INFO  18:25:02,997 - #33 ;
+INFO  18:25:02,997 - #41 }
+INFO  18:25:02,998 - #11 void
+INFO  18:25:02,998 - #45 main
+INFO  18:25:02,999 - #36 (
+INFO  18:25:02,999 - #37 )
+INFO  18:25:02,999 - #40 {
+INFO  18:25:02,999 - #45 funkcija1
+INFO  18:25:02,999 - #36 (
+INFO  18:25:02,999 - #37 )
+INFO  18:25:03,000 - #30 =
+ERROR 18:25:03,000 - 
+Sintaksna greska na liniji 18
+INFO  18:25:03,000 - #42 4
+INFO  18:25:03,000 - #33 ;
+INFO  18:25:03,000 - #41 }
+INFO  18:25:03,001 - #41 }
+ERROR 18:25:03,001 - Greska pri definiciji iskaza dodele na liniji 19
+INFO  18:25:03,002 - Zavrseno parsiranje 
+
+
+INFO  18:25:03,013 - Print calls = 0

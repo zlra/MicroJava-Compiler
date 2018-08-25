@@ -1,0 +1,10 @@
+program test15
+
+{
+	void main()	int c; int d; {
+       c = -3 + 4 + 2 + 1 - (2 + 2); // 0
+       d = -5;
+       print(c);
+       print(d);
+	}
+}

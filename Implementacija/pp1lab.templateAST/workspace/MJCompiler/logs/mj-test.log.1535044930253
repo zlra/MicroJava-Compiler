@@ -1,0 +1,66 @@
+INFO  19:21:37,738 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:21:37,831 - #2 program
+INFO  19:21:37,831 - #45 p
+INFO  19:21:37,831 - #16 const
+INFO  19:21:37,832 - #45 int
+INFO  19:21:37,832 - #45 x
+INFO  19:21:37,833 - #30 =
+INFO  19:21:37,833 - #42 3
+INFO  19:21:37,833 - #33 ;
+INFO  19:21:37,834 - #16 const
+INFO  19:21:37,834 - #45 char
+INFO  19:21:37,834 - #45 a
+INFO  19:21:37,834 - #30 =
+INFO  19:21:37,834 - #44 'a'
+INFO  19:21:37,834 - #33 ;
+INFO  19:21:37,835 - #45 int
+INFO  19:21:37,835 - #45 niz
+INFO  19:21:37,835 - #38 [
+INFO  19:21:37,836 - #39 ]
+INFO  19:21:37,836 - #33 ;
+INFO  19:21:37,837 - #40 {
+INFO  19:21:37,839 - #11 void
+INFO  19:21:37,840 - #45 main
+INFO  19:21:37,841 - #36 (
+INFO  19:21:37,841 - #37 )
+INFO  19:21:37,842 - #40 {
+INFO  19:21:37,843 - #45 a
+INFO  19:21:37,844 - #30 =
+INFO  19:21:37,845 - #44 'b'
+INFO  19:21:37,846 - #33 ;
+INFO  19:21:37,847 - #45 niz
+INFO  19:21:37,848 - #38 [
+INFO  19:21:37,848 - #42 0
+INFO  19:21:37,848 - #39 ]
+INFO  19:21:37,848 - #30 =
+INFO  19:21:37,849 - #42 1
+INFO  19:21:37,849 - #33 ;
+INFO  19:21:37,849 - #45 niz
+INFO  19:21:37,849 - #38 [
+INFO  19:21:37,849 - #42 1
+INFO  19:21:37,849 - #39 ]
+INFO  19:21:37,849 - #30 =
+INFO  19:21:37,849 - #42 2
+INFO  19:21:37,850 - #33 ;
+INFO  19:21:37,850 - #45 niz
+INFO  19:21:37,850 - #38 [
+INFO  19:21:37,850 - #42 3
+INFO  19:21:37,850 - #39 ]
+INFO  19:21:37,850 - #30 =
+INFO  19:21:37,850 - #33 ;
+ERROR 19:21:37,850 - 
+Sintaksna greska na liniji 11
+INFO  19:21:37,850 - #8 print
+INFO  19:21:37,850 - #36 (
+INFO  19:21:37,850 - #45 niz
+ERROR 19:21:37,851 - Greska pri definiciji iskaza dodele na liniji 12
+INFO  19:21:37,852 - #37 )
+INFO  19:21:37,853 - #33 ;
+INFO  19:21:37,853 - #41 }
+INFO  19:21:37,853 - #41 }
+INFO  19:21:37,855 - Zavrseno parsiranje 
+
+
+INFO  19:21:41,562 - Detektovana upotreba konstante a na liniji 8
+ERROR 19:21:41,563 - Greska na liniji 8: Dodela vrednosti konstanti je zabranjena
+ERROR 19:21:41,563 - Greska na liniji 8: Dodela vrednosti identifikatoru koji nije element niza ni ime promenljive

@@ -1,0 +1,58 @@
+INFO  18:59:54,123 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:59:54,167 - #2 program
+INFO  18:59:54,167 - #45 Prog
+INFO  18:59:54,167 - #16 const
+INFO  18:59:54,169 - #45 int
+INFO  18:59:54,169 - #45 b
+INFO  18:59:54,169 - #30 =
+INFO  18:59:54,170 - #42 3
+INFO  18:59:54,170 - #33 ;
+INFO  18:59:54,170 - #45 int
+INFO  18:59:54,171 - #45 c
+INFO  18:59:54,171 - #33 ;
+INFO  18:59:54,172 - #45 int
+INFO  18:59:54,172 - #45 d
+INFO  18:59:54,172 - #33 ;
+INFO  18:59:54,173 - #45 int
+INFO  18:59:54,173 - #45 e
+INFO  18:59:54,173 - #33 ;
+INFO  18:59:54,173 - #45 int
+INFO  18:59:54,173 - #45 f
+INFO  18:59:54,173 - #33 ;
+INFO  18:59:54,173 - #40 {
+INFO  18:59:54,173 - #11 void
+INFO  18:59:54,174 - #45 main
+INFO  18:59:54,175 - #36 (
+INFO  18:59:54,175 - #37 )
+INFO  18:59:54,176 - #40 {
+INFO  18:59:54,176 - #45 x
+INFO  18:59:54,177 - #30 =
+INFO  18:59:54,177 - #42 7
+INFO  18:59:54,178 - #33 ;
+INFO  18:59:54,179 - #45 c
+INFO  18:59:54,180 - #30 =
+INFO  18:59:54,180 - #42 2
+INFO  18:59:54,180 - #17 +
+INFO  18:59:54,180 - #42 3
+INFO  18:59:54,181 - #33 ;
+INFO  18:59:54,181 - #45 d
+INFO  18:59:54,181 - #30 =
+INFO  18:59:54,181 - #42 2
+INFO  18:59:54,181 - #17 +
+INFO  18:59:54,181 - #42 2
+INFO  18:59:54,182 - #33 ;
+INFO  18:59:54,182 - #45 e
+INFO  18:59:54,182 - #30 =
+INFO  18:59:54,182 - #42 3
+INFO  18:59:54,182 - #17 +
+INFO  18:59:54,182 - #42 5
+INFO  18:59:54,182 - #33 ;
+INFO  18:59:54,182 - #41 }
+INFO  18:59:54,182 - #41 }
+INFO  18:59:54,184 - Zavrseno parsiranje 
+
+
+ERROR 18:59:54,209 - Greska na liniji 10: Koristi se nedeklarisan simbol
+ERROR 18:59:54,209 - Greska na liniji 10: Nekompatibilne vrednosti pri iskazu dodele 
+INFO  18:59:54,209 - Print calls = 0
+ERROR 18:59:54,210 - Parsiranje NIJE uspesno zavrseno!

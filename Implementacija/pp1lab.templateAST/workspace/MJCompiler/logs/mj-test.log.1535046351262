@@ -1,0 +1,205 @@
+INFO  19:45:24,867 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:45:24,970 - #2 program
+INFO  19:45:24,971 - #45 test305
+INFO  19:45:24,971 - #16 const
+INFO  19:45:24,974 - #45 int
+INFO  19:45:24,975 - #45 jedan
+INFO  19:45:24,976 - #30 =
+INFO  19:45:24,977 - #42 1
+INFO  19:45:24,977 - #34 ,
+INFO  19:45:24,978 - #45 dva
+INFO  19:45:24,978 - #30 =
+INFO  19:45:24,978 - #42 2
+INFO  19:45:24,979 - #33 ;
+INFO  19:45:24,981 - #16 const
+INFO  19:45:24,982 - #45 int
+INFO  19:45:24,982 - #45 pet
+INFO  19:45:24,982 - #30 =
+INFO  19:45:24,982 - #42 5
+INFO  19:45:24,983 - #33 ;
+INFO  19:45:24,983 - #45 int
+INFO  19:45:24,983 - #45 niz
+INFO  19:45:24,984 - #38 [
+INFO  19:45:24,984 - #39 ]
+INFO  19:45:24,984 - #34 ,
+INFO  19:45:24,988 - #45 x
+INFO  19:45:24,988 - #34 ,
+INFO  19:45:24,989 - #45 y
+INFO  19:45:24,990 - #33 ;
+INFO  19:45:24,991 - #45 char
+INFO  19:45:24,991 - #45 nizch
+INFO  19:45:24,991 - #38 [
+INFO  19:45:24,991 - #39 ]
+INFO  19:45:24,991 - #33 ;
+INFO  19:45:24,992 - #40 {
+INFO  19:45:24,992 - #45 int
+INFO  19:45:24,993 - #45 k
+INFO  19:45:24,993 - #36 (
+INFO  19:45:24,995 - #37 )
+INFO  19:45:24,996 - #40 {
+INFO  19:45:24,997 - #45 x
+INFO  19:45:24,998 - #30 =
+INFO  19:45:24,999 - #45 pet
+INFO  19:45:25,001 - #33 ;
+INFO  19:45:25,003 - #10 return
+INFO  19:45:25,003 - #45 dva
+INFO  19:45:25,004 - #33 ;
+INFO  19:45:25,004 - #41 }
+INFO  19:45:25,004 - #11 void
+INFO  19:45:25,005 - #45 main
+INFO  19:45:25,006 - #36 (
+INFO  19:45:25,006 - #37 )
+INFO  19:45:25,006 - #45 int
+INFO  19:45:25,006 - #45 bodovi
+INFO  19:45:25,006 - #33 ;
+INFO  19:45:25,006 - #45 bool
+INFO  19:45:25,007 - #45 b
+INFO  19:45:25,007 - #33 ;
+INFO  19:45:25,007 - #45 char
+INFO  19:45:25,007 - #45 c
+INFO  19:45:25,007 - #33 ;
+INFO  19:45:25,010 - #40 {
+INFO  19:45:25,010 - #45 x
+INFO  19:45:25,010 - #30 =
+INFO  19:45:25,010 - #42 22
+INFO  19:45:25,011 - #33 ;
+INFO  19:45:25,011 - #8 print
+INFO  19:45:25,011 - #36 (
+INFO  19:45:25,011 - #45 x
+INFO  19:45:25,011 - #37 )
+INFO  19:45:25,011 - #33 ;
+INFO  19:45:25,011 - #45 bodovi
+INFO  19:45:25,012 - #30 =
+INFO  19:45:25,012 - #45 k
+INFO  19:45:25,012 - #36 (
+INFO  19:45:25,013 - #37 )
+INFO  19:45:25,013 - #33 ;
+INFO  19:45:25,014 - #8 print
+INFO  19:45:25,014 - #36 (
+INFO  19:45:25,014 - #45 bodovi
+INFO  19:45:25,014 - #37 )
+INFO  19:45:25,014 - #33 ;
+INFO  19:45:25,014 - #45 k
+INFO  19:45:25,014 - #36 (
+INFO  19:45:25,014 - #37 )
+INFO  19:45:25,015 - #33 ;
+INFO  19:45:25,015 - #8 print
+INFO  19:45:25,015 - #36 (
+INFO  19:45:25,015 - #45 bodovi
+INFO  19:45:25,015 - #37 )
+INFO  19:45:25,015 - #33 ;
+INFO  19:45:25,015 - #8 print
+INFO  19:45:25,015 - #36 (
+INFO  19:45:25,016 - #45 x
+INFO  19:45:25,016 - #37 )
+INFO  19:45:25,016 - #33 ;
+INFO  19:45:25,016 - #45 x
+INFO  19:45:25,016 - #30 =
+INFO  19:45:25,016 - #18 -
+INFO  19:45:25,016 - #42 9
+INFO  19:45:25,017 - #17 +
+INFO  19:45:25,017 - #42 6
+INFO  19:45:25,019 - #33 ;
+INFO  19:45:25,019 - #8 print
+INFO  19:45:25,019 - #36 (
+INFO  19:45:25,020 - #45 x
+INFO  19:45:25,020 - #37 )
+INFO  19:45:25,020 - #33 ;
+INFO  19:45:25,020 - #45 b
+INFO  19:45:25,020 - #30 =
+INFO  19:45:25,020 - #44 'a'
+INFO  19:45:25,020 - #33 ;
+INFO  19:45:25,020 - #45 niz
+INFO  19:45:25,020 - #38 [
+INFO  19:45:25,021 - #44 'a'
+INFO  19:45:25,022 - #39 ]
+INFO  19:45:25,022 - #30 =
+INFO  19:45:25,022 - #42 0
+INFO  19:45:25,022 - #33 ;
+INFO  19:45:25,023 - #45 nizch
+INFO  19:45:25,023 - #38 [
+INFO  19:45:25,023 - #42 0
+INFO  19:45:25,023 - #39 ]
+INFO  19:45:25,023 - #31 ++
+INFO  19:45:25,023 - #33 ;
+INFO  19:45:25,023 - #8 print
+INFO  19:45:25,023 - #36 (
+INFO  19:45:25,024 - #44 'a'
+INFO  19:45:25,024 - #37 )
+INFO  19:45:25,024 - #33 ;
+INFO  19:45:25,024 - #45 x
+INFO  19:45:25,024 - #30 =
+INFO  19:45:25,024 - #42 3
+INFO  19:45:25,024 - #33 ;
+INFO  19:45:25,024 - #8 print
+INFO  19:45:25,024 - #36 (
+INFO  19:45:25,025 - #43 true
+INFO  19:45:25,025 - #37 )
+INFO  19:45:25,025 - #33 ;
+INFO  19:45:25,025 - #45 x
+INFO  19:45:25,025 - #31 ++
+INFO  19:45:25,025 - #33 ;
+INFO  19:45:25,025 - #8 print
+INFO  19:45:25,025 - #36 (
+INFO  19:45:25,025 - #45 x
+INFO  19:45:25,025 - #37 )
+INFO  19:45:25,026 - #33 ;
+INFO  19:45:25,026 - #45 x
+INFO  19:45:25,026 - #32 --
+INFO  19:45:25,026 - #33 ;
+INFO  19:45:25,026 - #8 print
+INFO  19:45:25,026 - #36 (
+INFO  19:45:25,026 - #45 x
+INFO  19:45:25,026 - #37 )
+INFO  19:45:25,026 - #33 ;
+INFO  19:45:25,026 - #45 x
+INFO  19:45:25,026 - #32 --
+INFO  19:45:25,026 - #33 ;
+INFO  19:45:25,027 - #8 print
+INFO  19:45:25,027 - #36 (
+INFO  19:45:25,027 - #45 x
+INFO  19:45:25,027 - #37 )
+INFO  19:45:25,027 - #33 ;
+INFO  19:45:25,027 - #45 x
+INFO  19:45:25,027 - #31 ++
+INFO  19:45:25,027 - #33 ;
+INFO  19:45:25,028 - #8 print
+INFO  19:45:25,028 - #36 (
+INFO  19:45:25,028 - #45 x
+INFO  19:45:25,028 - #37 )
+INFO  19:45:25,028 - #33 ;
+INFO  19:45:25,028 - #41 }
+INFO  19:45:25,028 - #41 }
+INFO  19:45:25,030 - Zavrseno parsiranje 
+
+
+INFO  19:45:25,051 - Detektovana upotreba globalne promenljive x na liniji 13
+INFO  19:45:25,051 - Detektovana upotreba konstante pet na liniji 13
+INFO  19:45:25,051 - Detektovana upotreba konstante dva na liniji 14
+INFO  19:45:25,051 - Detektovana upotreba globalne promenljive x na liniji 20
+INFO  19:45:25,051 - Detektovana upotreba globalne promenljive x na liniji 21
+INFO  19:45:25,051 - Detektovana upotreba lokalne promenljive bodovi na liniji 22
+INFO  19:45:25,051 - Detektovana upotreba globalne metode k na liniji 22
+INFO  19:45:25,051 - Detektovana upotreba lokalne promenljive bodovi na liniji 23
+INFO  19:45:25,051 - Detektovana upotreba globalne metode k na liniji 24
+INFO  19:45:25,051 - Detektovana upotreba lokalne promenljive bodovi na liniji 25
+INFO  19:45:25,052 - Detektovana upotreba globalne promenljive x na liniji 26
+INFO  19:45:25,052 - Detektovana upotreba globalne promenljive x na liniji 28
+INFO  19:45:25,052 - Detektovana upotreba globalne promenljive x na liniji 29
+INFO  19:45:25,052 - Detektovana upotreba lokalne promenljive b na liniji 32
+ERROR 19:45:25,052 - Greska na liniji 32: Nekompatibilne vrednosti pri iskazu dodele 
+ERROR 19:45:25,052 - Greska na liniji 5: Expression u izrazu [ expression ] nije tipa int.
+INFO  19:45:25,052 - Detektovano koriscenje elementa niza na liniji 34
+INFO  19:45:25,052 - Detektovano koriscenje elementa niza na liniji 36
+ERROR 19:45:25,052 - Greska na liniji 36: Designator u increment narebi kao element niza nije tipa int.
+INFO  19:45:25,052 - Detektovana upotreba globalne promenljive x na liniji 39
+INFO  19:45:25,052 - Detektovana upotreba globalne promenljive x na liniji 41
+INFO  19:45:25,052 - Detektovana upotreba globalne promenljive x na liniji 42
+INFO  19:45:25,052 - Detektovana upotreba globalne promenljive x na liniji 43
+INFO  19:45:25,053 - Detektovana upotreba globalne promenljive x na liniji 44
+INFO  19:45:25,053 - Detektovana upotreba globalne promenljive x na liniji 45
+INFO  19:45:25,053 - Detektovana upotreba globalne promenljive x na liniji 46
+INFO  19:45:25,053 - Detektovana upotreba globalne promenljive x na liniji 47
+INFO  19:45:25,053 - Detektovana upotreba globalne promenljive x na liniji 48
+INFO  19:45:25,053 - Print calls = 0
+ERROR 19:45:25,054 - Parsiranje NIJE uspesno zavrseno!

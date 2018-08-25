@@ -1,0 +1,83 @@
+INFO  00:37:36,411 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  00:37:36,449 - #2 program
+INFO  00:37:36,449 - #45 test302
+INFO  00:37:36,449 - #45 int
+INFO  00:37:36,450 - #45 i
+INFO  00:37:36,450 - #33 ;
+INFO  00:37:36,451 - #45 bool
+INFO  00:37:36,451 - #45 ibool
+INFO  00:37:36,452 - #33 ;
+INFO  00:37:36,452 - #45 int
+INFO  00:37:36,452 - #45 niz
+INFO  00:37:36,452 - #38 [
+INFO  00:37:36,452 - #39 ]
+INFO  00:37:36,452 - #33 ;
+INFO  00:37:36,452 - #40 {
+INFO  00:37:36,452 - #45 int
+INFO  00:37:36,453 - #45 sum
+INFO  00:37:36,453 - #36 (
+INFO  00:37:36,454 - #45 int
+INFO  00:37:36,454 - #45 z
+INFO  00:37:36,454 - #34 ,
+INFO  00:37:36,456 - #45 int
+INFO  00:37:36,456 - #45 d
+INFO  00:37:36,456 - #37 )
+INFO  00:37:36,456 - #40 {
+INFO  00:37:36,457 - #10 return
+INFO  00:37:36,457 - #45 z
+INFO  00:37:36,458 - #17 +
+INFO  00:37:36,459 - #45 d
+INFO  00:37:36,461 - #33 ;
+INFO  00:37:36,462 - #41 }
+INFO  00:37:36,462 - #45 int
+INFO  00:37:36,463 - #45 inkrement
+INFO  00:37:36,463 - #36 (
+INFO  00:37:36,463 - #45 int
+INFO  00:37:36,463 - #45 a
+INFO  00:37:36,463 - #37 )
+INFO  00:37:36,463 - #45 int
+INFO  00:37:36,464 - #45 pom
+INFO  00:37:36,464 - #33 ;
+INFO  00:37:36,464 - #40 {
+INFO  00:37:36,464 - #45 pom
+INFO  00:37:36,464 - #30 =
+INFO  00:37:36,464 - #42 1
+INFO  00:37:36,464 - #33 ;
+INFO  00:37:36,465 - #10 return
+INFO  00:37:36,465 - #45 sum
+INFO  00:37:36,465 - #36 (
+INFO  00:37:36,465 - #45 a
+INFO  00:37:36,465 - #34 ,
+INFO  00:37:36,466 - #45 pom
+INFO  00:37:36,466 - #37 )
+INFO  00:37:36,466 - #33 ;
+INFO  00:37:36,466 - #41 }
+INFO  00:37:36,467 - #11 void
+INFO  00:37:36,467 - #45 main
+INFO  00:37:36,467 - #36 (
+INFO  00:37:36,467 - #37 )
+INFO  00:37:36,468 - #40 {
+INFO  00:37:36,468 - #45 i
+INFO  00:37:36,471 - #30 =
+INFO  00:37:36,471 - #45 ord
+INFO  00:37:36,471 - #36 (
+INFO  00:37:36,471 - #42 2
+INFO  00:37:36,472 - #37 )
+INFO  00:37:36,472 - #33 ;
+INFO  00:37:36,472 - #41 }
+INFO  00:37:36,472 - #41 }
+INFO  00:37:36,473 - Zavrseno parsiranje 
+
+
+INFO  00:37:36,487 - Detektovana upotreba lokalne promenljive z na liniji 14
+INFO  00:37:36,487 - Detektovana upotreba lokalne promenljive d na liniji 14
+INFO  00:37:36,487 - Detektovana upotreba lokalne promenljive pom na liniji 19
+INFO  00:37:36,487 - Detektovana upotreba globalne metode sum na liniji 20
+INFO  00:37:36,487 - Detektovana upotreba lokalne promenljive a na liniji 20
+INFO  00:37:36,487 - Detektovana upotreba lokalne promenljive pom na liniji 20
+INFO  00:37:36,488 - Detektovana upotreba globalne promenljive i na liniji 25
+INFO  00:37:36,488 - Detektovana upotreba globalne metode ord na liniji 25
+ERROR 00:37:36,489 - Greska na liniji 25: Poziv ord metode sa argumentom koji nije tipa char
+ERROR 00:37:36,489 - Greska na liniji 25: Nekompatibilne vrednosti pri iskazu dodele 
+INFO  00:37:36,489 - Print calls = 0
+ERROR 00:37:36,489 - Parsiranje NIJE uspesno zavrseno!

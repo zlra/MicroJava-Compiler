@@ -1,0 +1,17 @@
+program semanticka9
+	const char a = 'b';
+	const int b = 1, f=3;
+	int c[], d;
+{	
+	void k() char a; {
+		//c['a'] = 'a';
+	}
+	
+	void main() int a; int b; {
+		//p = 'a';
+		print(a);
+		a = 3 + 2 - (a - 3);
+		print(a);
+		//a[1] = 3;
+	}
+}

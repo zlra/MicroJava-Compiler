@@ -1,0 +1,66 @@
+INFO  12:58:51,505 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:58:51,546 - #2 program
+INFO  12:58:51,546 - #45 P
+INFO  12:58:51,546 - #16 const
+INFO  12:58:51,547 - #45 int
+INFO  12:58:51,547 - #45 ac
+INFO  12:58:51,548 - #30 =
+INFO  12:58:51,548 - #42 10
+INFO  12:58:51,548 - #33 ;
+INFO  12:58:51,549 - #45 int
+INFO  12:58:51,550 - #45 a
+INFO  12:58:51,550 - #33 ;
+INFO  12:58:51,552 - #45 bool
+INFO  12:58:51,552 - #45 b
+INFO  12:58:51,552 - #33 ;
+INFO  12:58:51,552 - #45 char
+INFO  12:58:51,552 - #45 c
+INFO  12:58:51,552 - #33 ;
+INFO  12:58:51,553 - #45 int
+INFO  12:58:51,553 - #45 niza
+INFO  12:58:51,553 - #38 [
+INFO  12:58:51,553 - #39 ]
+INFO  12:58:51,553 - #33 ;
+INFO  12:58:51,554 - #45 char
+INFO  12:58:51,554 - #45 nizb
+INFO  12:58:51,554 - #38 [
+INFO  12:58:51,554 - #39 ]
+INFO  12:58:51,554 - #33 ;
+INFO  12:58:51,554 - #45 bool
+INFO  12:58:51,554 - #45 nizc
+INFO  12:58:51,554 - #38 [
+INFO  12:58:51,554 - #39 ]
+INFO  12:58:51,554 - #33 ;
+INFO  12:58:51,554 - #40 {
+INFO  12:58:51,554 - #45 int
+INFO  12:58:51,555 - #45 funkcija1
+INFO  12:58:51,555 - #36 (
+INFO  12:58:51,555 - #37 )
+INFO  12:58:51,556 - #40 {
+INFO  12:58:51,556 - #10 return
+INFO  12:58:51,557 - #42 1
+INFO  12:58:51,558 - #33 ;
+INFO  12:58:51,558 - #41 }
+INFO  12:58:51,559 - #11 void
+INFO  12:58:51,560 - #45 main
+INFO  12:58:51,561 - #36 (
+INFO  12:58:51,561 - #37 )
+INFO  12:58:51,561 - #40 {
+INFO  12:58:51,561 - #45 niza
+INFO  12:58:51,561 - #38 [
+INFO  12:58:51,562 - #42 1
+INFO  12:58:51,562 - #39 ]
+INFO  12:58:51,562 - #30 =
+INFO  12:58:51,562 - #7 new
+INFO  12:58:51,563 - #45 int
+INFO  12:58:51,563 - #38 [
+INFO  12:58:51,563 - #42 10
+INFO  12:58:51,563 - #39 ]
+INFO  12:58:51,563 - #33 ;
+INFO  12:58:51,563 - #41 }
+INFO  12:58:51,565 - #41 }
+INFO  12:58:51,566 - Zavrseno parsiranje 
+
+
+ERROR 12:58:51,575 - Greska na liniji 19: Nekompatibilne vrednosti pri dodeli
+INFO  12:58:51,575 - Print calls = 0

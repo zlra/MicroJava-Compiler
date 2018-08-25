@@ -1,0 +1,36 @@
+INFO  12:45:44,296 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:45:44,330 - #2 program
+INFO  12:45:44,330 - #45 P
+INFO  12:45:44,330 - #45 int
+INFO  12:45:44,331 - #45 x
+INFO  12:45:44,331 - #34 ,
+INFO  12:45:44,332 - #45 y
+INFO  12:45:44,332 - #34 ,
+INFO  12:45:44,333 - #45 z
+INFO  12:45:44,333 - #33 ;
+INFO  12:45:44,333 - #16 const
+INFO  12:45:44,334 - #45 int
+INFO  12:45:44,334 - #45 a
+INFO  12:45:44,334 - #30 =
+INFO  12:45:44,334 - #42 10
+INFO  12:45:44,334 - #33 ;
+INFO  12:45:44,335 - #40 {
+INFO  12:45:44,335 - #11 void
+INFO  12:45:44,336 - #45 main
+INFO  12:45:44,337 - #36 (
+INFO  12:45:44,337 - #37 )
+INFO  12:45:44,339 - #40 {
+INFO  12:45:44,339 - #41 }
+INFO  12:45:44,340 - #41 }
+INFO  12:45:44,341 - Zavrseno parsiranje 
+
+
+INFO  12:45:44,350 - Smena declaration list empty
+INFO  12:45:44,350 - Smena declaration list not empty
+INFO  12:45:44,350 - Smena declaration list not empty
+INFO  12:45:44,351 - Smena method declaration list empty
+INFO  12:45:44,351 - Metoda je void 
+INFO  12:45:44,351 - Smena method declaration nadjena
+INFO  12:45:44,351 - Metoda main dodata u scope
+INFO  12:45:44,351 - Smena  method declaration list
+INFO  12:45:44,351 - Print calls = 0

@@ -1,0 +1,32 @@
+program rz140030d
+
+int niz[];
+{
+	void sortiraj(int niz[]) int i; {
+		i = 0;
+		do {
+			print(niz[i]);
+			i++;
+		} while (i < len(niz));
+	}
+
+	void main() {
+		niz = new int[10];
+		niz[1] = 1;
+		niz[3] = 5;
+		niz[5] = 7;
+		niz[9] = 10;
+	
+		if (1 > 0) {
+			ispisiNiz(niz);
+		} else {
+			print('g');
+			print('r');
+			print('e');
+			print('s');
+			print('k');
+			print('a');
+		}
+		return;
+	}
+}

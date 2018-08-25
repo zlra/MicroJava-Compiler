@@ -1,0 +1,40 @@
+INFO  20:09:11,466 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:09:11,512 - #2 program
+INFO  20:09:11,513 - #45 oporavak2
+INFO  20:09:11,513 - #16 const
+INFO  20:09:11,514 - #45 int
+INFO  20:09:11,514 - #45 x
+INFO  20:09:11,515 - #30 =
+INFO  20:09:11,515 - #42 1
+INFO  20:09:11,516 - #33 ;
+INFO  20:09:11,516 - #45 int
+INFO  20:09:11,516 - #45 y
+INFO  20:09:11,516 - #38 [
+INFO  20:09:11,517 - #39 ]
+INFO  20:09:11,517 - #33 ;
+INFO  20:09:11,518 - #45 bool
+INFO  20:09:11,518 - #45 z
+INFO  20:09:11,518 - #33 ;
+INFO  20:09:11,519 - #40 {
+INFO  20:09:11,519 - #11 void
+INFO  20:09:11,519 - #45 main
+INFO  20:09:11,520 - #36 (
+INFO  20:09:11,520 - #37 )
+INFO  20:09:11,521 - #40 {
+INFO  20:09:11,521 - #45 z
+INFO  20:09:11,522 - #30 =
+INFO  20:09:11,523 - #42 3
+INFO  20:09:11,523 - #17 +
+INFO  20:09:11,523 - #17 +
+ERROR 20:09:11,523 - 
+Sintaksna greska na liniji 7
+INFO  20:09:11,523 - #42 3
+INFO  20:09:11,523 - #33 ;
+INFO  20:09:11,523 - #41 }
+INFO  20:09:11,524 - #41 }
+ERROR 20:09:11,524 - Greska pri definiciji iskaza dodele na liniji 8
+INFO  20:09:11,526 - Zavrseno parsiranje 
+
+
+INFO  20:09:11,539 - Print calls = 0
+ERROR 20:09:11,539 - Parsiranje NIJE uspesno zavrseno!

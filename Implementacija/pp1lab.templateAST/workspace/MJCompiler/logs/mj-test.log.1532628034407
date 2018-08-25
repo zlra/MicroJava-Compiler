@@ -1,0 +1,29 @@
+INFO  19:59:51,533 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:59:51,574 - #2 program
+INFO  19:59:51,574 - #45 P
+INFO  19:59:51,574 - #45 char
+INFO  19:59:51,576 - #45 x
+INFO  19:59:51,577 - #34 ,
+INFO  19:59:51,578 - #45 y
+INFO  19:59:51,578 - #34 ,
+INFO  19:59:51,578 - #45 z
+INFO  19:59:51,578 - #33 ;
+INFO  19:59:51,579 - #16 const
+INFO  19:59:51,579 - #45 int
+INFO  19:59:51,580 - #45 a
+INFO  19:59:51,580 - #30 =
+INFO  19:59:51,580 - #42 10
+INFO  19:59:51,580 - #33 ;
+INFO  19:59:51,581 - #40 {
+INFO  19:59:51,581 - #11 void
+INFO  19:59:51,582 - #45 main
+INFO  19:59:51,582 - #36 (
+INFO  19:59:51,582 - #37 )
+INFO  19:59:51,590 - #40 {
+INFO  19:59:51,591 - #41 }
+INFO  19:59:51,591 - #41 }
+INFO  19:59:51,592 - Zavrseno parsiranje 
+
+
+INFO  19:59:51,602 - Metoda main dodata u scope
+INFO  19:59:51,602 - Print calls = 0

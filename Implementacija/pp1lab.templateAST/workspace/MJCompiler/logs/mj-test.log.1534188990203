@@ -1,0 +1,61 @@
+INFO  21:36:22,368 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:36:22,403 - #2 program
+INFO  21:36:22,403 - #45 P
+INFO  21:36:22,403 - #16 const
+INFO  21:36:22,404 - #45 int
+INFO  21:36:22,404 - #45 ac
+INFO  21:36:22,405 - #30 =
+INFO  21:36:22,405 - #42 10
+INFO  21:36:22,405 - #33 ;
+INFO  21:36:22,406 - #45 int
+INFO  21:36:22,406 - #45 a
+INFO  21:36:22,406 - #33 ;
+INFO  21:36:22,407 - #45 bool
+INFO  21:36:22,407 - #45 b
+INFO  21:36:22,407 - #33 ;
+INFO  21:36:22,408 - #45 char
+INFO  21:36:22,408 - #45 c
+INFO  21:36:22,408 - #33 ;
+INFO  21:36:22,408 - #45 int
+INFO  21:36:22,408 - #45 niza
+INFO  21:36:22,408 - #38 [
+INFO  21:36:22,408 - #39 ]
+INFO  21:36:22,408 - #33 ;
+INFO  21:36:22,409 - #45 char
+INFO  21:36:22,409 - #45 nizb
+INFO  21:36:22,409 - #38 [
+INFO  21:36:22,409 - #39 ]
+INFO  21:36:22,409 - #33 ;
+INFO  21:36:22,409 - #45 bool
+INFO  21:36:22,409 - #45 nizc
+INFO  21:36:22,410 - #38 [
+INFO  21:36:22,410 - #39 ]
+INFO  21:36:22,410 - #33 ;
+INFO  21:36:22,410 - #40 {
+INFO  21:36:22,410 - #45 int
+INFO  21:36:22,410 - #45 funkcija1
+INFO  21:36:22,411 - #36 (
+INFO  21:36:22,411 - #37 )
+INFO  21:36:22,412 - #40 {
+INFO  21:36:22,413 - #10 return
+INFO  21:36:22,413 - #44 'c'
+INFO  21:36:22,414 - #33 ;
+INFO  21:36:22,415 - #41 }
+INFO  21:36:22,415 - #11 void
+INFO  21:36:22,416 - #45 main
+INFO  21:36:22,416 - #36 (
+INFO  21:36:22,416 - #37 )
+INFO  21:36:22,416 - #40 {
+INFO  21:36:22,416 - #45 a
+INFO  21:36:22,417 - #30 =
+INFO  21:36:22,417 - #45 funkcija1
+INFO  21:36:22,417 - #36 (
+INFO  21:36:22,417 - #37 )
+INFO  21:36:22,418 - #33 ;
+INFO  21:36:22,418 - #41 }
+INFO  21:36:22,418 - #41 }
+INFO  21:36:22,419 - Zavrseno parsiranje 
+
+
+ERROR 21:36:22,430 - Greska na liniji 2: Povratna vrednost i vrednost return iskaza nisu istog tipa
+INFO  21:36:22,430 - Print calls = 0

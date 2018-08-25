@@ -1,0 +1,319 @@
+INFO  22:28:31,570 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:28:31,605 - #2 program
+INFO  22:28:31,605 - #45 test302
+INFO  22:28:31,605 - #45 int
+INFO  22:28:31,606 - #45 i
+INFO  22:28:31,607 - #33 ;
+INFO  22:28:31,608 - #45 bool
+INFO  22:28:31,608 - #45 ibool
+INFO  22:28:31,608 - #33 ;
+INFO  22:28:31,608 - #45 int
+INFO  22:28:31,608 - #45 niz
+INFO  22:28:31,608 - #38 [
+INFO  22:28:31,608 - #39 ]
+INFO  22:28:31,608 - #33 ;
+INFO  22:28:31,609 - #40 {
+INFO  22:28:31,609 - #45 int
+INFO  22:28:31,609 - #45 sum
+INFO  22:28:31,609 - #36 (
+INFO  22:28:31,610 - #45 int
+INFO  22:28:31,610 - #45 z
+INFO  22:28:31,610 - #34 ,
+INFO  22:28:31,612 - #45 int
+INFO  22:28:31,612 - #45 d
+INFO  22:28:31,612 - #37 )
+INFO  22:28:31,612 - #40 {
+INFO  22:28:31,613 - #10 return
+INFO  22:28:31,613 - #45 z
+INFO  22:28:31,614 - #17 +
+INFO  22:28:31,615 - #45 d
+INFO  22:28:31,616 - #33 ;
+INFO  22:28:31,616 - #41 }
+INFO  22:28:31,616 - #45 int
+INFO  22:28:31,617 - #45 inkrement
+INFO  22:28:31,617 - #36 (
+INFO  22:28:31,617 - #45 int
+INFO  22:28:31,617 - #45 a
+INFO  22:28:31,618 - #37 )
+INFO  22:28:31,618 - #45 int
+INFO  22:28:31,618 - #45 pom
+INFO  22:28:31,618 - #33 ;
+INFO  22:28:31,618 - #40 {
+INFO  22:28:31,618 - #45 pom
+INFO  22:28:31,618 - #30 =
+INFO  22:28:31,618 - #42 1
+INFO  22:28:31,618 - #33 ;
+INFO  22:28:31,619 - #10 return
+INFO  22:28:31,619 - #45 sum
+INFO  22:28:31,619 - #36 (
+INFO  22:28:31,619 - #45 a
+INFO  22:28:31,619 - #34 ,
+INFO  22:28:31,619 - #45 pom
+INFO  22:28:31,619 - #37 )
+INFO  22:28:31,619 - #33 ;
+INFO  22:28:31,620 - #41 }
+INFO  22:28:31,620 - #11 void
+INFO  22:28:31,620 - #45 main
+INFO  22:28:31,621 - #36 (
+INFO  22:28:31,621 - #37 )
+INFO  22:28:31,621 - #40 {
+INFO  22:28:31,621 - #6 if
+INFO  22:28:31,623 - #36 (
+INFO  22:28:31,623 - #42 1
+INFO  22:28:31,623 - #29 !=
+INFO  22:28:31,624 - #42 1
+INFO  22:28:31,625 - #37 )
+INFO  22:28:31,626 - #8 print
+INFO  22:28:31,627 - #36 (
+INFO  22:28:31,627 - #18 -
+INFO  22:28:31,627 - #42 6
+INFO  22:28:31,627 - #37 )
+INFO  22:28:31,627 - #33 ;
+INFO  22:28:31,627 - #5 else
+INFO  22:28:31,628 - #8 print
+INFO  22:28:31,629 - #36 (
+INFO  22:28:31,629 - #42 0
+INFO  22:28:31,629 - #37 )
+INFO  22:28:31,629 - #33 ;
+INFO  22:28:31,629 - #45 ibool
+INFO  22:28:31,630 - #30 =
+INFO  22:28:31,630 - #43 false
+INFO  22:28:31,630 - #33 ;
+INFO  22:28:31,630 - #45 i
+INFO  22:28:31,630 - #30 =
+INFO  22:28:31,630 - #42 0
+INFO  22:28:31,630 - #33 ;
+INFO  22:28:31,630 - #12 do
+INFO  22:28:31,630 - #40 {
+INFO  22:28:31,631 - #6 if
+INFO  22:28:31,631 - #36 (
+INFO  22:28:31,631 - #45 i
+INFO  22:28:31,631 - #28 ==
+INFO  22:28:31,631 - #42 2
+INFO  22:28:31,631 - #37 )
+INFO  22:28:31,632 - #45 ibool
+INFO  22:28:31,632 - #30 =
+INFO  22:28:31,632 - #43 true
+INFO  22:28:31,632 - #33 ;
+INFO  22:28:31,632 - #45 i
+INFO  22:28:31,632 - #31 ++
+INFO  22:28:31,632 - #33 ;
+INFO  22:28:31,632 - #41 }
+INFO  22:28:31,633 - #13 while
+INFO  22:28:31,633 - #36 (
+INFO  22:28:31,633 - #45 i
+INFO  22:28:31,633 - #22 <
+INFO  22:28:31,633 - #42 5
+INFO  22:28:31,634 - #37 )
+INFO  22:28:31,634 - #33 ;
+INFO  22:28:31,634 - #6 if
+INFO  22:28:31,635 - #36 (
+INFO  22:28:31,635 - #45 ibool
+INFO  22:28:31,635 - #37 )
+INFO  22:28:31,635 - #6 if
+INFO  22:28:31,635 - #36 (
+INFO  22:28:31,635 - #45 i
+INFO  22:28:31,635 - #28 ==
+INFO  22:28:31,636 - #42 5
+INFO  22:28:31,636 - #37 )
+INFO  22:28:31,636 - #8 print
+INFO  22:28:31,636 - #36 (
+INFO  22:28:31,636 - #42 1
+INFO  22:28:31,636 - #37 )
+INFO  22:28:31,636 - #33 ;
+INFO  22:28:31,636 - #5 else
+INFO  22:28:31,636 - #8 print
+INFO  22:28:31,636 - #36 (
+INFO  22:28:31,636 - #18 -
+INFO  22:28:31,636 - #42 1
+INFO  22:28:31,636 - #37 )
+INFO  22:28:31,636 - #33 ;
+INFO  22:28:31,636 - #45 niz
+INFO  22:28:31,636 - #30 =
+INFO  22:28:31,636 - #7 new
+INFO  22:28:31,636 - #45 int
+INFO  22:28:31,636 - #38 [
+INFO  22:28:31,637 - #42 3
+INFO  22:28:31,637 - #39 ]
+INFO  22:28:31,637 - #33 ;
+INFO  22:28:31,637 - #45 niz
+INFO  22:28:31,637 - #38 [
+INFO  22:28:31,637 - #42 0
+INFO  22:28:31,637 - #39 ]
+INFO  22:28:31,637 - #30 =
+INFO  22:28:31,638 - #42 1
+INFO  22:28:31,638 - #33 ;
+INFO  22:28:31,638 - #45 niz
+INFO  22:28:31,638 - #38 [
+INFO  22:28:31,638 - #42 1
+INFO  22:28:31,638 - #39 ]
+INFO  22:28:31,638 - #30 =
+INFO  22:28:31,638 - #42 2
+INFO  22:28:31,639 - #33 ;
+INFO  22:28:31,639 - #45 niz
+INFO  22:28:31,639 - #38 [
+INFO  22:28:31,639 - #42 2
+INFO  22:28:31,639 - #39 ]
+INFO  22:28:31,639 - #30 =
+INFO  22:28:31,639 - #45 sum
+INFO  22:28:31,639 - #36 (
+INFO  22:28:31,639 - #45 niz
+INFO  22:28:31,639 - #38 [
+INFO  22:28:31,639 - #42 1
+INFO  22:28:31,639 - #39 ]
+INFO  22:28:31,639 - #34 ,
+INFO  22:28:31,639 - #45 niz
+INFO  22:28:31,639 - #38 [
+INFO  22:28:31,639 - #42 0
+INFO  22:28:31,639 - #39 ]
+INFO  22:28:31,639 - #37 )
+INFO  22:28:31,639 - #17 +
+INFO  22:28:31,639 - #42 1
+INFO  22:28:31,639 - #33 ;
+INFO  22:28:31,640 - #5 else
+ERROR 22:28:31,640 - 
+Sintaksna greska na liniji 49
+INFO  22:28:31,640 - #8 print
+INFO  22:28:31,640 - #36 (
+INFO  22:28:31,640 - #45 ord
+INFO  22:28:31,640 - #36 (
+INFO  22:28:31,640 - #44 'a'
+INFO  22:28:31,640 - #37 )
+INFO  22:28:31,640 - #37 )
+INFO  22:28:31,640 - #33 ;
+INFO  22:28:31,641 - #8 print
+INFO  22:28:31,641 - #36 (
+INFO  22:28:31,641 - #45 eol
+ERROR 22:28:31,641 - Greska pri definiciji iskaza dodele na liniji 50
+INFO  22:28:31,641 - #37 )
+INFO  22:28:31,641 - #33 ;
+INFO  22:28:31,641 - #45 i
+INFO  22:28:31,641 - #30 =
+INFO  22:28:31,641 - #42 0
+INFO  22:28:31,641 - #33 ;
+INFO  22:28:31,641 - #12 do
+INFO  22:28:31,641 - #40 {
+INFO  22:28:31,642 - #6 if
+INFO  22:28:31,642 - #36 (
+INFO  22:28:31,642 - #45 i
+INFO  22:28:31,642 - #28 ==
+INFO  22:28:31,642 - #42 3
+INFO  22:28:31,642 - #37 )
+INFO  22:28:31,642 - #40 {
+INFO  22:28:31,642 - #45 i
+INFO  22:28:31,642 - #31 ++
+INFO  22:28:31,642 - #33 ;
+INFO  22:28:31,642 - #15 continue
+INFO  22:28:31,642 - #33 ;
+INFO  22:28:31,642 - #41 }
+INFO  22:28:31,642 - #6 if
+INFO  22:28:31,642 - #36 (
+INFO  22:28:31,643 - #45 i
+INFO  22:28:31,643 - #28 ==
+INFO  22:28:31,643 - #42 4
+INFO  22:28:31,643 - #37 )
+INFO  22:28:31,643 - #3 break
+INFO  22:28:31,643 - #33 ;
+INFO  22:28:31,643 - #41 }
+INFO  22:28:31,643 - #13 while
+INFO  22:28:31,643 - #36 (
+INFO  22:28:31,643 - #43 true
+INFO  22:28:31,643 - #37 )
+INFO  22:28:31,643 - #33 ;
+INFO  22:28:31,643 - #5 else
+ERROR 22:28:31,643 - 
+Sintaksna greska na liniji 65
+INFO  22:28:31,643 - #8 print
+INFO  22:28:31,643 - #36 (
+INFO  22:28:31,643 - #18 -
+INFO  22:28:31,644 - #42 4
+INFO  22:28:31,644 - #37 )
+INFO  22:28:31,644 - #33 ;
+INFO  22:28:31,644 - #9 read
+INFO  22:28:31,644 - #36 (
+INFO  22:28:31,644 - #45 niz
+ERROR 22:28:31,644 - Greska pri definiciji iskaza dodele na liniji 66
+INFO  22:28:31,644 - #38 [
+INFO  22:28:31,644 - #42 0
+INFO  22:28:31,644 - #39 ]
+INFO  22:28:31,644 - #37 )
+INFO  22:28:31,644 - #33 ;
+INFO  22:28:31,645 - #9 read
+INFO  22:28:31,645 - #36 (
+INFO  22:28:31,645 - #45 niz
+INFO  22:28:31,645 - #38 [
+INFO  22:28:31,645 - #42 1
+INFO  22:28:31,645 - #39 ]
+INFO  22:28:31,645 - #37 )
+INFO  22:28:31,645 - #33 ;
+INFO  22:28:31,645 - #9 read
+INFO  22:28:31,645 - #36 (
+INFO  22:28:31,645 - #45 niz
+INFO  22:28:31,645 - #38 [
+INFO  22:28:31,645 - #42 2
+INFO  22:28:31,645 - #39 ]
+INFO  22:28:31,645 - #37 )
+INFO  22:28:31,645 - #33 ;
+INFO  22:28:31,645 - #8 print
+INFO  22:28:31,645 - #36 (
+INFO  22:28:31,646 - #45 eol
+INFO  22:28:31,646 - #37 )
+INFO  22:28:31,646 - #33 ;
+INFO  22:28:31,646 - #8 print
+INFO  22:28:31,646 - #36 (
+INFO  22:28:31,646 - #45 sum
+INFO  22:28:31,646 - #36 (
+INFO  22:28:31,646 - #45 sum
+INFO  22:28:31,646 - #36 (
+INFO  22:28:31,646 - #45 niz
+INFO  22:28:31,646 - #38 [
+INFO  22:28:31,646 - #42 0
+INFO  22:28:31,646 - #39 ]
+INFO  22:28:31,646 - #34 ,
+INFO  22:28:31,646 - #45 niz
+INFO  22:28:31,646 - #38 [
+INFO  22:28:31,646 - #42 1
+INFO  22:28:31,646 - #39 ]
+INFO  22:28:31,646 - #37 )
+INFO  22:28:31,646 - #34 ,
+INFO  22:28:31,647 - #45 niz
+INFO  22:28:31,647 - #38 [
+INFO  22:28:31,647 - #42 2
+INFO  22:28:31,647 - #39 ]
+INFO  22:28:31,647 - #37 )
+INFO  22:28:31,647 - #37 )
+INFO  22:28:31,647 - #33 ;
+INFO  22:28:31,647 - #41 }
+INFO  22:28:31,647 - #41 }
+INFO  22:28:31,647 - Zavrseno parsiranje 
+
+
+INFO  22:28:31,654 - Detektovana upotreba lokalne promenljive z na liniji 14
+INFO  22:28:31,654 - Detektovana upotreba lokalne promenljive d na liniji 14
+INFO  22:28:31,654 - Detektovana upotreba lokalne promenljive pom na liniji 19
+INFO  22:28:31,654 - Detektovana upotreba globalne metode sum na liniji 20
+INFO  22:28:31,654 - Detektovana upotreba lokalne promenljive a na liniji 20
+INFO  22:28:31,654 - Detektovana upotreba lokalne promenljive pom na liniji 20
+INFO  22:28:31,655 - Detektovana upotreba globalne promenljive ibool na liniji 31
+INFO  22:28:31,655 - Detektovana upotreba globalne promenljive i na liniji 32
+INFO  22:28:31,655 - Detektovana upotreba globalne promenljive i na liniji 35
+INFO  22:28:31,655 - Detektovana upotreba globalne promenljive ibool na liniji 35
+INFO  22:28:31,655 - Detektovana upotreba globalne promenljive i na liniji 36
+INFO  22:28:31,655 - Detektovana upotreba globalne promenljive i na liniji 37
+INFO  22:28:31,655 - Detektovana upotreba globalne promenljive ibool na liniji 39
+INFO  22:28:31,655 - Detektovana upotreba globalne promenljive i na liniji 40
+INFO  22:28:31,655 - Detektovano koriscenje elementa niza na liniji 45
+INFO  22:28:31,655 - Detektovano koriscenje elementa niza na liniji 46
+INFO  22:28:31,655 - Detektovana upotreba konstante eol na liniji 51
+INFO  22:28:31,655 - Detektovana upotreba globalne promenljive i na liniji 52
+INFO  22:28:31,655 - Detektovano koriscenje elementa niza na liniji 67
+INFO  22:28:31,655 - Detektovano koriscenje elementa niza na liniji 68
+INFO  22:28:31,655 - Detektovano koriscenje elementa niza na liniji 69
+INFO  22:28:31,655 - Detektovana upotreba konstante eol na liniji 70
+INFO  22:28:31,655 - Detektovana upotreba globalne metode sum na liniji 72
+INFO  22:28:31,655 - Detektovana upotreba globalne metode sum na liniji 72
+INFO  22:28:31,655 - Detektovano koriscenje elementa niza na liniji 72
+INFO  22:28:31,656 - Detektovano koriscenje elementa niza na liniji 72
+INFO  22:28:31,656 - Detektovano koriscenje elementa niza na liniji 72
+INFO  22:28:31,656 - Print calls = 0
+ERROR 22:28:31,656 - Parsiranje NIJE uspesno zavrseno!

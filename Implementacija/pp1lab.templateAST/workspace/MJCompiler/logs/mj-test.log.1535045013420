@@ -1,0 +1,64 @@
+INFO  19:22:19,583 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:22:19,632 - #2 program
+INFO  19:22:19,632 - #45 p
+INFO  19:22:19,632 - #16 const
+INFO  19:22:19,633 - #45 int
+INFO  19:22:19,633 - #45 x
+INFO  19:22:19,634 - #30 =
+INFO  19:22:19,634 - #42 3
+INFO  19:22:19,634 - #33 ;
+INFO  19:22:19,635 - #16 const
+INFO  19:22:19,635 - #45 char
+INFO  19:22:19,635 - #45 a
+INFO  19:22:19,635 - #30 =
+INFO  19:22:19,636 - #44 'a'
+INFO  19:22:19,636 - #33 ;
+INFO  19:22:19,636 - #45 int
+INFO  19:22:19,636 - #45 niz
+INFO  19:22:19,636 - #38 [
+INFO  19:22:19,636 - #39 ]
+INFO  19:22:19,636 - #33 ;
+INFO  19:22:19,638 - #40 {
+INFO  19:22:19,639 - #11 void
+INFO  19:22:19,639 - #45 main
+INFO  19:22:19,639 - #36 (
+INFO  19:22:19,640 - #37 )
+INFO  19:22:19,641 - #40 {
+INFO  19:22:19,641 - #45 a
+INFO  19:22:19,642 - #30 =
+INFO  19:22:19,643 - #44 'b'
+INFO  19:22:19,645 - #33 ;
+INFO  19:22:19,646 - #45 niz
+INFO  19:22:19,646 - #38 [
+INFO  19:22:19,647 - #42 0
+INFO  19:22:19,647 - #39 ]
+INFO  19:22:19,647 - #30 =
+INFO  19:22:19,647 - #42 1
+INFO  19:22:19,647 - #33 ;
+INFO  19:22:19,647 - #45 niz
+INFO  19:22:19,647 - #38 [
+INFO  19:22:19,647 - #42 1
+INFO  19:22:19,647 - #39 ]
+INFO  19:22:19,647 - #30 =
+INFO  19:22:19,647 - #42 2
+INFO  19:22:19,648 - #33 ;
+INFO  19:22:19,648 - #45 niz
+INFO  19:22:19,648 - #38 [
+INFO  19:22:19,648 - #42 3
+INFO  19:22:19,648 - #39 ]
+INFO  19:22:19,648 - #30 =
+INFO  19:22:19,648 - #42 2
+INFO  19:22:19,648 - #33 ;
+INFO  19:22:19,648 - #8 print
+INFO  19:22:19,648 - #36 (
+INFO  19:22:19,648 - #45 niz
+INFO  19:22:19,648 - #37 )
+INFO  19:22:19,649 - #33 ;
+INFO  19:22:19,649 - #41 }
+INFO  19:22:19,649 - #41 }
+INFO  19:22:19,651 - Zavrseno parsiranje 
+
+
+INFO  19:22:21,636 - Detektovana upotreba konstante a na liniji 8
+ERROR 19:22:21,636 - Greska na liniji 8: Dodela vrednosti konstanti je zabranjena
+ERROR 19:22:21,638 - Greska na liniji 8: Dodela vrednosti identifikatoru koji nije element niza ni ime promenljive

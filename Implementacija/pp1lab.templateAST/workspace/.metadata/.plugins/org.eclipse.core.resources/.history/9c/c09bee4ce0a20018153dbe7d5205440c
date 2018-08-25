@@ -1,0 +1,58 @@
+// generated with ast extension for cup
+// version 0.8
+// 18/7/2018 12:51:2
+
+
+package rs.ac.bg.etf.pp1.ast;
+
+public class ListStm extends Statement {
+
+    private OptionalStatements OptionalStatements;
+
+    public ListStm (OptionalStatements OptionalStatements) {
+        this.OptionalStatements=OptionalStatements;
+        if(OptionalStatements!=null) OptionalStatements.setParent(this);
+    }
+
+    public OptionalStatements getOptionalStatements() {
+        return OptionalStatements;
+    }
+
+    public void setOptionalStatements(OptionalStatements OptionalStatements) {
+        this.OptionalStatements=OptionalStatements;
+    }
+
+    public void accept(Visitor visitor) {
+        visitor.visit(this);
+    }
+
+    public void childrenAccept(Visitor visitor) {
+        if(OptionalStatements!=null) OptionalStatements.accept(visitor);
+    }
+
+    public void traverseTopDown(Visitor visitor) {
+        accept(visitor);
+        if(OptionalStatements!=null) OptionalStatements.traverseTopDown(visitor);
+    }
+
+    public void traverseBottomUp(Visitor visitor) {
+        if(OptionalStatements!=null) OptionalStatements.traverseBottomUp(visitor);
+        accept(visitor);
+    }
+
+    public String toString(String tab) {
+        StringBuffer buffer=new StringBuffer();
+        buffer.append(tab);
+        buffer.append("ListStm(\n");
+
+        if(OptionalStatements!=null)
+            buffer.append(OptionalStatements.toString("  "+tab));
+        else
+            buffer.append(tab+"  null");
+        buffer.append("\n");
+
+        buffer.append(tab);
+        buffer.append(") [ListStm]");
+        return buffer.toString();
+    }
+}

@@ -1,0 +1,57 @@
+INFO  17:50:58,961 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:50:58,995 - #2 program
+INFO  17:50:58,996 - #45 P
+INFO  17:50:58,996 - #16 const
+INFO  17:50:58,996 - #45 int
+INFO  17:50:58,997 - #45 ac
+INFO  17:50:58,997 - #30 =
+INFO  17:50:58,997 - #42 10
+INFO  17:50:58,997 - #33 ;
+INFO  17:50:58,998 - #45 int
+INFO  17:50:58,998 - #45 a
+INFO  17:50:58,998 - #33 ;
+INFO  17:50:58,999 - #45 bool
+INFO  17:50:58,999 - #45 b
+INFO  17:50:59,000 - #33 ;
+INFO  17:50:59,000 - #45 char
+INFO  17:50:59,000 - #45 c
+INFO  17:50:59,000 - #33 ;
+INFO  17:50:59,000 - #45 int
+INFO  17:50:59,000 - #45 niza
+INFO  17:50:59,000 - #38 [
+INFO  17:50:59,008 - #39 ]
+INFO  17:50:59,008 - #33 ;
+INFO  17:50:59,008 - #45 char
+INFO  17:50:59,008 - #45 nizb
+INFO  17:50:59,009 - #38 [
+INFO  17:50:59,009 - #39 ]
+INFO  17:50:59,009 - #33 ;
+INFO  17:50:59,009 - #45 bool
+INFO  17:50:59,009 - #45 nizc
+INFO  17:50:59,009 - #38 [
+INFO  17:50:59,009 - #39 ]
+INFO  17:50:59,009 - #33 ;
+INFO  17:50:59,009 - #40 {
+INFO  17:50:59,009 - #11 void
+INFO  17:50:59,010 - #45 funkcija1
+INFO  17:50:59,011 - #36 (
+INFO  17:50:59,011 - #37 )
+INFO  17:50:59,012 - #40 {
+INFO  17:50:59,012 - #41 }
+INFO  17:50:59,013 - #11 void
+INFO  17:50:59,013 - #45 main
+INFO  17:50:59,013 - #36 (
+INFO  17:50:59,013 - #37 )
+INFO  17:50:59,013 - #40 {
+INFO  17:50:59,014 - #9 read
+INFO  17:50:59,014 - #36 (
+INFO  17:50:59,014 - #45 niza
+INFO  17:50:59,014 - #37 )
+INFO  17:50:59,015 - #33 ;
+INFO  17:50:59,015 - #41 }
+INFO  17:50:59,015 - #41 }
+INFO  17:50:59,016 - Zavrseno parsiranje 
+
+
+ERROR 17:50:59,026 - Greska na liniji 18: Designator u read narebi nije tipa int,char ili boolean.
+INFO  17:50:59,026 - Print calls = 0

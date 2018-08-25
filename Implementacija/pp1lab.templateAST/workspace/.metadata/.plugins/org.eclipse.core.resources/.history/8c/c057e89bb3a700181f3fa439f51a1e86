@@ -1,0 +1,40 @@
+program binarySearch
+	int arr[];
+	int length, i;
+{
+	int binarySearch(int arr[], int l, int r, int x) int mid;
+{
+	//print('u');
+   if (r >= l)
+   {
+        mid = l + (r - l)/2;
+ 
+        if (arr[mid] == x)  
+            return mid;
+ 
+        if (arr[mid] > x) 
+            return binarySearch(arr, l, mid-1, x);
+ 
+        return binarySearch(arr, mid+1, r, x);
+   }
+ 
+   return -1;
+}
+	
+	void main() {
+		length = 5;
+		arr = new int[length];
+		i = length;
+		do {
+			i--;
+			arr[length - i - 1] = length - i - 1;
+		} while (i > 0);
+		//arr[0] = 0;
+		//arr[1] = 1;
+		//arr[2] = 2;
+		//arr[3] = 3;
+		//arr[4] = 4;
+		print(binarySearch(arr, 0, length - 1, 3));
+	}
+
+}

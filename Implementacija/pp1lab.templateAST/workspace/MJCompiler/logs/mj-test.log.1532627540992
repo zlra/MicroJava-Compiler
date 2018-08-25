@@ -1,0 +1,44 @@
+INFO  14:52:56,290 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:52:56,324 - #2 program
+INFO  14:52:56,324 - #45 P
+INFO  14:52:56,324 - #45 char
+INFO  14:52:56,325 - #45 x
+INFO  14:52:56,325 - #34 ,
+INFO  14:52:56,326 - #45 y
+INFO  14:52:56,326 - #34 ,
+INFO  14:52:56,326 - #45 z
+INFO  14:52:56,326 - #33 ;
+INFO  14:52:56,327 - #16 const
+INFO  14:52:56,327 - #45 int
+INFO  14:52:56,327 - #45 a
+INFO  14:52:56,327 - #30 =
+INFO  14:52:56,327 - #42 10
+INFO  14:52:56,328 - #33 ;
+INFO  14:52:56,328 - #16 const
+INFO  14:52:56,328 - #45 bool
+INFO  14:52:56,328 - #45 abc
+INFO  14:52:56,328 - #30 =
+INFO  14:52:56,329 - #42 2
+INFO  14:52:56,336 - #33 ;
+INFO  14:52:56,336 - #40 {
+INFO  14:52:56,336 - #11 void
+INFO  14:52:56,337 - #45 main
+INFO  14:52:56,337 - #36 (
+INFO  14:52:56,337 - #37 )
+INFO  14:52:56,338 - #40 {
+INFO  14:52:56,338 - #41 }
+INFO  14:52:56,338 - #41 }
+INFO  14:52:56,339 - Zavrseno parsiranje 
+
+
+INFO  14:52:56,349 - Smena declaration list empty
+INFO  14:52:56,349 - Smena declaration list not empty
+INFO  14:52:56,349 - Smena declaration list not empty
+ERROR 14:52:56,349 - Greska na liniji 4: Pogresan tip pri dodeli vrednosti konstanti.
+INFO  14:52:56,349 - Smena declaration list not empty
+INFO  14:52:56,349 - Smena method declaration list empty
+INFO  14:52:56,349 - Metoda je void 
+INFO  14:52:56,350 - Smena method declaration nadjena
+INFO  14:52:56,350 - Metoda main dodata u scope
+INFO  14:52:56,350 - Smena  method declaration list
+INFO  14:52:56,350 - Print calls = 0

@@ -1,0 +1,89 @@
+INFO  15:45:03,515 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:45:03,553 - #2 program
+INFO  15:45:03,553 - #45 P
+INFO  15:45:03,554 - #16 const
+INFO  15:45:03,555 - #45 int
+INFO  15:45:03,555 - #45 a
+INFO  15:45:03,556 - #30 =
+INFO  15:45:03,556 - #42 10
+INFO  15:45:03,556 - #34 ,
+INFO  15:45:03,556 - #45 b
+INFO  15:45:03,556 - #30 =
+INFO  15:45:03,556 - #44 'c'
+INFO  15:45:03,556 - #34 ,
+INFO  15:45:03,557 - #45 c
+INFO  15:45:03,557 - #30 =
+INFO  15:45:03,557 - #42 4
+INFO  15:45:03,557 - #33 ;
+INFO  15:45:03,558 - #16 const
+INFO  15:45:03,559 - #45 char
+INFO  15:45:03,559 - #45 d
+INFO  15:45:03,559 - #30 =
+INFO  15:45:03,559 - #44 'a'
+INFO  15:45:03,559 - #33 ;
+INFO  15:45:03,559 - #16 const
+INFO  15:45:03,559 - #45 bool
+INFO  15:45:03,559 - #45 e
+INFO  15:45:03,559 - #30 =
+INFO  15:45:03,559 - #43 true
+INFO  15:45:03,560 - #34 ,
+INFO  15:45:03,560 - #45 f
+INFO  15:45:03,560 - #30 =
+INFO  15:45:03,560 - #43 false
+INFO  15:45:03,560 - #33 ;
+INFO  15:45:03,560 - #40 {
+INFO  15:45:03,561 - #11 void
+INFO  15:45:03,561 - #45 main
+INFO  15:45:03,562 - #36 (
+INFO  15:45:03,563 - #37 )
+INFO  15:45:03,563 - #40 {
+INFO  15:45:03,564 - #41 }
+INFO  15:45:03,565 - #11 void
+INFO  15:45:03,566 - #45 voidMetoda
+INFO  15:45:03,566 - #36 (
+INFO  15:45:03,566 - #37 )
+INFO  15:45:03,566 - #40 {
+INFO  15:45:03,566 - #10 return
+INFO  15:45:03,566 - #33 ;
+INFO  15:45:03,566 - #41 }
+INFO  15:45:03,567 - #11 void
+INFO  15:45:03,567 - #45 voidMetodaReturnInt
+INFO  15:45:03,567 - #36 (
+INFO  15:45:03,567 - #37 )
+INFO  15:45:03,567 - #40 {
+INFO  15:45:03,567 - #10 return
+INFO  15:45:03,567 - #42 1
+INFO  15:45:03,568 - #33 ;
+INFO  15:45:03,570 - #41 }
+INFO  15:45:03,570 - #45 int
+INFO  15:45:03,570 - #45 intMetoda
+INFO  15:45:03,570 - #36 (
+INFO  15:45:03,572 - #37 )
+INFO  15:45:03,572 - #40 {
+INFO  15:45:03,572 - #10 return
+INFO  15:45:03,572 - #42 2
+INFO  15:45:03,573 - #33 ;
+INFO  15:45:03,573 - #41 }
+INFO  15:45:03,573 - #45 int
+INFO  15:45:03,573 - #45 intMetodaNoReturn
+INFO  15:45:03,573 - #36 (
+INFO  15:45:03,573 - #37 )
+INFO  15:45:03,573 - #40 {
+INFO  15:45:03,573 - #41 }
+INFO  15:45:03,573 - #45 int
+INFO  15:45:03,573 - #45 intMetodaReturnsVoid
+INFO  15:45:03,573 - #36 (
+INFO  15:45:03,573 - #37 )
+INFO  15:45:03,574 - #40 {
+INFO  15:45:03,574 - #10 return
+INFO  15:45:03,574 - #33 ;
+INFO  15:45:03,574 - #41 }
+INFO  15:45:03,574 - #41 }
+INFO  15:45:03,575 - Zavrseno parsiranje 
+
+
+ERROR 15:45:03,585 - Greska na liniji 0: Pogresan tip pri dodeli vrednosti konstanti.
+ERROR 15:45:03,585 - Greska na liniji 5: Povratna vrednost je void a return nije prazan
+INFO  15:45:03,585 - Greska na liniji 25: Metoda nije void a ne postoji return naredba
+ERROR 15:45:03,586 - Greska na liniji 0: Povratna vrednost nije void a return je prazan
+INFO  15:45:03,586 - Print calls = 0

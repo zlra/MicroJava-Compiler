@@ -1,0 +1,66 @@
+INFO  19:15:01,838 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:15:01,883 - #2 program
+INFO  19:15:01,883 - #45 p
+INFO  19:15:01,883 - #40 {
+INFO  19:15:01,885 - #11 void
+INFO  19:15:01,886 - #45 main
+INFO  19:15:01,886 - #36 (
+INFO  19:15:01,886 - #37 )
+INFO  19:15:01,887 - #40 {
+INFO  19:15:01,888 - #45 a
+INFO  19:15:01,888 - #30 =
+INFO  19:15:01,889 - #45 b
+INFO  19:15:01,890 - #17 +
+INFO  19:15:01,891 - #45 c
+INFO  19:15:01,892 - #33 ;
+INFO  19:15:01,893 - #45 v
+INFO  19:15:01,893 - #30 =
+INFO  19:15:01,893 - #45 a
+INFO  19:15:01,893 - #19 *
+INFO  19:15:01,894 - #45 a
+INFO  19:15:01,894 - #33 ;
+INFO  19:15:01,903 - #45 x
+INFO  19:15:01,903 - #30 =
+INFO  19:15:01,903 - #42 44
+INFO  19:15:01,903 - #33 ;
+INFO  19:15:01,903 - #45 niz
+INFO  19:15:01,903 - #30 =
+INFO  19:15:01,903 - #7 new
+INFO  19:15:01,903 - #45 int
+INFO  19:15:01,903 - #38 [
+INFO  19:15:01,904 - #42 5
+INFO  19:15:01,904 - #39 ]
+INFO  19:15:01,904 - #33 ;
+INFO  19:15:01,904 - #45 niz
+INFO  19:15:01,905 - #38 [
+INFO  19:15:01,905 - #42 3
+INFO  19:15:01,905 - #39 ]
+INFO  19:15:01,905 - #30 =
+INFO  19:15:01,906 - #42 22
+INFO  19:15:01,906 - #33 ;
+INFO  19:15:01,906 - #41 }
+INFO  19:15:01,906 - #41 }
+INFO  19:15:01,908 - Zavrseno parsiranje 
+
+
+ERROR 19:15:01,919 - Greska na liniji 6: Koristi se nedeklarisan simbol
+ERROR 19:15:01,919 - Greska na liniji 6: Koristi se nedeklarisan simbol
+ERROR 19:15:01,919 - Greska na liniji 6: Koristi se nedeklarisan simbol
+ERROR 19:15:01,919 - Greska na liniji 6: Faktor u izrazu nije tipa int.
+ERROR 19:15:01,919 - Greska na liniji 6: Nekompatibilne vrednosti pri iskazu dodele 
+ERROR 19:15:01,919 - Greska na liniji 7: Koristi se nedeklarisan simbol
+ERROR 19:15:01,919 - Greska na liniji 7: Koristi se nedeklarisan simbol
+ERROR 19:15:01,919 - Greska na liniji 7: Koristi se nedeklarisan simbol
+ERROR 19:15:01,919 - Greska na liniji 7: Faktor u izrazu nije tipa int ili su array ali ne ispunjavaju uslove da su oba istog tipa i da je operacija * ili da je jedan skalar a drugi niz i kompatibilnih su tipova
+ERROR 19:15:01,919 - Greska na liniji 7: Nekompatibilne vrednosti pri iskazu dodele 
+ERROR 19:15:01,919 - Greska na liniji 8: Koristi se nedeklarisan simbol
+ERROR 19:15:01,919 - Greska na liniji 8: Nekompatibilne vrednosti pri iskazu dodele 
+ERROR 19:15:01,920 - Greska na liniji 9: Koristi se nedeklarisan simbol
+ERROR 19:15:01,920 - Greska na liniji 9: Nekompatibilne vrednosti pri iskazu dodele 
+ERROR 19:15:01,920 - Greska na liniji 10: Identifikator niz ne postoji u tabeli simbola
+ERROR 19:15:01,920 - Greska na liniji 5:  nije niz.
+ERROR 19:15:01,920 - Greska na liniji 10: Koristi se nedeklarisan simbol
+ERROR 19:15:01,920 - Greska na liniji 10 : Pristup strukturi koja nije niz kao elementu niza ili polju klase(klase nisu obradjivane za fazu a)
+ERROR 19:15:01,920 - Greska na liniji 10: Dodela vrednosti identifikatoru koji nije promenljiva ili element niza
+INFO  19:15:01,920 - Print calls = 0
+ERROR 19:15:01,921 - Parsiranje NIJE uspesno zavrseno!

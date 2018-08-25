@@ -1,0 +1,37 @@
+INFO  14:50:10,357 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  14:50:10,391 - #2 program
+INFO  14:50:10,391 - #45 P
+INFO  14:50:10,391 - #45 char
+INFO  14:50:10,392 - #45 x
+INFO  14:50:10,393 - #34 ,
+INFO  14:50:10,394 - #45 y
+INFO  14:50:10,394 - #34 ,
+INFO  14:50:10,394 - #45 z
+INFO  14:50:10,394 - #33 ;
+INFO  14:50:10,394 - #16 const
+INFO  14:50:10,395 - #45 int
+INFO  14:50:10,395 - #45 a
+INFO  14:50:10,395 - #30 =
+INFO  14:50:10,395 - #43 true
+INFO  14:50:10,395 - #33 ;
+INFO  14:50:10,396 - #40 {
+INFO  14:50:10,396 - #11 void
+INFO  14:50:10,396 - #45 main
+INFO  14:50:10,397 - #36 (
+INFO  14:50:10,397 - #37 )
+INFO  14:50:10,397 - #40 {
+INFO  14:50:10,398 - #41 }
+INFO  14:50:10,398 - #41 }
+INFO  14:50:10,399 - Zavrseno parsiranje 
+
+
+INFO  14:50:10,409 - Smena declaration list empty
+INFO  14:50:10,409 - Smena declaration list not empty
+ERROR 14:50:10,409 - Greska na liniji 0: Pogresan tip pri dodeli vrednosti boolean konstanti.
+INFO  14:50:10,409 - Smena declaration list not empty
+INFO  14:50:10,409 - Smena method declaration list empty
+INFO  14:50:10,409 - Metoda je void 
+INFO  14:50:10,409 - Smena method declaration nadjena
+INFO  14:50:10,409 - Metoda main dodata u scope
+INFO  14:50:10,409 - Smena  method declaration list
+INFO  14:50:10,409 - Print calls = 0

@@ -1,0 +1,44 @@
+INFO  11:09:28,230 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  11:09:28,266 - #2 program
+INFO  11:09:28,266 - #45 P
+INFO  11:09:28,266 - #45 int
+INFO  11:09:28,267 - #45 x
+INFO  11:09:28,267 - #34 ,
+INFO  11:09:28,268 - #45 y
+INFO  11:09:28,268 - #34 ,
+INFO  11:09:28,268 - #45 z
+INFO  11:09:28,268 - #33 ;
+INFO  11:09:28,269 - #16 const
+INFO  11:09:28,269 - #45 int
+INFO  11:09:28,269 - #45 a
+INFO  11:09:28,269 - #30 =
+INFO  11:09:28,269 - #42 10
+INFO  11:09:28,269 - #33 ;
+INFO  11:09:28,270 - #40 {
+INFO  11:09:28,270 - #11 void
+INFO  11:09:28,271 - #45 main
+INFO  11:09:28,272 - #36 (
+INFO  11:09:28,272 - #45 int
+INFO  11:09:28,274 - #45 a
+INFO  11:09:28,274 - #34 ,
+INFO  11:09:28,274 - #45 int
+INFO  11:09:28,274 - #45 b
+INFO  11:09:28,274 - #37 )
+INFO  11:09:28,274 - #40 {
+INFO  11:09:28,275 - #41 }
+INFO  11:09:28,275 - #41 }
+INFO  11:09:28,276 - Zavrseno parsiranje 
+
+
+INFO  11:09:28,286 - Smena programName
+INFO  11:09:28,286 - Smena declaration list empty
+INFO  11:09:28,286 - Smena declaration list not empty
+INFO  11:09:28,286 - Smena declaration list not empty
+INFO  11:09:28,286 - Smena method declaration list empty
+INFO  11:09:28,286 - Metoda je void 
+INFO  11:09:28,286 - Smena method declaration nadjena
+ERROR 11:09:28,286 - Main metoda ima argumente.Greska na liniji 5
+INFO  11:09:28,286 - Metoda main dodata u scope
+INFO  11:09:28,286 - Smena  method declaration list
+INFO  11:09:28,287 - Smena program 
+INFO  11:09:28,287 - Print calls = 0

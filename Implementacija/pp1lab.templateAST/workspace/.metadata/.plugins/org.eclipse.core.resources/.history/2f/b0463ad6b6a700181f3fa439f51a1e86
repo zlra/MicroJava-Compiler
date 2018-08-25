@@ -1,0 +1,28 @@
+program test10
+{
+	int k() bool b; {
+		b = false;
+		if (b) {
+			return 1;
+		} else {
+			// return 0;
+			print('E');
+			print('L');
+			print('S');
+			print('E');
+		}
+	}
+	
+	void a() {
+		print(chr(97));
+		return;
+	}
+	
+	void main() {
+		print(k());
+		a();
+		print('E');
+		print('N');
+		print('D');
+	}
+}

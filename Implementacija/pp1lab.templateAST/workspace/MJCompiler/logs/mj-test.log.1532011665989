@@ -1,0 +1,8 @@
+INFO  16:47:35,293 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:47:35,299 - #2 program
+INFO  16:47:35,300 - #45 Ne
+INFO  16:47:35,300 - #45 radi
+ERROR 16:47:35,300 - 
+Sintaksna greska na liniji 1
+ERROR 16:47:35,300 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 1
+INFO  16:47:35,300 - Print calls = 3

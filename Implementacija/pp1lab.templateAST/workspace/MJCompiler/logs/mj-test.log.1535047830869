@@ -1,0 +1,45 @@
+INFO  20:10:10,960 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:10:11,035 - #2 program
+INFO  20:10:11,036 - #45 oporavak4
+INFO  20:10:11,036 - #16 const
+INFO  20:10:11,038 - #45 int
+INFO  20:10:11,038 - #45 a
+INFO  20:10:11,039 - #30 =
+INFO  20:10:11,039 - #42 1
+INFO  20:10:11,039 - #33 ;
+INFO  20:10:11,040 - #16 const
+INFO  20:10:11,041 - #45 int
+INFO  20:10:11,041 - #45 b
+INFO  20:10:11,041 - #30 =
+INFO  20:10:11,041 - #42 2
+INFO  20:10:11,041 - #33 ;
+INFO  20:10:11,041 - #40 {
+INFO  20:10:11,042 - #11 void
+INFO  20:10:11,042 - #45 main
+INFO  20:10:11,043 - #36 (
+INFO  20:10:11,043 - #37 )
+INFO  20:10:11,044 - #40 {
+INFO  20:10:11,046 - #6 if
+INFO  20:10:11,047 - #36 (
+INFO  20:10:11,047 - #27 ||
+ERROR 20:10:11,048 - 
+Sintaksna greska na liniji 7
+INFO  20:10:11,048 - #45 a
+INFO  20:10:11,048 - #22 <
+INFO  20:10:11,048 - #45 b
+INFO  20:10:11,049 - #37 )
+INFO  20:10:11,049 - #40 {
+INFO  20:10:11,049 - #8 print
+INFO  20:10:11,049 - #36 (
+ERROR 20:10:11,049 - Greska u uslovu if iskaza na liniji 7
+INFO  20:10:11,050 - #42 2
+INFO  20:10:11,051 - #37 )
+INFO  20:10:11,051 - #33 ;
+INFO  20:10:11,051 - #41 }
+INFO  20:10:11,052 - #41 }
+INFO  20:10:11,053 - #41 }
+INFO  20:10:11,055 - Zavrseno parsiranje 
+
+
+INFO  20:10:11,067 - Print calls = 0
+ERROR 20:10:11,067 - Parsiranje NIJE uspesno zavrseno!

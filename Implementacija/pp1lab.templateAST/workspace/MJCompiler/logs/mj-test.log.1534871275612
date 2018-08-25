@@ -1,0 +1,41 @@
+INFO  19:05:45,298 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:05:45,333 - #2 program
+INFO  19:05:45,333 - #45 test301
+INFO  19:05:45,333 - #45 int
+INFO  19:05:45,334 - #45 niza
+INFO  19:05:45,335 - #38 [
+INFO  19:05:45,335 - #39 ]
+INFO  19:05:45,335 - #34 ,
+INFO  19:05:45,336 - #45 nizb
+INFO  19:05:45,336 - #38 [
+INFO  19:05:45,336 - #39 ]
+INFO  19:05:45,336 - #34 ,
+INFO  19:05:45,336 - #45 nizc
+INFO  19:05:45,336 - #38 [
+INFO  19:05:45,336 - #39 ]
+INFO  19:05:45,336 - #33 ;
+INFO  19:05:45,337 - #45 int
+INFO  19:05:45,337 - #45 a
+INFO  19:05:45,337 - #34 ,
+INFO  19:05:45,338 - #45 b
+INFO  19:05:45,338 - #33 ;
+INFO  19:05:45,341 - #40 {
+INFO  19:05:45,341 - #11 void
+INFO  19:05:45,341 - #45 main
+INFO  19:05:45,342 - #36 (
+INFO  19:05:45,342 - #37 )
+INFO  19:05:45,342 - #40 {
+INFO  19:05:45,343 - #45 nizc
+INFO  19:05:45,343 - #30 =
+INFO  19:05:45,344 - #45 niza
+INFO  19:05:45,345 - #19 *
+INFO  19:05:45,345 - #45 nizb
+INFO  19:05:45,346 - #33 ;
+INFO  19:05:45,347 - #41 }
+INFO  19:05:45,347 - #41 }
+INFO  19:05:45,348 - Zavrseno parsiranje 
+
+
+ERROR 19:05:45,359 - Greska na liniji 6: Dodela vrednosti nizu osim naredbom new sa kompatibilnim tipom elemenata nije dozvoljena
+INFO  19:05:45,359 - Print calls = 0
+ERROR 19:05:45,360 - Parsiranje NIJE uspesno zavrseno!

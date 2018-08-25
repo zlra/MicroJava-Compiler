@@ -1,0 +1,30 @@
+INFO  16:48:24,119 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:48:24,158 - #2 program
+INFO  16:48:24,158 - #45 Prog
+INFO  16:48:24,158 - #45 int
+INFO  16:48:24,159 - #45 niz
+INFO  16:48:24,160 - #38 [
+INFO  16:48:24,160 - #39 ]
+INFO  16:48:24,160 - #33 ;
+INFO  16:48:24,161 - #40 {
+INFO  16:48:24,161 - #11 void
+INFO  16:48:24,162 - #45 main
+INFO  16:48:24,162 - #36 (
+INFO  16:48:24,162 - #37 )
+INFO  16:48:24,163 - #40 {
+INFO  16:48:24,163 - #45 niz
+INFO  16:48:24,164 - #30 =
+INFO  16:48:24,164 - #7 new
+INFO  16:48:24,165 - #45 char
+INFO  16:48:24,165 - #38 [
+INFO  16:48:24,165 - #42 5
+INFO  16:48:24,165 - #39 ]
+INFO  16:48:24,167 - #33 ;
+INFO  16:48:24,168 - #41 }
+INFO  16:48:24,168 - #41 }
+INFO  16:48:24,169 - Zavrseno parsiranje 
+
+
+ERROR 16:48:24,180 - Greska na liniji 5: Dodela vrednosti nizu osim naredbom new sa kompatibilnim tipom elemenata nije dozvoljena
+INFO  16:48:24,180 - Print calls = 0
+ERROR 16:48:24,181 - Parsiranje NIJE uspesno zavrseno!

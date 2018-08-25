@@ -1,0 +1,65 @@
+INFO  21:40:48,162 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:40:48,196 - #2 program
+INFO  21:40:48,196 - #45 P
+INFO  21:40:48,196 - #16 const
+INFO  21:40:48,197 - #45 int
+INFO  21:40:48,197 - #45 ac
+INFO  21:40:48,198 - #30 =
+INFO  21:40:48,198 - #42 10
+INFO  21:40:48,198 - #33 ;
+INFO  21:40:48,198 - #45 int
+INFO  21:40:48,199 - #45 a
+INFO  21:40:48,199 - #33 ;
+INFO  21:40:48,200 - #45 bool
+INFO  21:40:48,200 - #45 b
+INFO  21:40:48,200 - #33 ;
+INFO  21:40:48,200 - #45 char
+INFO  21:40:48,200 - #45 c
+INFO  21:40:48,200 - #33 ;
+INFO  21:40:48,200 - #45 int
+INFO  21:40:48,200 - #45 niza
+INFO  21:40:48,201 - #38 [
+INFO  21:40:48,201 - #39 ]
+INFO  21:40:48,201 - #33 ;
+INFO  21:40:48,201 - #45 char
+INFO  21:40:48,201 - #45 nizb
+INFO  21:40:48,201 - #38 [
+INFO  21:40:48,201 - #39 ]
+INFO  21:40:48,201 - #33 ;
+INFO  21:40:48,201 - #45 bool
+INFO  21:40:48,202 - #45 nizc
+INFO  21:40:48,202 - #38 [
+INFO  21:40:48,202 - #39 ]
+INFO  21:40:48,202 - #33 ;
+INFO  21:40:48,202 - #40 {
+INFO  21:40:48,202 - #45 int
+INFO  21:40:48,202 - #45 funkcija1
+INFO  21:40:48,202 - #36 (
+INFO  21:40:48,203 - #37 )
+INFO  21:40:48,203 - #40 {
+INFO  21:40:48,204 - #10 return
+INFO  21:40:48,204 - #42 1
+INFO  21:40:48,205 - #33 ;
+INFO  21:40:48,206 - #41 }
+INFO  21:40:48,206 - #11 void
+INFO  21:40:48,207 - #45 main
+INFO  21:40:48,207 - #36 (
+INFO  21:40:48,207 - #37 )
+INFO  21:40:48,207 - #40 {
+INFO  21:40:48,207 - #45 a
+INFO  21:40:48,207 - #30 =
+INFO  21:40:48,208 - #45 niz
+INFO  21:40:48,208 - #38 [
+INFO  21:40:48,209 - #42 1
+INFO  21:40:48,209 - #39 ]
+INFO  21:40:48,209 - #33 ;
+INFO  21:40:48,210 - #41 }
+INFO  21:40:48,211 - #41 }
+INFO  21:40:48,211 - Zavrseno parsiranje 
+
+
+ERROR 21:40:48,222 - Greska na liniji 18: Identifikator niz ne postoji u tabeli simbola
+ERROR 21:40:48,223 - Greska na liniji 9:  nije niz.
+ERROR 21:40:48,223 - Greska na liniji 18: Koristi se pristup nizu a identifikator nije ime niza
+ERROR 21:40:48,223 - Greska na liniji 18: Nekompatibilne vrednosti pri iskazu dodele 
+INFO  21:40:48,224 - Print calls = 0

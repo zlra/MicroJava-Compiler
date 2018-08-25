@@ -1,0 +1,76 @@
+INFO  23:40:26,023 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  23:40:26,060 - #2 program
+INFO  23:40:26,060 - #45 test302
+INFO  23:40:26,060 - #45 int
+INFO  23:40:26,061 - #45 i
+INFO  23:40:26,061 - #33 ;
+INFO  23:40:26,063 - #45 bool
+INFO  23:40:26,063 - #45 ibool
+INFO  23:40:26,063 - #33 ;
+INFO  23:40:26,063 - #45 int
+INFO  23:40:26,063 - #45 niz
+INFO  23:40:26,063 - #38 [
+INFO  23:40:26,063 - #39 ]
+INFO  23:40:26,063 - #33 ;
+INFO  23:40:26,064 - #40 {
+INFO  23:40:26,064 - #45 int
+INFO  23:40:26,064 - #45 sum
+INFO  23:40:26,064 - #36 (
+INFO  23:40:26,065 - #45 int
+INFO  23:40:26,065 - #45 z
+INFO  23:40:26,065 - #34 ,
+INFO  23:40:26,067 - #45 int
+INFO  23:40:26,067 - #45 d
+INFO  23:40:26,067 - #37 )
+INFO  23:40:26,067 - #40 {
+INFO  23:40:26,068 - #10 return
+INFO  23:40:26,068 - #45 z
+INFO  23:40:26,069 - #17 +
+INFO  23:40:26,070 - #45 d
+INFO  23:40:26,071 - #33 ;
+INFO  23:40:26,071 - #41 }
+INFO  23:40:26,072 - #45 int
+INFO  23:40:26,072 - #45 inkrement
+INFO  23:40:26,072 - #36 (
+INFO  23:40:26,072 - #45 int
+INFO  23:40:26,072 - #45 a
+INFO  23:40:26,073 - #37 )
+INFO  23:40:26,073 - #45 int
+INFO  23:40:26,073 - #45 pom
+INFO  23:40:26,073 - #33 ;
+INFO  23:40:26,073 - #40 {
+INFO  23:40:26,073 - #45 pom
+INFO  23:40:26,073 - #30 =
+INFO  23:40:26,073 - #42 1
+INFO  23:40:26,073 - #33 ;
+INFO  23:40:26,073 - #10 return
+INFO  23:40:26,074 - #45 sum
+INFO  23:40:26,074 - #36 (
+INFO  23:40:26,074 - #45 a
+INFO  23:40:26,074 - #34 ,
+INFO  23:40:26,074 - #45 pom
+INFO  23:40:26,074 - #37 )
+INFO  23:40:26,074 - #33 ;
+INFO  23:40:26,074 - #41 }
+INFO  23:40:26,074 - #11 void
+INFO  23:40:26,075 - #45 main
+INFO  23:40:26,075 - #36 (
+INFO  23:40:26,075 - #37 )
+INFO  23:40:26,076 - #40 {
+INFO  23:40:26,076 - #45 ord
+INFO  23:40:26,076 - #36 (
+INFO  23:40:26,076 - #42 5
+INFO  23:40:26,076 - #37 )
+INFO  23:40:26,076 - #33 ;
+INFO  23:40:26,077 - #41 }
+INFO  23:40:26,077 - #41 }
+INFO  23:40:26,078 - Zavrseno parsiranje 
+
+
+INFO  23:40:26,090 - Detektovana upotreba lokalne promenljive z na liniji 14
+INFO  23:40:26,090 - Detektovana upotreba lokalne promenljive d na liniji 14
+INFO  23:40:26,090 - Detektovana upotreba lokalne promenljive pom na liniji 19
+INFO  23:40:26,090 - Detektovana upotreba globalne metode sum na liniji 20
+INFO  23:40:26,090 - Detektovana upotreba lokalne promenljive a na liniji 20
+INFO  23:40:26,090 - Detektovana upotreba lokalne promenljive pom na liniji 20
+INFO  23:40:26,091 - Detektovana upotreba globalne metode ord na liniji 25

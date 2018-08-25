@@ -1,0 +1,169 @@
+INFO  19:08:10,488 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:08:10,591 - #2 program
+INFO  19:08:10,592 - #45 p
+INFO  19:08:10,592 - #40 {
+INFO  19:08:10,593 - #11 void
+INFO  19:08:10,594 - #45 main
+INFO  19:08:10,594 - #36 (
+INFO  19:08:10,595 - #37 )
+INFO  19:08:10,596 - #40 {
+INFO  19:08:10,597 - #45 a
+INFO  19:08:10,598 - #30 =
+INFO  19:08:10,599 - #45 b
+INFO  19:08:10,600 - #17 +
+INFO  19:08:10,601 - #45 c
+INFO  19:08:10,602 - #33 ;
+INFO  19:08:10,604 - #45 v
+INFO  19:08:10,604 - #30 =
+INFO  19:08:10,604 - #45 a
+INFO  19:08:10,604 - #19 *
+INFO  19:08:10,604 - #45 a
+INFO  19:08:10,606 - #33 ;
+INFO  19:08:10,610 - #45 x
+INFO  19:08:10,610 - #30 =
+INFO  19:08:10,610 - #42 44
+INFO  19:08:10,610 - #33 ;
+INFO  19:08:10,610 - #45 niz
+INFO  19:08:10,610 - #30 =
+INFO  19:08:10,610 - #7 new
+INFO  19:08:10,610 - #45 int
+INFO  19:08:10,611 - #38 [
+INFO  19:08:10,611 - #42 5
+INFO  19:08:10,611 - #39 ]
+INFO  19:08:10,611 - #33 ;
+INFO  19:08:10,612 - #45 niz
+INFO  19:08:10,612 - #38 [
+INFO  19:08:10,613 - #42 3
+INFO  19:08:10,613 - #39 ]
+INFO  19:08:10,613 - #30 =
+INFO  19:08:10,613 - #42 22
+INFO  19:08:10,613 - #33 ;
+INFO  19:08:10,614 - #41 }
+INFO  19:08:10,614 - #41 }
+INFO  19:08:10,616 - Zavrseno parsiranje 
+
+
+INFO  19:08:12,731 - Detektovana upotreba lokalne promenljive a na liniji 6
+ERROR 19:08:12,731 - Greska na liniji 6: Koristi se nedeklarisan simbol
+INFO  19:08:13,442 - Detektovana upotreba lokalne promenljive b na liniji 6
+ERROR 19:08:13,442 - Greska na liniji 6: Koristi se nedeklarisan simbol
+INFO  19:08:14,311 - Detektovana upotreba lokalne promenljive c na liniji 6
+ERROR 19:08:14,312 - Greska na liniji 6: Koristi se nedeklarisan simbol
+ERROR 19:08:14,536 - Greska na liniji 6: Faktor u izrazu nije tipa int.
+ERROR 19:08:15,703 - Greska na liniji 6: Nekompatibilne vrednosti pri iskazu dodele 
+INFO  19:08:16,632 - Detektovana upotreba lokalne promenljive v na liniji 7
+ERROR 19:08:16,633 - Greska na liniji 7: Koristi se nedeklarisan simbol
+INFO  19:08:17,337 - Detektovana upotreba lokalne promenljive a na liniji 7
+ERROR 19:08:17,337 - Greska na liniji 7: Koristi se nedeklarisan simbol
+INFO  19:08:19,387 - Detektovana upotreba lokalne promenljive a na liniji 7
+ERROR 19:08:19,387 - Greska na liniji 7: Koristi se nedeklarisan simbol
+ERROR 19:08:20,944 - Greska na liniji 7: Faktor u izrazu nije tipa int ili su array ali ne ispunjavaju uslove da su oba istog tipa i da je operacija * ili da je jedan skalar a drugi niz i kompatibilnih su tipova
+ERROR 19:08:21,760 - Greska na liniji 7: Nekompatibilne vrednosti pri iskazu dodele 
+INFO  19:08:22,139 - Detektovana upotreba lokalne promenljive x na liniji 8
+ERROR 19:08:22,140 - Greska na liniji 8: Koristi se nedeklarisan simbol
+ERROR 19:08:23,104 - Greska na liniji 8: Nekompatibilne vrednosti pri iskazu dodele 
+INFO  19:08:24,247 - Detektovana upotreba lokalne promenljive niz na liniji 9
+ERROR 19:08:24,247 - Greska na liniji 9: Koristi se nedeklarisan simbol
+ERROR 19:08:25,088 - Greska na liniji 9: Nekompatibilne vrednosti pri iskazu dodele 
+ERROR 19:08:26,273 - Greska na liniji 10: Identifikator niz ne postoji u tabeli simbola
+ERROR 19:08:26,274 - Greska na liniji 5:  nije niz.
+INFO  19:11:31,386 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:11:31,441 - #2 program
+INFO  19:11:31,441 - #45 p
+INFO  19:11:31,441 - #40 {
+INFO  19:11:31,442 - #11 void
+INFO  19:11:31,443 - #45 main
+INFO  19:11:31,443 - #36 (
+INFO  19:11:31,444 - #37 )
+INFO  19:11:31,444 - #40 {
+INFO  19:11:31,445 - #45 a
+INFO  19:11:31,445 - #30 =
+INFO  19:11:31,447 - #45 b
+INFO  19:11:31,448 - #17 +
+INFO  19:11:31,449 - #45 c
+INFO  19:11:31,450 - #33 ;
+INFO  19:11:31,452 - #45 v
+INFO  19:11:31,452 - #30 =
+INFO  19:11:31,452 - #45 a
+INFO  19:11:31,452 - #19 *
+INFO  19:11:31,452 - #45 a
+INFO  19:11:31,454 - #33 ;
+INFO  19:11:31,454 - #45 x
+INFO  19:11:31,454 - #30 =
+INFO  19:11:31,454 - #42 44
+INFO  19:11:31,455 - #33 ;
+INFO  19:11:31,455 - #45 niz
+INFO  19:11:31,455 - #30 =
+INFO  19:11:31,455 - #7 new
+INFO  19:11:31,455 - #45 int
+INFO  19:11:31,455 - #38 [
+INFO  19:11:31,456 - #42 5
+INFO  19:11:31,456 - #39 ]
+INFO  19:11:31,456 - #33 ;
+INFO  19:11:31,456 - #45 niz
+INFO  19:11:31,456 - #38 [
+INFO  19:11:31,457 - #42 3
+INFO  19:11:31,457 - #39 ]
+INFO  19:11:31,457 - #30 =
+INFO  19:11:31,457 - #42 22
+INFO  19:11:31,457 - #33 ;
+INFO  19:11:31,457 - #41 }
+INFO  19:11:31,457 - #41 }
+INFO  19:11:31,459 - Zavrseno parsiranje 
+
+
+ERROR 19:11:31,471 - Greska na liniji 6: Koristi se nedeklarisan simbol
+ERROR 19:11:31,471 - Greska na liniji 6: Koristi se nedeklarisan simbol
+ERROR 19:11:31,471 - Greska na liniji 6: Koristi se nedeklarisan simbol
+ERROR 19:11:31,471 - Greska na liniji 6: Faktor u izrazu nije tipa int.
+ERROR 19:11:31,471 - Greska na liniji 6: Nekompatibilne vrednosti pri iskazu dodele 
+ERROR 19:11:31,472 - Greska na liniji 7: Koristi se nedeklarisan simbol
+ERROR 19:11:31,472 - Greska na liniji 7: Koristi se nedeklarisan simbol
+ERROR 19:11:31,472 - Greska na liniji 7: Koristi se nedeklarisan simbol
+ERROR 19:11:31,472 - Greska na liniji 7: Faktor u izrazu nije tipa int ili su array ali ne ispunjavaju uslove da su oba istog tipa i da je operacija * ili da je jedan skalar a drugi niz i kompatibilnih su tipova
+ERROR 19:11:31,472 - Greska na liniji 7: Nekompatibilne vrednosti pri iskazu dodele 
+ERROR 19:11:31,472 - Greska na liniji 8: Koristi se nedeklarisan simbol
+ERROR 19:11:31,472 - Greska na liniji 8: Nekompatibilne vrednosti pri iskazu dodele 
+ERROR 19:11:31,472 - Greska na liniji 9: Koristi se nedeklarisan simbol
+ERROR 19:11:31,472 - Greska na liniji 9: Nekompatibilne vrednosti pri iskazu dodele 
+ERROR 19:11:31,472 - Greska na liniji 10: Identifikator niz ne postoji u tabeli simbola
+ERROR 19:11:31,473 - Greska na liniji 5:  nije niz.
+ERROR 19:11:31,475 - Greska na liniji 10: Koristi se nedeklarisan simbol
+ERROR 19:11:31,475 - Greska na liniji 10 : Pristup strukturi koja nije niz kao elementu niza ili polju klase(klase nisu obradjivane za fazu a)
+ERROR 19:11:31,476 - Greska na liniji DesignatorAssignExpress(
+  Designator(
+    DesignatorArrayOrClass(
+      ArrayOrClassName(
+       niz
+      ) [ArrayOrClassName]
+      ExistingDesignatorListSingle(
+        DesignatorElementExpr(
+          Expression(
+            NonExistingOptionalMinus(
+            ) [NonExistingOptionalMinus]
+            SingleExpressionList(
+              TermSingleFactor(
+                FactorNumConst(
+                 3
+                ) [FactorNumConst]
+              ) [TermSingleFactor]
+            ) [SingleExpressionList]
+          ) [Expression]
+        ) [DesignatorElementExpr]
+      ) [ExistingDesignatorListSingle]
+    ) [DesignatorArrayOrClass]
+  ) [Designator]
+  Expression(
+    NonExistingOptionalMinus(
+    ) [NonExistingOptionalMinus]
+    SingleExpressionList(
+      TermSingleFactor(
+        FactorNumConst(
+         22
+        ) [FactorNumConst]
+      ) [TermSingleFactor]
+    ) [SingleExpressionList]
+  ) [Expression]
+) [DesignatorAssignExpress]: Dodela vrednosti identifikatoru koji nije promenljiva ili element niza
+INFO  19:11:31,476 - Print calls = 0
+ERROR 19:11:31,477 - Parsiranje NIJE uspesno zavrseno!

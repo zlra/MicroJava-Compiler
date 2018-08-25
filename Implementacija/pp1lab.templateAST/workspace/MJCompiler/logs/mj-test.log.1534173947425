@@ -1,0 +1,29 @@
+INFO  17:25:28,865 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:25:28,902 - #2 program
+INFO  17:25:28,902 - #45 P
+INFO  17:25:28,902 - #16 const
+INFO  17:25:28,903 - #45 int
+INFO  17:25:28,903 - #45 ac
+INFO  17:25:28,904 - #30 =
+INFO  17:25:28,904 - #42 10
+INFO  17:25:28,904 - #33 ;
+INFO  17:25:28,904 - #45 int
+INFO  17:25:28,905 - #45 a
+INFO  17:25:28,905 - #33 ;
+INFO  17:25:28,906 - #40 {
+INFO  17:25:28,906 - #11 void
+INFO  17:25:28,906 - #45 main
+INFO  17:25:28,907 - #36 (
+INFO  17:25:28,907 - #37 )
+INFO  17:25:28,908 - #40 {
+INFO  17:25:28,908 - #45 a
+INFO  17:25:28,908 - #30 =
+INFO  17:25:28,909 - #43 true
+INFO  17:25:28,911 - #33 ;
+INFO  17:25:28,912 - #41 }
+INFO  17:25:28,913 - #41 }
+INFO  17:25:28,914 - Zavrseno parsiranje 
+
+
+ERROR 17:25:28,924 - Greska na liniji 7: Nekompatibilne vrednosti pri iskazu dodele 
+INFO  17:25:28,924 - Print calls = 0

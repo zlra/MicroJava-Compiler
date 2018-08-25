@@ -1,0 +1,121 @@
+INFO  19:47:14,989 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:47:15,051 - #2 program
+INFO  19:47:15,052 - #45 leks1
+INFO  19:47:15,052 - #45 int
+INFO  19:47:15,054 - #45 x
+INFO  19:47:15,055 - #34 ,
+INFO  19:47:15,057 - #45 y
+INFO  19:47:15,057 - #33 ;
+INFO  19:47:15,058 - #45 int
+INFO  19:47:15,059 - #33 ;
+ERROR 19:47:15,059 - 
+Sintaksna greska na liniji 6
+INFO  19:47:15,059 - #40 {
+INFO  19:47:15,060 - #45 int
+INFO  19:47:15,060 - #45 sum
+ERROR 19:47:15,061 - Greska pri definiciji globalne promenljive na liniji 9
+INFO  19:47:15,062 - #36 (
+INFO  19:47:15,062 - #45 int
+INFO  19:47:15,063 - #45 x
+INFO  19:47:15,063 - #34 ,
+INFO  19:47:15,064 - #45 int
+INFO  19:47:15,064 - #45 y
+INFO  19:47:15,064 - #37 )
+INFO  19:47:15,064 - #40 {
+INFO  19:47:15,064 - #10 return
+INFO  19:47:15,065 - #45 x
+INFO  19:47:15,066 - #17 +
+INFO  19:47:15,067 - #45 y
+INFO  19:47:15,068 - #33 ;
+INFO  19:47:15,069 - #41 }
+INFO  19:47:15,069 - #11 void
+INFO  19:47:15,070 - #45 main
+INFO  19:47:15,070 - #36 (
+INFO  19:47:15,070 - #37 )
+INFO  19:47:15,071 - #45 int
+INFO  19:47:15,071 - #34 ,
+ERROR 19:47:15,071 - 
+Sintaksna greska na liniji 13
+INFO  19:47:15,071 - #45 p
+INFO  19:47:15,071 - #33 ;
+INFO  19:47:15,071 - #45 char
+ERROR 19:47:15,071 - Greska pri definiciji globalne promenljive na liniji 12
+INFO  19:47:15,071 - #45 nizc
+INFO  19:47:15,071 - #38 [
+INFO  19:47:15,071 - #39 ]
+INFO  19:47:15,071 - #33 ;
+INFO  19:47:15,072 - #40 {
+INFO  19:47:15,072 - #45 x
+INFO  19:47:15,072 - #30 =
+INFO  19:47:15,072 - #42 4
+INFO  19:47:15,072 - #33 ;
+INFO  19:47:15,073 - #45 y
+INFO  19:47:15,073 - #30 =
+INFO  19:47:15,073 - #42 6
+INFO  19:47:15,073 - #33 ;
+INFO  19:47:15,073 - #45 bodovi
+INFO  19:47:15,073 - #30 =
+INFO  19:47:15,073 - #45 x
+INFO  19:47:15,073 - #17 +
+INFO  19:47:15,073 - #45 y
+INFO  19:47:15,073 - #33 ;
+INFO  19:47:15,073 - #8 print
+INFO  19:47:15,075 - #36 (
+INFO  19:47:15,076 - #45 sum
+INFO  19:47:15,076 - #36 (
+INFO  19:47:15,076 - #45 x
+INFO  19:47:15,076 - #34 ,
+INFO  19:47:15,076 - #45 y
+INFO  19:47:15,076 - #37 )
+INFO  19:47:15,076 - #37 )
+INFO  19:47:15,076 - #33 ;
+INFO  19:47:15,076 - #8 print
+INFO  19:47:15,076 - #36 (
+INFO  19:47:15,076 - #45 bodovi
+INFO  19:47:15,076 - #37 )
+INFO  19:47:15,077 - #33 ;
+INFO  19:47:15,077 - #45 nizc
+INFO  19:47:15,077 - #30 =
+INFO  19:47:15,077 - #7 new
+INFO  19:47:15,077 - #45 char
+INFO  19:47:15,077 - #38 [
+INFO  19:47:15,077 - #42 2
+INFO  19:47:15,077 - #39 ]
+INFO  19:47:15,077 - #33 ;
+INFO  19:47:15,077 - #45 nizc
+INFO  19:47:15,077 - #38 [
+INFO  19:47:15,078 - #42 0
+INFO  19:47:15,078 - #39 ]
+INFO  19:47:15,078 - #30 =
+INFO  19:47:15,078 - #44 'a'
+INFO  19:47:15,078 - #33 ;
+INFO  19:47:15,079 - #8 print
+INFO  19:47:15,079 - #36 (
+INFO  19:47:15,079 - #45 nizc
+INFO  19:47:15,079 - #38 [
+INFO  19:47:15,079 - #42 1
+INFO  19:47:15,079 - #39 ]
+INFO  19:47:15,079 - #37 )
+INFO  19:47:15,079 - #33 ;
+INFO  19:47:15,079 - #41 }
+INFO  19:47:15,079 - #41 }
+INFO  19:47:15,080 - Zavrseno parsiranje 
+
+
+INFO  19:47:15,091 - Detektovana upotreba lokalne promenljive x na liniji 11
+INFO  19:47:15,091 - Detektovana upotreba lokalne promenljive y na liniji 11
+INFO  19:47:15,092 - Detektovana upotreba globalne promenljive x na liniji 16
+INFO  19:47:15,092 - Detektovana upotreba globalne promenljive y na liniji 17
+ERROR 19:47:15,092 - Greska na liniji 18: Koristi se nedeklarisan simbol
+INFO  19:47:15,092 - Detektovana upotreba globalne promenljive x na liniji 18
+INFO  19:47:15,092 - Detektovana upotreba globalne promenljive y na liniji 18
+ERROR 19:47:15,092 - Greska na liniji 18: Nekompatibilne vrednosti pri iskazu dodele 
+INFO  19:47:15,092 - Detektovana upotreba globalne metode sum na liniji 19
+INFO  19:47:15,092 - Detektovana upotreba globalne promenljive x na liniji 19
+INFO  19:47:15,092 - Detektovana upotreba globalne promenljive y na liniji 19
+ERROR 19:47:15,092 - Greska na liniji 20: Koristi se nedeklarisan simbol
+ERROR 19:47:15,092 - Greska na liniji 7: Iskaz u print naredbi nije ni int, ni char, ni bool
+INFO  19:47:15,093 - Detektovano koriscenje elementa niza na liniji 23
+INFO  19:47:15,093 - Detektovano koriscenje elementa niza na liniji 25
+INFO  19:47:15,093 - Print calls = 0
+ERROR 19:47:15,093 - Parsiranje NIJE uspesno zavrseno!

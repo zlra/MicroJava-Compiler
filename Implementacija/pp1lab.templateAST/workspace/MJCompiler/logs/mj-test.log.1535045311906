@@ -1,0 +1,184 @@
+INFO  19:28:10,771 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:28:10,866 - #2 program
+INFO  19:28:10,866 - #45 maja
+INFO  19:28:10,867 - #16 const
+INFO  19:28:10,868 - #45 int
+INFO  19:28:10,868 - #45 x
+INFO  19:28:10,869 - #30 =
+INFO  19:28:10,869 - #42 3
+INFO  19:28:10,869 - #33 ;
+INFO  19:28:10,870 - #45 int
+INFO  19:28:10,870 - #45 a
+INFO  19:28:10,870 - #34 ,
+INFO  19:28:10,872 - #45 b
+INFO  19:28:10,872 - #33 ;
+INFO  19:28:10,873 - #40 {
+INFO  19:28:10,874 - #45 int
+INFO  19:28:10,875 - #45 zbir
+INFO  19:28:10,875 - #36 (
+INFO  19:28:10,876 - #37 )
+INFO  19:28:10,876 - #45 int
+INFO  19:28:10,877 - #45 x
+INFO  19:28:10,881 - #33 ;
+INFO  19:28:10,881 - #40 {
+INFO  19:28:10,881 - #45 a
+INFO  19:28:10,882 - #30 =
+INFO  19:28:10,884 - #42 3
+INFO  19:28:10,885 - #33 ;
+INFO  19:28:10,887 - #45 b
+INFO  19:28:10,887 - #30 =
+INFO  19:28:10,887 - #42 4
+INFO  19:28:10,887 - #33 ;
+INFO  19:28:10,889 - #45 x
+INFO  19:28:10,889 - #30 =
+INFO  19:28:10,889 - #45 a
+INFO  19:28:10,889 - #17 +
+INFO  19:28:10,889 - #45 b
+INFO  19:28:10,889 - #33 ;
+INFO  19:28:10,890 - #10 return
+INFO  19:28:10,890 - #45 x
+INFO  19:28:10,890 - #33 ;
+INFO  19:28:10,890 - #41 }
+INFO  19:28:10,890 - #45 int
+INFO  19:28:10,891 - #45 razlika
+INFO  19:28:10,891 - #36 (
+INFO  19:28:10,891 - #37 )
+INFO  19:28:10,891 - #45 int
+INFO  19:28:10,891 - #45 r
+INFO  19:28:10,891 - #33 ;
+INFO  19:28:10,891 - #40 {
+INFO  19:28:10,891 - #45 a
+INFO  19:28:10,891 - #30 =
+INFO  19:28:10,891 - #42 7
+INFO  19:28:10,892 - #33 ;
+INFO  19:28:10,892 - #45 b
+INFO  19:28:10,892 - #30 =
+INFO  19:28:10,892 - #42 5
+INFO  19:28:10,892 - #33 ;
+INFO  19:28:10,892 - #45 r
+INFO  19:28:10,892 - #30 =
+INFO  19:28:10,892 - #45 a
+INFO  19:28:10,894 - #18 -
+INFO  19:28:10,894 - #45 b
+INFO  19:28:10,895 - #33 ;
+INFO  19:28:10,895 - #10 return
+INFO  19:28:10,895 - #45 r
+INFO  19:28:10,896 - #33 ;
+INFO  19:28:10,896 - #41 }
+INFO  19:28:10,896 - #45 char
+INFO  19:28:10,896 - #45 func
+INFO  19:28:10,896 - #36 (
+INFO  19:28:10,896 - #37 )
+INFO  19:28:10,896 - #40 {
+INFO  19:28:10,896 - #10 return
+INFO  19:28:10,896 - #44 'b'
+INFO  19:28:10,896 - #33 ;
+INFO  19:28:10,896 - #41 }
+INFO  19:28:10,896 - #11 void
+INFO  19:28:10,897 - #45 main
+INFO  19:28:10,897 - #36 (
+INFO  19:28:10,897 - #37 )
+INFO  19:28:10,897 - #45 int
+INFO  19:28:10,897 - #45 z
+INFO  19:28:10,897 - #33 ;
+INFO  19:28:10,898 - #45 char
+INFO  19:28:10,898 - #45 niz
+INFO  19:28:10,898 - #38 [
+INFO  19:28:10,898 - #39 ]
+INFO  19:28:10,898 - #33 ;
+INFO  19:28:10,898 - #40 {
+INFO  19:28:10,898 - #45 z
+INFO  19:28:10,898 - #30 =
+INFO  19:28:10,898 - #42 55
+INFO  19:28:10,898 - #33 ;
+INFO  19:28:10,899 - #45 z
+INFO  19:28:10,899 - #30 =
+INFO  19:28:10,899 - #45 zbir
+INFO  19:28:10,899 - #36 (
+INFO  19:28:10,899 - #37 )
+INFO  19:28:10,899 - #19 *
+INFO  19:28:10,899 - #45 z
+INFO  19:28:10,900 - #33 ;
+INFO  19:28:10,900 - #8 print
+INFO  19:28:10,900 - #36 (
+INFO  19:28:10,900 - #45 z
+INFO  19:28:10,900 - #37 )
+INFO  19:28:10,900 - #33 ;
+INFO  19:28:10,902 - #45 niz
+INFO  19:28:10,902 - #30 =
+INFO  19:28:10,902 - #7 new
+INFO  19:28:10,902 - #45 char
+INFO  19:28:10,902 - #38 [
+INFO  19:28:10,902 - #42 2
+INFO  19:28:10,902 - #39 ]
+INFO  19:28:10,902 - #33 ;
+INFO  19:28:10,902 - #45 niz
+INFO  19:28:10,903 - #38 [
+INFO  19:28:10,903 - #42 0
+INFO  19:28:10,903 - #39 ]
+INFO  19:28:10,903 - #30 =
+INFO  19:28:10,904 - #44 'a'
+INFO  19:28:10,904 - #33 ;
+INFO  19:28:10,904 - #45 niz
+INFO  19:28:10,904 - #38 [
+INFO  19:28:10,904 - #42 1
+INFO  19:28:10,904 - #39 ]
+INFO  19:28:10,904 - #30 =
+INFO  19:28:10,904 - #45 func
+INFO  19:28:10,904 - #36 (
+INFO  19:28:10,904 - #37 )
+INFO  19:28:10,904 - #33 ;
+INFO  19:28:10,904 - #8 print
+INFO  19:28:10,904 - #36 (
+INFO  19:28:10,904 - #45 niz
+INFO  19:28:10,904 - #38 [
+INFO  19:28:10,904 - #42 0
+INFO  19:28:10,905 - #39 ]
+INFO  19:28:10,905 - #37 )
+INFO  19:28:10,905 - #33 ;
+INFO  19:28:10,905 - #8 print
+INFO  19:28:10,905 - #36 (
+INFO  19:28:10,905 - #45 niz
+INFO  19:28:10,905 - #38 [
+INFO  19:28:10,905 - #42 1
+INFO  19:28:10,905 - #39 ]
+INFO  19:28:10,905 - #37 )
+INFO  19:28:10,905 - #33 ;
+INFO  19:28:10,905 - #8 print
+INFO  19:28:10,905 - #36 (
+INFO  19:28:10,905 - #45 razlika
+INFO  19:28:10,905 - #36 (
+INFO  19:28:10,905 - #37 )
+INFO  19:28:10,905 - #37 )
+INFO  19:28:10,905 - #33 ;
+INFO  19:28:10,905 - #41 }
+INFO  19:28:10,905 - #41 }
+INFO  19:28:10,906 - Zavrseno parsiranje 
+
+
+INFO  19:28:10,915 - Detektovana upotreba globalne promenljive a na liniji 8
+INFO  19:28:10,915 - Detektovana upotreba globalne promenljive b na liniji 9
+INFO  19:28:10,915 - Detektovana upotreba lokalne promenljive x na liniji 10
+INFO  19:28:10,915 - Detektovana upotreba globalne promenljive a na liniji 10
+INFO  19:28:10,915 - Detektovana upotreba globalne promenljive b na liniji 10
+INFO  19:28:10,915 - Detektovana upotreba lokalne promenljive x na liniji 11
+INFO  19:28:10,915 - Detektovana upotreba globalne promenljive a na liniji 17
+INFO  19:28:10,916 - Detektovana upotreba globalne promenljive b na liniji 18
+INFO  19:28:10,916 - Detektovana upotreba lokalne promenljive r na liniji 19
+INFO  19:28:10,916 - Detektovana upotreba globalne promenljive a na liniji 19
+INFO  19:28:10,916 - Detektovana upotreba globalne promenljive b na liniji 19
+INFO  19:28:10,916 - Detektovana upotreba lokalne promenljive r na liniji 20
+INFO  19:28:10,916 - Detektovana upotreba lokalne promenljive z na liniji 32
+INFO  19:28:10,916 - Detektovana upotreba lokalne promenljive z na liniji 33
+INFO  19:28:10,916 - Detektovana upotreba globalne metode zbir na liniji 33
+INFO  19:28:10,916 - Detektovana upotreba lokalne promenljive z na liniji 33
+INFO  19:28:10,916 - Detektovana upotreba lokalne promenljive z na liniji 34
+INFO  19:28:10,916 - Detektovano koriscenje elementa niza na liniji 37
+INFO  19:28:10,916 - Detektovano koriscenje elementa niza na liniji 38
+INFO  19:28:10,916 - Detektovana upotreba globalne metode func na liniji 38
+INFO  19:28:10,916 - Detektovano koriscenje elementa niza na liniji 40
+INFO  19:28:10,916 - Detektovano koriscenje elementa niza na liniji 41
+INFO  19:28:10,916 - Detektovana upotreba globalne metode razlika na liniji 42
+INFO  19:28:10,916 - Print calls = 0
+INFO  19:28:10,917 - Generating bytecode file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  19:28:10,922 - Parsiranje uspesno zavrseno!

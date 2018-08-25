@@ -1,0 +1,63 @@
+INFO  12:49:48,879 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  12:49:48,916 - #2 program
+INFO  12:49:48,916 - #45 P
+INFO  12:49:48,916 - #16 const
+INFO  12:49:48,917 - #45 int
+INFO  12:49:48,917 - #45 ac
+INFO  12:49:48,918 - #30 =
+INFO  12:49:48,918 - #42 10
+INFO  12:49:48,918 - #33 ;
+INFO  12:49:48,918 - #45 int
+INFO  12:49:48,919 - #45 a
+INFO  12:49:48,919 - #33 ;
+INFO  12:49:48,920 - #45 bool
+INFO  12:49:48,920 - #45 b
+INFO  12:49:48,920 - #33 ;
+INFO  12:49:48,920 - #45 char
+INFO  12:49:48,920 - #45 c
+INFO  12:49:48,920 - #33 ;
+INFO  12:49:48,920 - #45 int
+INFO  12:49:48,921 - #45 niza
+INFO  12:49:48,921 - #38 [
+INFO  12:49:48,922 - #39 ]
+INFO  12:49:48,922 - #33 ;
+INFO  12:49:48,923 - #45 char
+INFO  12:49:48,923 - #45 nizb
+INFO  12:49:48,923 - #38 [
+INFO  12:49:48,923 - #39 ]
+INFO  12:49:48,923 - #33 ;
+INFO  12:49:48,923 - #45 bool
+INFO  12:49:48,923 - #45 nizc
+INFO  12:49:48,923 - #38 [
+INFO  12:49:48,923 - #39 ]
+INFO  12:49:48,923 - #33 ;
+INFO  12:49:48,923 - #40 {
+INFO  12:49:48,923 - #45 int
+INFO  12:49:48,924 - #45 funkcija1
+INFO  12:49:48,924 - #36 (
+INFO  12:49:48,924 - #37 )
+INFO  12:49:48,925 - #40 {
+INFO  12:49:48,925 - #10 return
+INFO  12:49:48,926 - #42 1
+INFO  12:49:48,926 - #33 ;
+INFO  12:49:48,927 - #41 }
+INFO  12:49:48,927 - #11 void
+INFO  12:49:48,928 - #45 main
+INFO  12:49:48,928 - #36 (
+INFO  12:49:48,928 - #37 )
+INFO  12:49:48,928 - #40 {
+INFO  12:49:48,928 - #45 niza
+INFO  12:49:48,929 - #30 =
+INFO  12:49:48,929 - #7 new
+INFO  12:49:48,929 - #45 int
+INFO  12:49:48,929 - #38 [
+INFO  12:49:48,929 - #42 10
+INFO  12:49:48,930 - #39 ]
+INFO  12:49:48,930 - #33 ;
+INFO  12:49:48,930 - #41 }
+INFO  12:49:48,930 - #41 }
+INFO  12:49:48,931 - Zavrseno parsiranje 
+
+
+ERROR 12:49:48,941 - Greska na liniji 19: Dodela vrednosti nizu nije dozvoljena
+INFO  12:49:48,941 - Print calls = 0

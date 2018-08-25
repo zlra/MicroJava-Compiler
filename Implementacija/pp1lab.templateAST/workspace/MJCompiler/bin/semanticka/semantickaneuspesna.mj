@@ -1,0 +1,20 @@
+program rz140030d
+
+int niz1[];
+int niz2[];
+int niz3[];
+{
+	int main() int a,b,c; char c; {
+		a = 0;
+		b = 1;
+		c = a + c;
+		
+		c = funkcija(); 
+		
+		if (a) 
+			print('z');
+		else 
+			print(niz1);
+		return;
+	}
+}

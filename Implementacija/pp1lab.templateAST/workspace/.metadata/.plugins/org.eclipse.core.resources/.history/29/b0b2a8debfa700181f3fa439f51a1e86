@@ -1,0 +1,9 @@
+program oporavak2
+	const int x=1;
+	int y[];
+	bool z;
+{
+	void main() {
+		z = 3 + + 3;
+	}
+}

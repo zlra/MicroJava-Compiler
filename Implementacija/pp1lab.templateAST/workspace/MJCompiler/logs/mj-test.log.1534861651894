@@ -1,0 +1,72 @@
+INFO  16:27:14,954 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:27:14,992 - #2 program
+INFO  16:27:14,992 - #45 test301
+INFO  16:27:14,992 - #45 int
+INFO  16:27:14,993 - #45 niza
+INFO  16:27:14,993 - #38 [
+INFO  16:27:14,993 - #39 ]
+INFO  16:27:14,993 - #34 ,
+INFO  16:27:14,994 - #45 nizb
+INFO  16:27:14,994 - #38 [
+INFO  16:27:14,995 - #39 ]
+INFO  16:27:14,995 - #34 ,
+INFO  16:27:14,995 - #45 nizc
+INFO  16:27:14,995 - #38 [
+INFO  16:27:14,995 - #39 ]
+INFO  16:27:14,995 - #33 ;
+INFO  16:27:14,995 - #45 int
+INFO  16:27:14,996 - #45 nizc
+INFO  16:27:14,996 - #38 [
+INFO  16:27:14,996 - #39 ]
+INFO  16:27:14,996 - #33 ;
+INFO  16:27:14,996 - #45 int
+INFO  16:27:14,996 - #45 a
+INFO  16:27:14,996 - #34 ,
+INFO  16:27:14,997 - #45 b
+INFO  16:27:14,997 - #33 ;
+INFO  16:27:14,997 - #40 {
+INFO  16:27:14,997 - #11 void
+INFO  16:27:14,997 - #45 main
+INFO  16:27:14,998 - #36 (
+INFO  16:27:14,998 - #37 )
+INFO  16:27:14,999 - #40 {
+INFO  16:27:14,999 - #45 niza
+INFO  16:27:14,999 - #30 =
+INFO  16:27:15,000 - #7 new
+INFO  16:27:15,001 - #45 int
+INFO  16:27:15,001 - #38 [
+INFO  16:27:15,001 - #42 5
+INFO  16:27:15,001 - #39 ]
+INFO  16:27:15,002 - #33 ;
+INFO  16:27:15,002 - #45 nizb
+INFO  16:27:15,002 - #30 =
+INFO  16:27:15,002 - #7 new
+INFO  16:27:15,002 - #45 int
+INFO  16:27:15,002 - #38 [
+INFO  16:27:15,003 - #42 5
+INFO  16:27:15,003 - #39 ]
+INFO  16:27:15,003 - #33 ;
+INFO  16:27:15,003 - #45 Code
+INFO  16:27:15,003 - #35 .
+INFO  16:27:15,003 - #8 print
+ERROR 16:27:15,003 - 
+Sintaksna greska na liniji 9
+INFO  16:27:15,003 - #36 (
+INFO  16:27:15,003 - #44 'z'
+INFO  16:27:15,004 - #37 )
+INFO  16:27:15,004 - #33 ;
+INFO  16:27:15,004 - #45 nizc
+INFO  16:27:15,004 - #30 =
+INFO  16:27:15,004 - #45 niza
+ERROR 16:27:15,004 - Greska pri definiciji iskaza dodele na liniji 9
+INFO  16:27:15,007 - #17 +
+INFO  16:27:15,007 - #45 nizb
+INFO  16:27:15,008 - #33 ;
+INFO  16:27:15,008 - #41 }
+INFO  16:27:15,008 - #41 }
+INFO  16:27:15,009 - Zavrseno parsiranje 
+
+
+ERROR 16:27:15,020 - Greska na liniji 3: Identifikator varijable vec postoji u tabeli simbola
+INFO  16:27:15,021 - Print calls = 0
+ERROR 16:27:15,021 - Parsiranje NIJE uspesno zavrseno!

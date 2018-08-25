@@ -1,0 +1,38 @@
+INFO  19:01:35,129 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:01:35,165 - #2 program
+INFO  19:01:35,165 - #45 test301
+INFO  19:01:35,166 - #45 int
+INFO  19:01:35,166 - #45 niza
+INFO  19:01:35,167 - #38 [
+INFO  19:01:35,167 - #39 ]
+INFO  19:01:35,167 - #34 ,
+INFO  19:01:35,168 - #45 nizb
+INFO  19:01:35,168 - #38 [
+INFO  19:01:35,168 - #39 ]
+INFO  19:01:35,168 - #34 ,
+INFO  19:01:35,168 - #45 nizc
+INFO  19:01:35,168 - #38 [
+INFO  19:01:35,168 - #39 ]
+INFO  19:01:35,168 - #33 ;
+INFO  19:01:35,169 - #40 {
+INFO  19:01:35,169 - #11 void
+INFO  19:01:35,169 - #45 main
+INFO  19:01:35,170 - #36 (
+INFO  19:01:35,170 - #37 )
+INFO  19:01:35,171 - #40 {
+INFO  19:01:35,171 - #45 a
+INFO  19:01:35,172 - #30 =
+INFO  19:01:35,172 - #45 niza
+INFO  19:01:35,173 - #19 *
+INFO  19:01:35,173 - #45 nizb
+INFO  19:01:35,174 - #33 ;
+INFO  19:01:35,175 - #41 }
+INFO  19:01:35,175 - #41 }
+INFO  19:01:35,176 - Zavrseno parsiranje 
+
+
+INFO  19:01:35,186 - Detektovana upotreba lokalne promenljive a na liniji 5
+ERROR 19:01:35,186 - Greska na liniji 5: Koristi se nedeklarisan simbol
+ERROR 19:01:35,186 - Greska na liniji 5: Nekompatibilne vrednosti pri iskazu dodele 
+INFO  19:01:35,186 - Print calls = 0
+ERROR 19:01:35,187 - Parsiranje NIJE uspesno zavrseno!

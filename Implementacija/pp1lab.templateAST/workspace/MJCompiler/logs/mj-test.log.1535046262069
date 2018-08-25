@@ -1,0 +1,159 @@
+INFO  19:42:14,893 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:42:14,950 - #2 program
+INFO  19:42:14,950 - #45 sintaksnan
+INFO  19:42:14,951 - #45 int
+INFO  19:42:14,952 - #45 x
+INFO  19:42:14,952 - #33 ;
+INFO  19:42:14,954 - #45 int
+INFO  19:42:14,954 - #45 y
+INFO  19:42:14,955 - #33 ;
+INFO  19:42:14,955 - #45 int
+INFO  19:42:14,955 - #45 z
+INFO  19:42:14,955 - #33 ;
+INFO  19:42:14,955 - #40 {
+INFO  19:42:14,955 - #45 int
+INFO  19:42:14,956 - #45 sum
+INFO  19:42:14,956 - #36 (
+INFO  19:42:14,957 - #37 )
+INFO  19:42:14,958 - #40 {
+INFO  19:42:14,958 - #10 return
+INFO  19:42:14,959 - #45 x
+INFO  19:42:14,960 - #17 +
+INFO  19:42:14,965 - #45 y
+INFO  19:42:14,966 - #33 ;
+INFO  19:42:14,967 - #41 }
+INFO  19:42:14,967 - #11 void
+INFO  19:42:14,968 - #45 main
+INFO  19:42:14,968 - #36 (
+INFO  19:42:14,969 - #37 )
+INFO  19:42:14,969 - #45 int
+INFO  19:42:14,969 - #45 bodovi
+INFO  19:42:14,969 - #33 ;
+INFO  19:42:14,969 - #45 char
+INFO  19:42:14,969 - #45 nizc
+INFO  19:42:14,969 - #38 [
+INFO  19:42:14,969 - #39 ]
+INFO  19:42:14,969 - #33 ;
+INFO  19:42:14,970 - #40 {
+INFO  19:42:14,970 - #45 x
+INFO  19:42:14,970 - #30 =
+INFO  19:42:14,970 - #42 4
+INFO  19:42:14,970 - #33 ;
+INFO  19:42:14,970 - #45 y
+INFO  19:42:14,970 - #30 =
+INFO  19:42:14,970 - #42 6
+INFO  19:42:14,970 - #33 ;
+INFO  19:42:14,971 - #45 z
+INFO  19:42:14,971 - #30 =
+INFO  19:42:14,971 - #42 2
+INFO  19:42:14,971 - #33 ;
+INFO  19:42:14,971 - #45 bodovi
+INFO  19:42:14,971 - #30 =
+INFO  19:42:14,971 - #45 x
+INFO  19:42:14,971 - #17 +
+INFO  19:42:14,971 - #45 y
+INFO  19:42:14,971 - #17 +
+INFO  19:42:14,971 - #45 z
+INFO  19:42:14,971 - #33 ;
+INFO  19:42:14,971 - #8 print
+INFO  19:42:14,971 - #36 (
+INFO  19:42:14,972 - #45 sum
+INFO  19:42:14,973 - #36 (
+INFO  19:42:14,973 - #37 )
+INFO  19:42:14,974 - #37 )
+INFO  19:42:14,974 - #33 ;
+INFO  19:42:14,974 - #8 print
+INFO  19:42:14,974 - #36 (
+INFO  19:42:14,974 - #45 bodovi
+INFO  19:42:14,975 - #37 )
+INFO  19:42:14,975 - #33 ;
+INFO  19:42:14,975 - #45 nizc
+INFO  19:42:14,975 - #30 =
+INFO  19:42:14,975 - #7 new
+INFO  19:42:14,975 - #45 char
+INFO  19:42:14,975 - #38 [
+INFO  19:42:14,975 - #42 2
+INFO  19:42:14,975 - #39 ]
+INFO  19:42:14,975 - #33 ;
+INFO  19:42:14,975 - #45 nizc
+INFO  19:42:14,975 - #38 [
+INFO  19:42:14,976 - #42 0
+INFO  19:42:14,976 - #39 ]
+INFO  19:42:14,976 - #30 =
+INFO  19:42:14,976 - #44 'a'
+INFO  19:42:14,976 - #33 ;
+INFO  19:42:14,976 - #45 nizc
+INFO  19:42:14,976 - #38 [
+INFO  19:42:14,976 - #42 1
+INFO  19:42:14,976 - #39 ]
+INFO  19:42:14,977 - #30 =
+INFO  19:42:14,977 - #44 'b'
+INFO  19:42:14,977 - #33 ;
+INFO  19:42:14,977 - #8 print
+INFO  19:42:14,977 - #36 (
+INFO  19:42:14,977 - #45 nizc
+INFO  19:42:14,977 - #38 [
+INFO  19:42:14,977 - #42 0
+INFO  19:42:14,977 - #39 ]
+INFO  19:42:14,977 - #37 )
+INFO  19:42:14,977 - #33 ;
+INFO  19:42:14,977 - #8 print
+INFO  19:42:14,977 - #36 (
+INFO  19:42:14,977 - #45 nizc
+INFO  19:42:14,977 - #38 [
+INFO  19:42:14,978 - #42 1
+INFO  19:42:14,978 - #39 ]
+INFO  19:42:14,978 - #37 )
+INFO  19:42:14,978 - #33 ;
+INFO  19:42:14,978 - #6 if
+INFO  19:42:14,978 - #36 (
+INFO  19:42:14,978 - #45 x
+INFO  19:42:14,979 - #28 ==
+INFO  19:42:14,979 - #42 4
+INFO  19:42:14,979 - #27 ||
+INFO  19:42:14,980 - #45 x
+INFO  19:42:14,981 - #28 ==
+INFO  19:42:14,981 - #42 6
+INFO  19:42:14,981 - #37 )
+INFO  19:42:14,981 - #40 {
+INFO  19:42:14,982 - #8 print
+INFO  19:42:14,982 - #36 (
+INFO  19:42:14,982 - #45 x
+INFO  19:42:14,982 - #37 )
+INFO  19:42:14,982 - #33 ;
+INFO  19:42:14,982 - #41 }
+INFO  19:42:14,982 - #5 else
+INFO  19:42:14,983 - #40 {
+INFO  19:42:14,983 - #8 print
+INFO  19:42:14,983 - #36 (
+INFO  19:42:14,983 - #45 bodovi
+INFO  19:42:14,983 - #37 )
+INFO  19:42:14,983 - #33 ;
+INFO  19:42:14,983 - #41 }
+INFO  19:42:14,984 - #41 }
+INFO  19:42:14,984 - #41 }
+INFO  19:42:14,985 - Zavrseno parsiranje 
+
+
+INFO  19:42:14,995 - Detektovana upotreba globalne promenljive x na liniji 11
+INFO  19:42:14,995 - Detektovana upotreba globalne promenljive y na liniji 11
+INFO  19:42:14,995 - Detektovana upotreba globalne promenljive x na liniji 16
+INFO  19:42:14,995 - Detektovana upotreba globalne promenljive y na liniji 17
+INFO  19:42:14,996 - Detektovana upotreba globalne promenljive z na liniji 18
+INFO  19:42:14,996 - Detektovana upotreba lokalne promenljive bodovi na liniji 19
+INFO  19:42:14,996 - Detektovana upotreba globalne promenljive x na liniji 19
+INFO  19:42:14,996 - Detektovana upotreba globalne promenljive y na liniji 19
+INFO  19:42:14,996 - Detektovana upotreba globalne promenljive z na liniji 19
+INFO  19:42:14,996 - Detektovana upotreba globalne metode sum na liniji 20
+INFO  19:42:14,996 - Detektovana upotreba lokalne promenljive bodovi na liniji 21
+INFO  19:42:14,996 - Detektovano koriscenje elementa niza na liniji 24
+INFO  19:42:14,996 - Detektovano koriscenje elementa niza na liniji 25
+INFO  19:42:14,996 - Detektovano koriscenje elementa niza na liniji 27
+INFO  19:42:14,996 - Detektovano koriscenje elementa niza na liniji 28
+INFO  19:42:14,996 - Detektovana upotreba globalne promenljive x na liniji 30
+INFO  19:42:14,996 - Detektovana upotreba globalne promenljive x na liniji 30
+INFO  19:42:14,996 - Detektovana upotreba globalne promenljive x na liniji 31
+INFO  19:42:14,996 - Detektovana upotreba lokalne promenljive bodovi na liniji 33
+INFO  19:42:14,997 - Print calls = 0
+INFO  19:42:14,997 - Generating bytecode file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  19:42:15,003 - Parsiranje uspesno zavrseno!

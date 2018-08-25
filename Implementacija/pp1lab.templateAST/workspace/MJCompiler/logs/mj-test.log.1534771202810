@@ -1,0 +1,105 @@
+INFO  15:19:44,252 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  15:19:44,286 - #2 program
+INFO  15:19:44,286 - #45 test301
+INFO  15:19:44,286 - #16 const
+INFO  15:19:44,287 - #45 int
+INFO  15:19:44,287 - #45 jedan
+INFO  15:19:44,287 - #30 =
+INFO  15:19:44,287 - #42 1
+INFO  15:19:44,287 - #33 ;
+INFO  15:19:44,288 - #16 const
+INFO  15:19:44,288 - #45 int
+INFO  15:19:44,288 - #45 pet
+INFO  15:19:44,288 - #30 =
+INFO  15:19:44,289 - #42 5
+INFO  15:19:44,289 - #33 ;
+INFO  15:19:44,289 - #45 int
+INFO  15:19:44,289 - #45 niz
+INFO  15:19:44,289 - #38 [
+INFO  15:19:44,289 - #39 ]
+INFO  15:19:44,289 - #33 ;
+INFO  15:19:44,290 - #45 char
+INFO  15:19:44,298 - #45 nizch
+INFO  15:19:44,298 - #38 [
+INFO  15:19:44,298 - #39 ]
+INFO  15:19:44,298 - #33 ;
+INFO  15:19:44,298 - #40 {
+INFO  15:19:44,298 - #45 int
+INFO  15:19:44,299 - #45 funkcija
+INFO  15:19:44,299 - #36 (
+INFO  15:19:44,299 - #45 int
+INFO  15:19:44,299 - #45 a
+INFO  15:19:44,299 - #34 ,
+INFO  15:19:44,300 - #45 int
+INFO  15:19:44,300 - #45 b
+INFO  15:19:44,300 - #34 ,
+INFO  15:19:44,300 - #45 char
+INFO  15:19:44,300 - #45 c
+INFO  15:19:44,300 - #37 )
+INFO  15:19:44,301 - #45 int
+INFO  15:19:44,301 - #45 x
+INFO  15:19:44,301 - #33 ;
+INFO  15:19:44,301 - #40 {
+INFO  15:19:44,301 - #8 print
+INFO  15:19:44,302 - #36 (
+INFO  15:19:44,302 - #45 c
+INFO  15:19:44,303 - #37 )
+INFO  15:19:44,305 - #33 ;
+INFO  15:19:44,305 - #45 b
+INFO  15:19:44,305 - #32 --
+INFO  15:19:44,305 - #33 ;
+INFO  15:19:44,305 - #8 print
+INFO  15:19:44,305 - #36 (
+INFO  15:19:44,305 - #45 b
+INFO  15:19:44,305 - #37 )
+INFO  15:19:44,305 - #33 ;
+INFO  15:19:44,307 - #10 return
+INFO  15:19:44,307 - #45 a
+INFO  15:19:44,307 - #17 +
+INFO  15:19:44,307 - #42 90
+INFO  15:19:44,307 - #33 ;
+INFO  15:19:44,310 - #41 }
+INFO  15:19:44,310 - #11 void
+INFO  15:19:44,311 - #45 main
+INFO  15:19:44,312 - #36 (
+INFO  15:19:44,312 - #37 )
+INFO  15:19:44,312 - #45 int
+INFO  15:19:44,312 - #45 bodovi
+INFO  15:19:44,312 - #34 ,
+INFO  15:19:44,313 - #45 a
+INFO  15:19:44,313 - #33 ;
+INFO  15:19:44,313 - #40 {
+INFO  15:19:44,313 - #6 if
+INFO  15:19:44,313 - #36 (
+INFO  15:19:44,313 - #45 a
+INFO  15:19:44,313 - #28 ==
+INFO  15:19:44,313 - #45 bodovi
+INFO  15:19:44,314 - #27 ||
+INFO  15:19:44,315 - #42 5
+INFO  15:19:44,315 - #37 )
+INFO  15:19:44,315 - #8 print
+INFO  15:19:44,315 - #36 (
+INFO  15:19:44,315 - #44 'z'
+INFO  15:19:44,315 - #37 )
+INFO  15:19:44,315 - #33 ;
+INFO  15:19:44,316 - #5 else
+INFO  15:19:44,316 - #8 print
+INFO  15:19:44,316 - #36 (
+INFO  15:19:44,316 - #44 'm'
+INFO  15:19:44,316 - #37 )
+INFO  15:19:44,316 - #33 ;
+INFO  15:19:44,316 - #41 }
+INFO  15:19:44,317 - #41 }
+INFO  15:19:44,317 - Zavrseno parsiranje 
+
+
+INFO  15:19:44,327 - Detektovana upotreba lokalne promenljive c na liniji 14
+INFO  15:19:44,327 - Detektovana upotreba lokalne promenljive b na liniji 15
+INFO  15:19:44,327 - Detektovana upotreba lokalne promenljive b na liniji 16
+INFO  15:19:44,327 - Detektovana upotreba lokalne promenljive a na liniji 17
+INFO  15:19:44,327 - Detektovana upotreba lokalne promenljive a na liniji 22
+INFO  15:19:44,327 - Detektovana upotreba lokalne promenljive bodovi na liniji 22
+ERROR 15:19:44,327 - Greska na liniji 5: Operatori u cond fact listi koji sacinjavaju condition nisu boolean 
+ERROR 15:19:44,327 - Greska na liniji 5 : Condition u if naredbi nije tipa bool
+INFO  15:19:44,328 - Print calls = 0
+ERROR 15:19:44,328 - Parsiranje NIJE uspesno zavrseno!

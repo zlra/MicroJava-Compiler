@@ -1,0 +1,76 @@
+INFO  20:40:18,266 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:40:18,303 - #2 program
+INFO  20:40:18,303 - #45 P
+INFO  20:40:18,303 - #16 const
+INFO  20:40:18,304 - #45 int
+INFO  20:40:18,304 - #45 a
+INFO  20:40:18,305 - #30 =
+INFO  20:40:18,305 - #42 10
+INFO  20:40:18,305 - #33 ;
+INFO  20:40:18,306 - #16 const
+INFO  20:40:18,306 - #45 int
+INFO  20:40:18,306 - #45 b
+INFO  20:40:18,306 - #30 =
+INFO  20:40:18,306 - #42 5
+INFO  20:40:18,306 - #34 ,
+INFO  20:40:18,306 - #45 c
+INFO  20:40:18,306 - #30 =
+INFO  20:40:18,306 - #42 7
+INFO  20:40:18,306 - #33 ;
+INFO  20:40:18,306 - #45 char
+INFO  20:40:18,306 - #45 aaa
+INFO  20:40:18,307 - #34 ,
+INFO  20:40:18,308 - #45 bbb
+INFO  20:40:18,308 - #34 ,
+INFO  20:40:18,308 - #45 ccc
+INFO  20:40:18,308 - #33 ;
+INFO  20:40:18,308 - #45 int
+INFO  20:40:18,309 - #45 aa
+INFO  20:40:18,309 - #33 ;
+INFO  20:40:18,309 - #45 int
+INFO  20:40:18,309 - #45 l
+INFO  20:40:18,309 - #38 [
+INFO  20:40:18,309 - #39 ]
+INFO  20:40:18,309 - #34 ,
+INFO  20:40:18,309 - #45 k
+INFO  20:40:18,309 - #34 ,
+INFO  20:40:18,309 - #45 j
+INFO  20:40:18,309 - #38 [
+INFO  20:40:18,309 - #39 ]
+INFO  20:40:18,309 - #33 ;
+INFO  20:40:18,309 - #40 {
+INFO  20:40:18,310 - #11 void
+INFO  20:40:18,310 - #45 main
+INFO  20:40:18,310 - #36 (
+INFO  20:40:18,311 - #37 )
+INFO  20:40:18,311 - #40 {
+INFO  20:40:18,312 - #10 return
+INFO  20:40:18,312 - #33 ;
+INFO  20:40:18,312 - #41 }
+INFO  20:40:18,313 - #45 int
+INFO  20:40:18,314 - #45 fuckyouthunder
+INFO  20:40:18,314 - #36 (
+INFO  20:40:18,314 - #45 int
+INFO  20:40:18,314 - #45 a
+INFO  20:40:18,315 - #34 ,
+INFO  20:40:18,315 - #45 char
+INFO  20:40:18,315 - #45 b
+INFO  20:40:18,315 - #37 )
+INFO  20:40:18,316 - #40 {
+INFO  20:40:18,316 - #45 l
+INFO  20:40:18,317 - #38 [
+ERROR 20:40:18,318 - 
+Sintaksna greska na liniji 14
+INFO  20:40:18,318 - #42 2
+INFO  20:40:18,318 - #39 ]
+INFO  20:40:18,318 - #33 ;
+INFO  20:40:18,318 - #10 return
+INFO  20:40:18,319 - #42 2
+INFO  20:40:18,319 - #33 ;
+ERROR 20:40:18,319 - Greska pri definiciji iskaza dodele na liniji 14
+INFO  20:40:18,321 - #41 }
+INFO  20:40:18,321 - #41 }
+INFO  20:40:18,321 - Zavrseno parsiranje 
+
+
+INFO  20:40:18,329 - Print calls = 0

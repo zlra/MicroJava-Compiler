@@ -1,0 +1,43 @@
+INFO  22:47:47,464 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  22:47:47,488 - #2 program
+INFO  22:47:47,488 - #45 tojeto
+INFO  22:47:47,488 - #16 const
+INFO  22:47:47,490 - #45 int
+INFO  22:47:47,490 - #45 konstanta
+INFO  22:47:47,491 - #30 =
+INFO  22:47:47,491 - #42 10
+INFO  22:47:47,491 - #34 ,
+INFO  22:47:47,492 - #45 druga
+INFO  22:47:47,492 - #30 =
+INFO  22:47:47,492 - #42 5
+INFO  22:47:47,492 - #33 ;
+INFO  22:47:47,493 - #45 int
+INFO  22:47:47,494 - #45 a
+INFO  22:47:47,494 - #34 ,
+INFO  22:47:47,495 - #45 b
+INFO  22:47:47,496 - #38 [
+INFO  22:47:47,496 - #39 ]
+INFO  22:47:47,496 - #34 ,
+INFO  22:47:47,497 - #45 c
+INFO  22:47:47,501 - #34 ,
+INFO  22:47:47,501 - #45 d
+INFO  22:47:47,501 - #38 [
+INFO  22:47:47,501 - #39 ]
+INFO  22:47:47,501 - #33 ;
+INFO  22:47:47,502 - #4 class
+INFO  22:47:47,502 - #45 Zivotinja
+INFO  22:47:47,503 - #40 {
+INFO  22:47:47,503 - #41 }
+INFO  22:47:47,506 - #4 class
+INFO  22:47:47,507 - #45 Pas
+INFO  22:47:47,507 - #40 {
+INFO  22:47:47,507 - #41 }
+INFO  22:47:47,507 - #4 class
+INFO  22:47:47,507 - #45 Macka
+INFO  22:47:47,507 - #40 {
+INFO  22:47:47,507 - #45 adf
+INFO  22:47:47,507 - #41 }
+ERROR 22:47:47,508 - 
+Sintaksna greska na liniji 2
+ERROR 22:47:47,508 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 2
+INFO  22:47:47,508 - Print calls = 38

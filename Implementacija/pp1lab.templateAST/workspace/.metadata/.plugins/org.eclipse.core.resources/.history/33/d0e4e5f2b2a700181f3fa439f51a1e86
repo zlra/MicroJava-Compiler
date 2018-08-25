@@ -1,0 +1,45 @@
+program sort
+	int a[];
+	int i;
+	const int length = 3;
+{
+	void bubbleSort(int a[], int length) int i; int j; int help; {
+		i = -1;
+		do {
+			i++;
+			j = -1;
+			do {
+				j++;
+				if (a[i] < a[j]) {
+					help = a[i];
+					a[i] = a[j];
+					a[j] = help;
+				}
+			} while(j < i);
+		} while(i < length - 1);
+	}
+	
+	void main() {
+		i = -1;
+		a = new int[length];
+		do {
+			i++;
+			a[i] = length - i;
+		}while (i < length - 1);
+		
+		i = -1;
+		
+		do {
+			i++;
+			print(a[i]);
+		} while (i< length - 1);
+		
+		bubbleSort(a, length);
+		i = -1;
+		do {
+			i++;
+			print(a[i]);
+		} while (i < length - 1);
+	}
+
+}

@@ -1,0 +1,62 @@
+INFO  17:47:21,949 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:47:21,994 - #2 program
+INFO  17:47:21,994 - #45 test301
+INFO  17:47:21,994 - #45 int
+INFO  17:47:21,995 - #45 niza
+INFO  17:47:21,996 - #38 [
+INFO  17:47:21,996 - #39 ]
+INFO  17:47:21,996 - #34 ,
+INFO  17:47:21,997 - #45 nizb
+INFO  17:47:21,997 - #38 [
+INFO  17:47:21,997 - #39 ]
+INFO  17:47:21,997 - #34 ,
+INFO  17:47:21,997 - #45 nizc
+INFO  17:47:21,997 - #38 [
+INFO  17:47:21,997 - #39 ]
+INFO  17:47:21,997 - #33 ;
+INFO  17:47:21,997 - #45 int
+INFO  17:47:21,998 - #45 a
+INFO  17:47:21,998 - #34 ,
+INFO  17:47:21,998 - #45 b
+INFO  17:47:21,998 - #33 ;
+INFO  17:47:22,001 - #40 {
+INFO  17:47:22,001 - #11 void
+INFO  17:47:22,002 - #45 main
+INFO  17:47:22,002 - #36 (
+INFO  17:47:22,002 - #37 )
+INFO  17:47:22,003 - #40 {
+INFO  17:47:22,003 - #45 niza
+INFO  17:47:22,004 - #30 =
+INFO  17:47:22,005 - #7 new
+INFO  17:47:22,005 - #45 int
+INFO  17:47:22,005 - #38 [
+INFO  17:47:22,005 - #42 5
+INFO  17:47:22,006 - #39 ]
+INFO  17:47:22,006 - #33 ;
+INFO  17:47:22,006 - #45 nizb
+INFO  17:47:22,007 - #30 =
+INFO  17:47:22,007 - #7 new
+INFO  17:47:22,007 - #45 int
+INFO  17:47:22,007 - #38 [
+INFO  17:47:22,007 - #42 5
+INFO  17:47:22,007 - #39 ]
+INFO  17:47:22,007 - #33 ;
+INFO  17:47:22,007 - #8 print
+INFO  17:47:22,007 - #36 (
+INFO  17:47:22,007 - #44 'z'
+INFO  17:47:22,007 - #37 )
+INFO  17:47:22,007 - #33 ;
+INFO  17:47:22,007 - #45 nizc
+INFO  17:47:22,008 - #30 =
+INFO  17:47:22,008 - #45 niza
+INFO  17:47:22,008 - #17 +
+INFO  17:47:22,008 - #45 nizb
+INFO  17:47:22,009 - #33 ;
+INFO  17:47:22,009 - #41 }
+INFO  17:47:22,009 - #41 }
+INFO  17:47:22,011 - Zavrseno parsiranje 
+
+
+INFO  17:47:22,023 - Print calls = 0
+INFO  17:47:22,024 - Generating bytecode file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  17:47:22,030 - Parsiranje uspesno zavrseno!

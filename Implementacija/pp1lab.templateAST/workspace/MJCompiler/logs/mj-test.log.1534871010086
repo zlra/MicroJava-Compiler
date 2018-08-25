@@ -1,0 +1,40 @@
+INFO  19:02:00,313 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  19:02:00,347 - #2 program
+INFO  19:02:00,347 - #45 test301
+INFO  19:02:00,348 - #45 int
+INFO  19:02:00,348 - #45 niza
+INFO  19:02:00,349 - #38 [
+INFO  19:02:00,349 - #39 ]
+INFO  19:02:00,349 - #34 ,
+INFO  19:02:00,350 - #45 nizb
+INFO  19:02:00,350 - #38 [
+INFO  19:02:00,350 - #39 ]
+INFO  19:02:00,350 - #34 ,
+INFO  19:02:00,350 - #45 nizc
+INFO  19:02:00,350 - #38 [
+INFO  19:02:00,350 - #39 ]
+INFO  19:02:00,350 - #33 ;
+INFO  19:02:00,351 - #45 int
+INFO  19:02:00,351 - #45 a
+INFO  19:02:00,351 - #33 ;
+INFO  19:02:00,352 - #40 {
+INFO  19:02:00,352 - #11 void
+INFO  19:02:00,356 - #45 main
+INFO  19:02:00,357 - #36 (
+INFO  19:02:00,357 - #37 )
+INFO  19:02:00,357 - #40 {
+INFO  19:02:00,358 - #45 a
+INFO  19:02:00,358 - #30 =
+INFO  19:02:00,359 - #45 niza
+INFO  19:02:00,359 - #19 *
+INFO  19:02:00,360 - #45 nizb
+INFO  19:02:00,361 - #33 ;
+INFO  19:02:00,362 - #41 }
+INFO  19:02:00,362 - #41 }
+INFO  19:02:00,363 - Zavrseno parsiranje 
+
+
+INFO  19:02:00,375 - Detektovana upotreba globalne promenljive a na liniji 6
+INFO  19:02:00,375 - Print calls = 0
+INFO  19:02:00,376 - Generating bytecode file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  19:02:00,380 - Parsiranje uspesno zavrseno!

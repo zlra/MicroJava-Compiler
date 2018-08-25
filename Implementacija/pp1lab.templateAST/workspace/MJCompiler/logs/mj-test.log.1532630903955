@@ -1,0 +1,55 @@
+INFO  20:18:43,571 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  20:18:43,605 - #2 program
+INFO  20:18:43,605 - #45 P
+INFO  20:18:43,606 - #45 char
+INFO  20:18:43,606 - #45 x
+INFO  20:18:43,607 - #34 ,
+INFO  20:18:43,608 - #45 y
+INFO  20:18:43,608 - #34 ,
+INFO  20:18:43,608 - #45 z
+INFO  20:18:43,608 - #33 ;
+INFO  20:18:43,609 - #16 const
+INFO  20:18:43,609 - #45 int
+INFO  20:18:43,609 - #45 a
+INFO  20:18:43,609 - #30 =
+INFO  20:18:43,610 - #42 10
+INFO  20:18:43,610 - #33 ;
+INFO  20:18:43,610 - #16 const
+INFO  20:18:43,610 - #45 int
+INFO  20:18:43,610 - #45 b
+INFO  20:18:43,610 - #30 =
+INFO  20:18:43,610 - #42 5
+INFO  20:18:43,610 - #34 ,
+INFO  20:18:43,611 - #45 a
+INFO  20:18:43,611 - #30 =
+INFO  20:18:43,611 - #42 7
+INFO  20:18:43,611 - #34 ,
+INFO  20:18:43,611 - #45 d
+INFO  20:18:43,611 - #30 =
+INFO  20:18:43,611 - #44 'a'
+INFO  20:18:43,611 - #33 ;
+INFO  20:18:43,612 - #40 {
+INFO  20:18:43,612 - #11 void
+INFO  20:18:43,613 - #45 main
+INFO  20:18:43,613 - #36 (
+INFO  20:18:43,613 - #37 )
+INFO  20:18:43,614 - #40 {
+INFO  20:18:43,614 - #10 return
+INFO  20:18:43,614 - #33 ;
+INFO  20:18:43,614 - #41 }
+INFO  20:18:43,615 - #45 int
+INFO  20:18:43,616 - #45 fuckyouthunder
+INFO  20:18:43,616 - #36 (
+INFO  20:18:43,616 - #37 )
+INFO  20:18:43,616 - #40 {
+INFO  20:18:43,616 - #10 return
+INFO  20:18:43,616 - #42 4
+INFO  20:18:43,616 - #33 ;
+INFO  20:18:43,617 - #41 }
+INFO  20:18:43,617 - #41 }
+INFO  20:18:43,618 - Zavrseno parsiranje 
+
+
+ERROR 20:18:43,626 - Greska na liniji 4: Identifikator konstante vec postoji u tabeli simbola
+ERROR 20:18:43,626 - Greska na liniji 0: Pogresan tip pri dodeli vrednosti konstanti.
+INFO  20:18:43,626 - Print calls = 0

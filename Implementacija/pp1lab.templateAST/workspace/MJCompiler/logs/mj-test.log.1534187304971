@@ -1,0 +1,60 @@
+INFO  21:08:14,458 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:08:14,490 - #2 program
+INFO  21:08:14,491 - #45 P
+INFO  21:08:14,491 - #16 const
+INFO  21:08:14,491 - #45 int
+INFO  21:08:14,492 - #45 ac
+INFO  21:08:14,492 - #30 =
+INFO  21:08:14,492 - #42 10
+INFO  21:08:14,492 - #33 ;
+INFO  21:08:14,493 - #45 int
+INFO  21:08:14,493 - #45 a
+INFO  21:08:14,493 - #33 ;
+INFO  21:08:14,494 - #45 bool
+INFO  21:08:14,494 - #45 b
+INFO  21:08:14,495 - #33 ;
+INFO  21:08:14,495 - #45 char
+INFO  21:08:14,495 - #45 c
+INFO  21:08:14,495 - #33 ;
+INFO  21:08:14,495 - #45 int
+INFO  21:08:14,495 - #45 niza
+INFO  21:08:14,495 - #38 [
+INFO  21:08:14,497 - #39 ]
+INFO  21:08:14,497 - #33 ;
+INFO  21:08:14,497 - #45 char
+INFO  21:08:14,497 - #45 nizb
+INFO  21:08:14,497 - #38 [
+INFO  21:08:14,497 - #39 ]
+INFO  21:08:14,497 - #33 ;
+INFO  21:08:14,497 - #45 bool
+INFO  21:08:14,498 - #45 nizc
+INFO  21:08:14,498 - #38 [
+INFO  21:08:14,498 - #39 ]
+INFO  21:08:14,498 - #33 ;
+INFO  21:08:14,498 - #40 {
+INFO  21:08:14,498 - #45 int
+INFO  21:08:14,498 - #45 funkcija1
+INFO  21:08:14,498 - #36 (
+INFO  21:08:14,499 - #37 )
+INFO  21:08:14,499 - #40 {
+INFO  21:08:14,500 - #10 return
+INFO  21:08:14,500 - #42 1
+INFO  21:08:14,501 - #33 ;
+INFO  21:08:14,502 - #41 }
+INFO  21:08:14,502 - #11 void
+INFO  21:08:14,503 - #45 main
+INFO  21:08:14,503 - #36 (
+INFO  21:08:14,503 - #37 )
+INFO  21:08:14,503 - #40 {
+INFO  21:08:14,503 - #45 ac
+INFO  21:08:14,503 - #30 =
+INFO  21:08:14,504 - #45 a
+INFO  21:08:14,504 - #33 ;
+INFO  21:08:14,505 - #41 }
+INFO  21:08:14,505 - #41 }
+INFO  21:08:14,505 - Zavrseno parsiranje 
+
+
+ERROR 21:08:14,515 - Greska na liniji 18: Dodela vrednosti konstanti je zabranjena
+ERROR 21:08:14,515 - Greska na liniji 18: Dodela vrednosti identifikatoru koji nije element niza ni ime promenljive
+INFO  21:08:14,516 - Print calls = 0

@@ -1,0 +1,53 @@
+INFO  17:27:34,909 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:27:34,947 - #2 program
+INFO  17:27:34,947 - #45 P
+INFO  17:27:34,947 - #16 const
+INFO  17:27:34,948 - #45 int
+INFO  17:27:34,948 - #45 ac
+INFO  17:27:34,949 - #30 =
+INFO  17:27:34,949 - #42 10
+INFO  17:27:34,949 - #33 ;
+INFO  17:27:34,950 - #45 int
+INFO  17:27:34,951 - #45 a
+INFO  17:27:34,951 - #33 ;
+INFO  17:27:34,953 - #45 bool
+INFO  17:27:34,953 - #45 b
+INFO  17:27:34,953 - #33 ;
+INFO  17:27:34,953 - #45 char
+INFO  17:27:34,954 - #45 c
+INFO  17:27:34,954 - #33 ;
+INFO  17:27:34,954 - #45 int
+INFO  17:27:34,954 - #45 niza
+INFO  17:27:34,954 - #38 [
+INFO  17:27:34,957 - #39 ]
+INFO  17:27:34,957 - #33 ;
+INFO  17:27:34,958 - #45 char
+INFO  17:27:34,958 - #45 nizb
+INFO  17:27:34,958 - #38 [
+INFO  17:27:34,958 - #39 ]
+INFO  17:27:34,958 - #33 ;
+INFO  17:27:34,958 - #45 bool
+INFO  17:27:34,958 - #45 nizc
+INFO  17:27:34,958 - #38 [
+INFO  17:27:34,958 - #39 ]
+INFO  17:27:34,958 - #33 ;
+INFO  17:27:34,959 - #40 {
+INFO  17:27:34,959 - #11 void
+INFO  17:27:34,959 - #45 main
+INFO  17:27:34,960 - #36 (
+INFO  17:27:34,960 - #37 )
+INFO  17:27:34,960 - #40 {
+INFO  17:27:34,961 - #45 nizc
+INFO  17:27:34,962 - #38 [
+INFO  17:27:34,962 - #42 3
+INFO  17:27:34,963 - #39 ]
+INFO  17:27:34,964 - #30 =
+INFO  17:27:34,965 - #44 'c'
+INFO  17:27:34,965 - #33 ;
+INFO  17:27:34,965 - #41 }
+INFO  17:27:34,966 - #41 }
+INFO  17:27:34,967 - Zavrseno parsiranje 
+
+
+ERROR 17:27:34,977 - Greska na liniji 12: Nekompatibilne vrednosti pri dodeli
+INFO  17:27:34,977 - Print calls = 0

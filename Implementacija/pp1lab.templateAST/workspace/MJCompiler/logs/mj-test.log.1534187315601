@@ -1,0 +1,59 @@
+INFO  21:08:24,975 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  21:08:25,009 - #2 program
+INFO  21:08:25,009 - #45 P
+INFO  21:08:25,009 - #16 const
+INFO  21:08:25,010 - #45 int
+INFO  21:08:25,010 - #45 ac
+INFO  21:08:25,010 - #30 =
+INFO  21:08:25,010 - #42 10
+INFO  21:08:25,010 - #33 ;
+INFO  21:08:25,011 - #45 int
+INFO  21:08:25,011 - #45 a
+INFO  21:08:25,011 - #33 ;
+INFO  21:08:25,013 - #45 bool
+INFO  21:08:25,013 - #45 b
+INFO  21:08:25,013 - #33 ;
+INFO  21:08:25,013 - #45 char
+INFO  21:08:25,013 - #45 c
+INFO  21:08:25,013 - #33 ;
+INFO  21:08:25,013 - #45 int
+INFO  21:08:25,013 - #45 niza
+INFO  21:08:25,013 - #38 [
+INFO  21:08:25,013 - #39 ]
+INFO  21:08:25,013 - #33 ;
+INFO  21:08:25,014 - #45 char
+INFO  21:08:25,014 - #45 nizb
+INFO  21:08:25,014 - #38 [
+INFO  21:08:25,014 - #39 ]
+INFO  21:08:25,014 - #33 ;
+INFO  21:08:25,014 - #45 bool
+INFO  21:08:25,014 - #45 nizc
+INFO  21:08:25,014 - #38 [
+INFO  21:08:25,014 - #39 ]
+INFO  21:08:25,014 - #33 ;
+INFO  21:08:25,015 - #40 {
+INFO  21:08:25,015 - #45 int
+INFO  21:08:25,015 - #45 funkcija1
+INFO  21:08:25,015 - #36 (
+INFO  21:08:25,016 - #37 )
+INFO  21:08:25,016 - #40 {
+INFO  21:08:25,016 - #10 return
+INFO  21:08:25,017 - #42 1
+INFO  21:08:25,018 - #33 ;
+INFO  21:08:25,018 - #41 }
+INFO  21:08:25,019 - #11 void
+INFO  21:08:25,019 - #45 main
+INFO  21:08:25,020 - #36 (
+INFO  21:08:25,020 - #37 )
+INFO  21:08:25,020 - #40 {
+INFO  21:08:25,020 - #45 a
+INFO  21:08:25,020 - #30 =
+INFO  21:08:25,021 - #44 'c'
+INFO  21:08:25,021 - #33 ;
+INFO  21:08:25,021 - #41 }
+INFO  21:08:25,021 - #41 }
+INFO  21:08:25,022 - Zavrseno parsiranje 
+
+
+ERROR 21:08:25,032 - Greska na liniji 18: Nekompatibilne vrednosti pri iskazu dodele 
+INFO  21:08:25,032 - Print calls = 0

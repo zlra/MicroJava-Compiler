@@ -1,0 +1,76 @@
+INFO  17:44:30,585 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:44:30,620 - #2 program
+INFO  17:44:30,620 - #45 P
+INFO  17:44:30,620 - #16 const
+INFO  17:44:30,621 - #45 int
+INFO  17:44:30,621 - #45 ac
+INFO  17:44:30,621 - #30 =
+INFO  17:44:30,621 - #42 10
+INFO  17:44:30,621 - #33 ;
+INFO  17:44:30,622 - #45 int
+INFO  17:44:30,622 - #45 a
+INFO  17:44:30,622 - #33 ;
+INFO  17:44:30,624 - #45 bool
+INFO  17:44:30,624 - #45 b
+INFO  17:44:30,624 - #33 ;
+INFO  17:44:30,624 - #45 char
+INFO  17:44:30,624 - #45 c
+INFO  17:44:30,624 - #33 ;
+INFO  17:44:30,624 - #45 int
+INFO  17:44:30,624 - #45 niza
+INFO  17:44:30,624 - #38 [
+INFO  17:44:30,626 - #39 ]
+INFO  17:44:30,626 - #33 ;
+INFO  17:44:30,627 - #45 char
+INFO  17:44:30,627 - #45 nizb
+INFO  17:44:30,627 - #38 [
+INFO  17:44:30,627 - #39 ]
+INFO  17:44:30,627 - #33 ;
+INFO  17:44:30,627 - #45 bool
+INFO  17:44:30,627 - #45 nizc
+INFO  17:44:30,627 - #38 [
+INFO  17:44:30,627 - #39 ]
+INFO  17:44:30,627 - #33 ;
+INFO  17:44:30,627 - #40 {
+INFO  17:44:30,627 - #11 void
+INFO  17:44:30,628 - #45 funkcija1
+INFO  17:44:30,628 - #36 (
+INFO  17:44:30,629 - #37 )
+INFO  17:44:30,629 - #40 {
+INFO  17:44:30,630 - #41 }
+INFO  17:44:30,630 - #11 void
+INFO  17:44:30,631 - #45 main
+INFO  17:44:30,631 - #36 (
+INFO  17:44:30,631 - #37 )
+INFO  17:44:30,631 - #40 {
+INFO  17:44:30,631 - #45 a
+INFO  17:44:30,631 - #36 (
+INFO  17:44:30,632 - #37 )
+INFO  17:44:30,632 - #33 ;
+INFO  17:44:30,632 - #45 ac
+INFO  17:44:30,633 - #36 (
+INFO  17:44:30,633 - #37 )
+INFO  17:44:30,633 - #33 ;
+INFO  17:44:30,633 - #45 niza
+INFO  17:44:30,633 - #36 (
+INFO  17:44:30,633 - #37 )
+INFO  17:44:30,633 - #33 ;
+INFO  17:44:30,633 - #45 fsdfsd
+INFO  17:44:30,633 - #36 (
+INFO  17:44:30,633 - #37 )
+INFO  17:44:30,633 - #33 ;
+INFO  17:44:30,633 - #45 funkcija1
+INFO  17:44:30,633 - #36 (
+INFO  17:44:30,633 - #37 )
+INFO  17:44:30,634 - #33 ;
+INFO  17:44:30,634 - #41 }
+INFO  17:44:30,634 - #41 }
+INFO  17:44:30,636 - Zavrseno parsiranje 
+
+
+ERROR 17:44:30,648 - Greska na liniji 18: Identifikator pri pozivu funkcije nije ime metode
+ERROR 17:44:30,648 - Greska na liniji 19: Identifikator pri pozivu funkcije nije ime metode
+ERROR 17:44:30,649 - Greska na liniji 20: Identifikator pri pozivu funkcije nije ime metode
+ERROR 17:44:30,649 - Greska na liniji 21: Koristi se nedeklarisan simbol
+ERROR 17:44:30,649 - Greska na liniji 21: Identifikator pri pozivu funkcije ne postoji u tabeli simbola
+INFO  17:44:30,649 - Print calls = 0

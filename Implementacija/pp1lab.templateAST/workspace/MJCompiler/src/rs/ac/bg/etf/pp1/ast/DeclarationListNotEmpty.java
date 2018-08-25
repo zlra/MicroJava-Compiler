@@ -1,0 +1,78 @@
+// generated with ast extension for cup
+// version 0.8
+// 21/7/2018 1:53:54
+
+
+package rs.ac.bg.etf.pp1.ast;
+
+public class DeclarationListNotEmpty extends DeclarationList {
+
+    private DeclarationList DeclarationList;
+    private GeneralDeclaration GeneralDeclaration;
+
+    public DeclarationListNotEmpty (DeclarationList DeclarationList, GeneralDeclaration GeneralDeclaration) {
+        this.DeclarationList=DeclarationList;
+        if(DeclarationList!=null) DeclarationList.setParent(this);
+        this.GeneralDeclaration=GeneralDeclaration;
+        if(GeneralDeclaration!=null) GeneralDeclaration.setParent(this);
+    }
+
+    public DeclarationList getDeclarationList() {
+        return DeclarationList;
+    }
+
+    public void setDeclarationList(DeclarationList DeclarationList) {
+        this.DeclarationList=DeclarationList;
+    }
+
+    public GeneralDeclaration getGeneralDeclaration() {
+        return GeneralDeclaration;
+    }
+
+    public void setGeneralDeclaration(GeneralDeclaration GeneralDeclaration) {
+        this.GeneralDeclaration=GeneralDeclaration;
+    }
+
+    public void accept(Visitor visitor) {
+        visitor.visit(this);
+    }
+
+    public void childrenAccept(Visitor visitor) {
+        if(DeclarationList!=null) DeclarationList.accept(visitor);
+        if(GeneralDeclaration!=null) GeneralDeclaration.accept(visitor);
+    }
+
+    public void traverseTopDown(Visitor visitor) {
+        accept(visitor);
+        if(DeclarationList!=null) DeclarationList.traverseTopDown(visitor);
+        if(GeneralDeclaration!=null) GeneralDeclaration.traverseTopDown(visitor);
+    }
+
+    public void traverseBottomUp(Visitor visitor) {
+        if(DeclarationList!=null) DeclarationList.traverseBottomUp(visitor);
+        if(GeneralDeclaration!=null) GeneralDeclaration.traverseBottomUp(visitor);
+        accept(visitor);
+    }
+
+    public String toString(String tab) {
+        StringBuffer buffer=new StringBuffer();
+        buffer.append(tab);
+        buffer.append("DeclarationListNotEmpty(\n");
+
+        if(DeclarationList!=null)
+            buffer.append(DeclarationList.toString("  "+tab));
+        else
+            buffer.append(tab+"  null");
+        buffer.append("\n");
+
+        if(GeneralDeclaration!=null)
+            buffer.append(GeneralDeclaration.toString("  "+tab));
+        else
+            buffer.append(tab+"  null");
+        buffer.append("\n");
+
+        buffer.append(tab);
+        buffer.append(") [DeclarationListNotEmpty]");
+        return buffer.toString();
+    }
+}

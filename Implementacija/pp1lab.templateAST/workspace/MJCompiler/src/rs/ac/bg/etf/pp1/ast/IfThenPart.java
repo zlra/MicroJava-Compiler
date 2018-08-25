@@ -1,0 +1,136 @@
+// generated with ast extension for cup
+// version 0.8
+// 21/7/2018 1:53:55
+
+
+package rs.ac.bg.etf.pp1.ast;
+
+public class IfThenPart implements SyntaxNode {
+
+    private SyntaxNode parent;
+    private int line;
+    private IfStart IfStart;
+    private IfCondition IfCondition;
+    private Then Then;
+    private Statement Statement;
+
+    public IfThenPart (IfStart IfStart, IfCondition IfCondition, Then Then, Statement Statement) {
+        this.IfStart=IfStart;
+        if(IfStart!=null) IfStart.setParent(this);
+        this.IfCondition=IfCondition;
+        if(IfCondition!=null) IfCondition.setParent(this);
+        this.Then=Then;
+        if(Then!=null) Then.setParent(this);
+        this.Statement=Statement;
+        if(Statement!=null) Statement.setParent(this);
+    }
+
+    public IfStart getIfStart() {
+        return IfStart;
+    }
+
+    public void setIfStart(IfStart IfStart) {
+        this.IfStart=IfStart;
+    }
+
+    public IfCondition getIfCondition() {
+        return IfCondition;
+    }
+
+    public void setIfCondition(IfCondition IfCondition) {
+        this.IfCondition=IfCondition;
+    }
+
+    public Then getThen() {
+        return Then;
+    }
+
+    public void setThen(Then Then) {
+        this.Then=Then;
+    }
+
+    public Statement getStatement() {
+        return Statement;
+    }
+
+    public void setStatement(Statement Statement) {
+        this.Statement=Statement;
+    }
+
+    public SyntaxNode getParent() {
+        return parent;
+    }
+
+    public void setParent(SyntaxNode parent) {
+        this.parent=parent;
+    }
+
+    public int getLine() {
+        return line;
+    }
+
+    public void setLine(int line) {
+        this.line=line;
+    }
+
+    public void accept(Visitor visitor) {
+        visitor.visit(this);
+    }
+
+    public void childrenAccept(Visitor visitor) {
+        if(IfStart!=null) IfStart.accept(visitor);
+        if(IfCondition!=null) IfCondition.accept(visitor);
+        if(Then!=null) Then.accept(visitor);
+        if(Statement!=null) Statement.accept(visitor);
+    }
+
+    public void traverseTopDown(Visitor visitor) {
+        accept(visitor);
+        if(IfStart!=null) IfStart.traverseTopDown(visitor);
+        if(IfCondition!=null) IfCondition.traverseTopDown(visitor);
+        if(Then!=null) Then.traverseTopDown(visitor);
+        if(Statement!=null) Statement.traverseTopDown(visitor);
+    }
+
+    public void traverseBottomUp(Visitor visitor) {
+        if(IfStart!=null) IfStart.traverseBottomUp(visitor);
+        if(IfCondition!=null) IfCondition.traverseBottomUp(visitor);
+        if(Then!=null) Then.traverseBottomUp(visitor);
+        if(Statement!=null) Statement.traverseBottomUp(visitor);
+        accept(visitor);
+    }
+
+    public String toString(String tab) {
+        StringBuffer buffer=new StringBuffer();
+        buffer.append(tab);
+        buffer.append("IfThenPart(\n");
+
+        if(IfStart!=null)
+            buffer.append(IfStart.toString("  "+tab));
+        else
+            buffer.append(tab+"  null");
+        buffer.append("\n");
+
+        if(IfCondition!=null)
+            buffer.append(IfCondition.toString("  "+tab));
+        else
+            buffer.append(tab+"  null");
+        buffer.append("\n");
+
+        if(Then!=null)
+            buffer.append(Then.toString("  "+tab));
+        else
+            buffer.append(tab+"  null");
+        buffer.append("\n");
+
+        if(Statement!=null)
+            buffer.append(Statement.toString("  "+tab));
+        else
+            buffer.append(tab+"  null");
+        buffer.append("\n");
+
+        buffer.append(tab);
+        buffer.append(") [IfThenPart]");
+        return buffer.toString();
+    }
+}

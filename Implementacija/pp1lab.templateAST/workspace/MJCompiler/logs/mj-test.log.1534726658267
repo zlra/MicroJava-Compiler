@@ -1,0 +1,56 @@
+INFO  02:57:29,360 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  02:57:29,400 - #2 program
+INFO  02:57:29,400 - #45 test301
+INFO  02:57:29,400 - #16 const
+INFO  02:57:29,401 - #45 int
+INFO  02:57:29,401 - #45 jedan
+INFO  02:57:29,401 - #30 =
+INFO  02:57:29,401 - #42 1
+INFO  02:57:29,401 - #33 ;
+INFO  02:57:29,402 - #16 const
+INFO  02:57:29,402 - #45 int
+INFO  02:57:29,402 - #45 pet
+INFO  02:57:29,402 - #30 =
+INFO  02:57:29,402 - #42 5
+INFO  02:57:29,402 - #33 ;
+INFO  02:57:29,402 - #45 int
+INFO  02:57:29,402 - #45 niz
+INFO  02:57:29,403 - #38 [
+INFO  02:57:29,403 - #39 ]
+INFO  02:57:29,403 - #33 ;
+INFO  02:57:29,404 - #45 char
+INFO  02:57:29,404 - #45 nizch
+INFO  02:57:29,404 - #38 [
+INFO  02:57:29,404 - #39 ]
+INFO  02:57:29,404 - #33 ;
+INFO  02:57:29,404 - #40 {
+INFO  02:57:29,404 - #45 int
+INFO  02:57:29,405 - #45 funkcija
+INFO  02:57:29,405 - #36 (
+INFO  02:57:29,405 - #37 )
+INFO  02:57:29,406 - #40 {
+INFO  02:57:29,406 - #10 return
+INFO  02:57:29,406 - #42 2
+INFO  02:57:29,407 - #33 ;
+INFO  02:57:29,408 - #41 }
+INFO  02:57:29,408 - #11 void
+INFO  02:57:29,409 - #45 main
+INFO  02:57:29,409 - #36 (
+INFO  02:57:29,409 - #37 )
+INFO  02:57:29,409 - #45 int
+INFO  02:57:29,409 - #45 bodovi
+INFO  02:57:29,409 - #33 ;
+INFO  02:57:29,410 - #40 {
+INFO  02:57:29,410 - #45 funkcija
+INFO  02:57:29,410 - #36 (
+INFO  02:57:29,411 - #37 )
+INFO  02:57:29,411 - #33 ;
+INFO  02:57:29,411 - #41 }
+INFO  02:57:29,411 - #41 }
+INFO  02:57:29,412 - Zavrseno parsiranje 
+
+
+INFO  02:57:29,422 - Detektovana upotreba globalne metode funkcija na liniji 18
+INFO  02:57:29,422 - Print calls = 0
+INFO  02:57:29,423 - Generating bytecode file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.obj
+INFO  02:57:29,427 - Parsiranje uspesno zavrseno!

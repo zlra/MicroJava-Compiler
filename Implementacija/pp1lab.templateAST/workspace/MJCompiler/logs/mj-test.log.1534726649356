@@ -1,0 +1,61 @@
+INFO  02:57:20,000 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  02:57:20,036 - #2 program
+INFO  02:57:20,036 - #45 test301
+INFO  02:57:20,036 - #16 const
+INFO  02:57:20,037 - #45 int
+INFO  02:57:20,037 - #45 jedan
+INFO  02:57:20,037 - #30 =
+INFO  02:57:20,037 - #42 1
+INFO  02:57:20,037 - #33 ;
+INFO  02:57:20,038 - #16 const
+INFO  02:57:20,038 - #45 int
+INFO  02:57:20,038 - #45 pet
+INFO  02:57:20,038 - #30 =
+INFO  02:57:20,038 - #42 5
+INFO  02:57:20,039 - #33 ;
+INFO  02:57:20,039 - #45 int
+INFO  02:57:20,039 - #45 niz
+INFO  02:57:20,039 - #38 [
+INFO  02:57:20,039 - #39 ]
+INFO  02:57:20,039 - #33 ;
+INFO  02:57:20,040 - #45 char
+INFO  02:57:20,048 - #45 nizch
+INFO  02:57:20,048 - #38 [
+INFO  02:57:20,048 - #39 ]
+INFO  02:57:20,048 - #33 ;
+INFO  02:57:20,048 - #40 {
+INFO  02:57:20,048 - #45 int
+INFO  02:57:20,049 - #45 funkcija
+INFO  02:57:20,049 - #36 (
+INFO  02:57:20,050 - #45 int
+INFO  02:57:20,050 - #45 a
+INFO  02:57:20,050 - #34 ,
+INFO  02:57:20,051 - #45 char
+INFO  02:57:20,051 - #45 b
+INFO  02:57:20,051 - #37 )
+INFO  02:57:20,051 - #40 {
+INFO  02:57:20,052 - #10 return
+INFO  02:57:20,052 - #42 2
+INFO  02:57:20,053 - #33 ;
+INFO  02:57:20,054 - #41 }
+INFO  02:57:20,055 - #11 void
+INFO  02:57:20,055 - #45 main
+INFO  02:57:20,056 - #36 (
+INFO  02:57:20,056 - #37 )
+INFO  02:57:20,057 - #45 int
+INFO  02:57:20,057 - #45 bodovi
+INFO  02:57:20,057 - #33 ;
+INFO  02:57:20,057 - #40 {
+INFO  02:57:20,057 - #45 funkcija
+INFO  02:57:20,057 - #36 (
+INFO  02:57:20,058 - #37 )
+INFO  02:57:20,058 - #33 ;
+INFO  02:57:20,059 - #41 }
+INFO  02:57:20,059 - #41 }
+INFO  02:57:20,060 - Zavrseno parsiranje 
+
+
+INFO  02:57:20,073 - Detektovana upotreba globalne metode funkcija na liniji 18
+ERROR 02:57:20,073 - Greska na liniji 0: Pri pozivu nisu prosledjeni argumenti metode a ona ima parametre
+INFO  02:57:20,073 - Print calls = 0
+ERROR 02:57:20,074 - Parsiranje NIJE uspesno zavrseno!

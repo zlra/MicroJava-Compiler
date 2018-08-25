@@ -1,0 +1,55 @@
+INFO  16:10:51,289 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  16:10:51,330 - #2 program
+INFO  16:10:51,330 - #45 P
+INFO  16:10:51,330 - #16 const
+INFO  16:10:51,331 - #45 int
+INFO  16:10:51,331 - #45 a
+INFO  16:10:51,331 - #30 =
+INFO  16:10:51,332 - #42 10
+INFO  16:10:51,332 - #34 ,
+INFO  16:10:51,332 - #45 c
+INFO  16:10:51,332 - #30 =
+INFO  16:10:51,332 - #42 4
+INFO  16:10:51,332 - #33 ;
+INFO  16:10:51,333 - #16 const
+INFO  16:10:51,333 - #45 char
+INFO  16:10:51,333 - #45 d
+INFO  16:10:51,333 - #30 =
+INFO  16:10:51,333 - #44 'a'
+INFO  16:10:51,333 - #33 ;
+INFO  16:10:51,334 - #16 const
+INFO  16:10:51,334 - #45 bool
+INFO  16:10:51,335 - #45 e
+INFO  16:10:51,335 - #30 =
+INFO  16:10:51,335 - #43 true
+INFO  16:10:51,335 - #34 ,
+INFO  16:10:51,336 - #45 f
+INFO  16:10:51,336 - #30 =
+INFO  16:10:51,336 - #43 false
+INFO  16:10:51,336 - #33 ;
+INFO  16:10:51,336 - #45 int
+INFO  16:10:51,336 - #45 aa
+INFO  16:10:51,336 - #33 ;
+INFO  16:10:51,338 - #45 char
+INFO  16:10:51,338 - #45 cc
+INFO  16:10:51,338 - #33 ;
+INFO  16:10:51,338 - #45 bool
+INFO  16:10:51,338 - #45 dd
+INFO  16:10:51,338 - #33 ;
+INFO  16:10:51,338 - #40 {
+INFO  16:10:51,338 - #11 void
+INFO  16:10:51,339 - #45 main
+INFO  16:10:51,339 - #36 (
+INFO  16:10:51,339 - #37 )
+INFO  16:10:51,340 - #40 {
+INFO  16:10:51,340 - #45 a
+INFO  16:10:51,341 - #30 =
+INFO  16:10:51,341 - #42 10
+INFO  16:10:51,342 - #33 ;
+INFO  16:10:51,343 - #41 }
+INFO  16:10:51,343 - #41 }
+INFO  16:10:51,345 - Zavrseno parsiranje 
+
+
+ERROR 16:10:51,354 - Greska na liniji 11: Dodela vrednosti konstanti je zabranjena
+INFO  16:10:51,354 - Print calls = 0

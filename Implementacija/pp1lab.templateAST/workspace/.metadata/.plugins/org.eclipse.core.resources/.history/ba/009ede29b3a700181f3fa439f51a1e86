@@ -1,0 +1,17 @@
+program fibonacci
+	int first;
+	int second;
+{
+	int nthFibonacci(int n) int i; int j; int help; {
+		if (n == 1) return 0;
+		if (n == 2) return 1;
+		return nthFibonacci(n - 1) + nthFibonacci(n - 2);
+	}
+	
+	void main() {
+		first = 0;
+		second = 1;
+		print(nthFibonacci(10)); // 34
+	}
+
+}

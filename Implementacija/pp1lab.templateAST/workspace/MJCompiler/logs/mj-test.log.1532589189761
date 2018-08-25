@@ -1,0 +1,49 @@
+INFO  09:09:54,594 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  09:09:54,628 - #2 program
+INFO  09:09:54,628 - #45 P
+INFO  09:09:54,628 - #16 const
+INFO  09:09:54,629 - #45 int
+INFO  09:09:54,629 - #45 size
+INFO  09:09:54,630 - #30 =
+INFO  09:09:54,630 - #42 10
+INFO  09:09:54,630 - #33 ;
+INFO  09:09:54,631 - #45 int
+INFO  09:09:54,631 - #45 x
+INFO  09:09:54,631 - #34 ,
+INFO  09:09:54,632 - #45 abcd
+INFO  09:09:54,633 - #34 ,
+INFO  09:09:54,633 - #45 ok
+INFO  09:09:54,633 - #34 ,
+INFO  09:09:54,633 - #45 nijeok
+INFO  09:09:54,633 - #34 ,
+INFO  09:09:54,633 - #42 2
+ERROR 09:09:54,633 - 
+Sintaksna greska na liniji 3
+INFO  09:09:54,634 - #17 +
+INFO  09:09:54,634 - #42 5
+INFO  09:09:54,634 - #34 ,
+INFO  09:09:54,634 - #44 'c'
+INFO  09:09:54,634 - #34 ,
+INFO  09:09:54,634 - #45 i
+INFO  09:09:54,634 - #33 ;
+INFO  09:09:54,634 - #45 Table
+ERROR 09:09:54,634 - Greska pri definiciji globalne promenljive na liniji 3
+INFO  09:09:54,635 - #45 val
+INFO  09:09:54,635 - #33 ;
+INFO  09:09:54,635 - #40 {
+INFO  09:09:54,635 - #11 void
+INFO  09:09:54,636 - #45 main
+INFO  09:09:54,636 - #36 (
+INFO  09:09:54,636 - #37 )
+INFO  09:09:54,637 - #40 {
+INFO  09:09:54,637 - #45 x
+INFO  09:09:54,637 - #31 ++
+INFO  09:09:54,638 - #33 ;
+INFO  09:09:54,638 - #41 }
+INFO  09:09:54,639 - #41 }
+INFO  09:09:54,640 - Zavrseno parsiranje 
+
+
+INFO  09:09:54,648 - Smena programName
+INFO  09:09:54,649 - Smena program 
+INFO  09:09:54,649 - Print calls = 0

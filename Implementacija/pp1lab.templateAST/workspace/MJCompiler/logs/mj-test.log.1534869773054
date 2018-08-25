@@ -1,0 +1,44 @@
+INFO  18:42:44,575 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  18:42:44,617 - #2 program
+INFO  18:42:44,617 - #45 test301
+INFO  18:42:44,617 - #45 int
+INFO  18:42:44,619 - #45 niza
+INFO  18:42:44,619 - #38 [
+INFO  18:42:44,619 - #39 ]
+INFO  18:42:44,619 - #34 ,
+INFO  18:42:44,620 - #45 nizb
+INFO  18:42:44,620 - #38 [
+INFO  18:42:44,621 - #39 ]
+INFO  18:42:44,621 - #34 ,
+INFO  18:42:44,621 - #45 nizc
+INFO  18:42:44,621 - #38 [
+INFO  18:42:44,621 - #39 ]
+INFO  18:42:44,621 - #33 ;
+INFO  18:42:44,622 - #45 char
+INFO  18:42:44,622 - #45 nizd
+INFO  18:42:44,622 - #38 [
+INFO  18:42:44,622 - #39 ]
+INFO  18:42:44,622 - #33 ;
+INFO  18:42:44,626 - #45 int
+INFO  18:42:44,626 - #45 a
+INFO  18:42:44,626 - #34 ,
+INFO  18:42:44,626 - #45 b
+INFO  18:42:44,627 - #33 ;
+INFO  18:42:44,627 - #40 {
+INFO  18:42:44,627 - #11 void
+INFO  18:42:44,627 - #45 main
+INFO  18:42:44,628 - #36 (
+INFO  18:42:44,628 - #37 )
+INFO  18:42:44,629 - #40 {
+INFO  18:42:44,629 - #45 nizc
+INFO  18:42:44,630 - #30 =
+INFO  18:42:44,631 - #45 niza
+INFO  18:42:44,632 - #19 *
+INFO  18:42:44,633 - #45 nizd
+INFO  18:42:44,633 - #33 ;
+INFO  18:42:44,634 - #41 }
+INFO  18:42:44,634 - #41 }
+INFO  18:42:44,635 - Zavrseno parsiranje 
+
+
+ERROR 18:42:44,645 - Greska na liniji 7: Faktor u izrazu nije tipa int ili su array ali ne ispunjavaju uslove da su oba istog tipa i da je operacija *

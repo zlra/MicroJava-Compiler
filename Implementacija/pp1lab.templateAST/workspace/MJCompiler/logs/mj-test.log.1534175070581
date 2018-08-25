@@ -1,0 +1,66 @@
+INFO  17:44:11,073 - Compiling source file: C:\Users\zlra\Desktop\Programski Prevodioci\Implementacija\pp1lab.templateAST\workspace\MJCompiler\test\program.mj
+INFO  17:44:11,113 - #2 program
+INFO  17:44:11,114 - #45 P
+INFO  17:44:11,114 - #16 const
+INFO  17:44:11,115 - #45 int
+INFO  17:44:11,115 - #45 ac
+INFO  17:44:11,115 - #30 =
+INFO  17:44:11,115 - #42 10
+INFO  17:44:11,116 - #33 ;
+INFO  17:44:11,116 - #45 int
+INFO  17:44:11,116 - #45 a
+INFO  17:44:11,116 - #33 ;
+INFO  17:44:11,118 - #45 bool
+INFO  17:44:11,118 - #45 b
+INFO  17:44:11,118 - #33 ;
+INFO  17:44:11,118 - #45 char
+INFO  17:44:11,118 - #45 c
+INFO  17:44:11,118 - #33 ;
+INFO  17:44:11,118 - #45 int
+INFO  17:44:11,118 - #45 niza
+INFO  17:44:11,119 - #38 [
+INFO  17:44:11,119 - #39 ]
+INFO  17:44:11,119 - #33 ;
+INFO  17:44:11,119 - #45 char
+INFO  17:44:11,119 - #45 nizb
+INFO  17:44:11,119 - #38 [
+INFO  17:44:11,119 - #39 ]
+INFO  17:44:11,119 - #33 ;
+INFO  17:44:11,120 - #45 bool
+INFO  17:44:11,120 - #45 nizc
+INFO  17:44:11,120 - #38 [
+INFO  17:44:11,120 - #39 ]
+INFO  17:44:11,120 - #33 ;
+INFO  17:44:11,120 - #40 {
+INFO  17:44:11,120 - #11 void
+INFO  17:44:11,120 - #45 funkcija1
+INFO  17:44:11,121 - #36 (
+INFO  17:44:11,121 - #37 )
+INFO  17:44:11,122 - #40 {
+INFO  17:44:11,122 - #41 }
+INFO  17:44:11,123 - #11 void
+INFO  17:44:11,123 - #45 main
+INFO  17:44:11,123 - #36 (
+INFO  17:44:11,123 - #37 )
+INFO  17:44:11,124 - #40 {
+INFO  17:44:11,124 - #45 a
+INFO  17:44:11,124 - #36 (
+INFO  17:44:11,124 - #37 )
+INFO  17:44:11,125 - #33 ;
+INFO  17:44:11,125 - #45 ac
+INFO  17:44:11,125 - #36 (
+INFO  17:44:11,125 - #37 )
+INFO  17:44:11,125 - #33 ;
+INFO  17:44:11,125 - #45 niza
+INFO  17:44:11,125 - #36 (
+INFO  17:44:11,126 - #37 )
+INFO  17:44:11,126 - #33 ;
+INFO  17:44:11,126 - #41 }
+INFO  17:44:11,126 - #41 }
+INFO  17:44:11,126 - Zavrseno parsiranje 
+
+
+ERROR 17:44:11,139 - Greska na liniji 18: Identifikator pri pozivu funkcije nije ime metode
+ERROR 17:44:11,139 - Greska na liniji 19: Identifikator pri pozivu funkcije nije ime metode
+ERROR 17:44:11,139 - Greska na liniji 20: Identifikator pri pozivu funkcije nije ime metode
+INFO  17:44:11,139 - Print calls = 0
